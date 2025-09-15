@@ -1,0 +1,9 @@
+{
+    "default_llm": "google_gemini",
+    "llm_providers": {
+        "google_gemini": {
+            "api_key": "${GOOGLE_GEMINI_API_KEY}",
+            "model_name": "gemini-2.5-flash"
+        }
+    }
+}

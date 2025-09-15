@@ -1,0 +1,52 @@
+# Dependencies for the legal discovery application
+beautifulsoup4
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
+eventlet
+flask
+Flask-Limiter
+flask-socketio
+flask-sqlalchemy
+google-genai>=1.0.0
+gTTS
+gunicorn
+langchain-google-genai
+more-itertools
+neo4j
+networkx==3.4.2
+neuro-san
+# Pin OpenAI to the minimum version supported by langchain-openai
+# and neuro-san to avoid resolution conflicts.
+openai==1.99.9
+opentelemetry-instrumentation-flask
+opentelemetry-sdk
+pandas
+Pillow
+prometheus-client>=0.20.0
+prometheus-flask-exporter
+psycopg2-binary
+pydantic
+pyhocon
+PyJWT
+PyMuPDF
+PyPDF2
+pytesseract
+python-docx
+python-pptx
+python-socketio
+pyttsx3
+pyvis==0.3.2
+pywinpty==2.0.13; platform_system == "Windows"
+qdrant-client==1.15.1  # Needed for trial_preparation module – Python client for Qdrant
+redis
+reportlab==4.4.3
+requests
+rfc3987
+rq
+schedule
+scikit-learn
+sentence-transformers
+spacy
+structlog
+tenacity==8.5.0
+transformers==4.45.2
+weasyprint

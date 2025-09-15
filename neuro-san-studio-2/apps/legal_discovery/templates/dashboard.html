@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Legal Discovery Dashboard</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- Futuristic font -->
+    <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Application styles -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='main.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/folder-tree.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <!-- Tailwind for rapid utility classes (optional) -->
+    <script src="https://cdn.tailwindcss.com?plugins=forms"></script>
+    <!-- Graph and timeline libraries -->
+    <script src="https://cdn.jsdelivr.net/npm/cytoscape@3.26.0/dist/cytoscape.min.js"></script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='vis-timeline/vis-timeline-graph2d.min.css') }}" />
+    <script src="{{ url_for('static', filename='vis-timeline/vis-timeline-graph2d.min.js') }}"></script>
+    <!-- React and Socket.IO -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js"></script>
+    <script type="module" src="{{ url_for('static', filename=bundle_js) }}" defer></script>
+</head>
+<body>
+    <nav>
+        <div class="text-lg font-semibold">Legal Discovery</div>
+        <div>
+            <a href="/"><i class="fa fa-home mr-1"></i>Home</a>
+            <a href="/dashboard"><i class="fa fa-chart-line mr-1"></i>Dashboard</a>
+            <a href="#" id="settings-btn"><i class="fa fa-cog"></i></a>
+        </div>
+    </nav>
+    <div class="main-container">
+        <div id="root"></div>
+    </div>
+
+    <!-- Modal for displaying citations and other embedded content -->
+    <div id="modal" onclick="this.style.display='none'" style="position: fixed; inset: 0; background: rgba(0,0,0,0.7); display:none; align-items:center; justify-content:center;">
+        <iframe style="width: 80vw; height: 80vh; background:#fff;"></iframe>
+    </div>
+</body>
+</html>

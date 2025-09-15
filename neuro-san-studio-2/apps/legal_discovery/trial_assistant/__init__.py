@@ -1,0 +1,93 @@
+from __future__ import annotations
+from flask import Blueprint
+from flask_socketio import emit, join_room
+import time
+from ..extensions import socketio
+from ..database import db, log_retrieval_trace
+from ..models import ObjectionEvent
+from ..models_trial import TranscriptSegment, TrialSession
+from .. import hippo
+from .services.objection_engine import engine
+
+bp = Blueprint("trial_assistant", __name__, url_prefix="/api/trial")
+
+
+@socketio.on("join", namespace="/ws/trial")
+def join(data):
+    sess = data.get("session_id")
+    if sess:
+        join_room(sess)
+
+
+@socketio.on("segment", namespace="/ws/trial")
+def handle_segment(data):
+    session_id = data.get("session_id")
+    text = data.get("text", "")
+    seg = TranscriptSegment(
+        session_id=session_id,
+        text=text,
+        t0_ms=data.get("t0_ms"),
+        t1_ms=data.get("t1_ms"),
+        speaker=data.get("speaker"),
+        confidence=data.get("confidence"),
+    )
+    db.session.add(seg)
+    db.session.commit()
+    emit(
+        "transcript_update",
+        {
+            "segment_id": seg.id,
+            "speaker": seg.speaker,
+            "text": seg.text,
+            "t0_ms": seg.t0_ms,
+            "t1_ms": seg.t1_ms,
+        },
+        room=session_id,
+    )
+    refs: list = []
+    trace_id = None
+    sess = db.session.get(TrialSession, session_id)
+    if sess:
+        try:
+            start = time.perf_counter()
+            result = hippo.hippo_query(sess.case_id, text, k=3)
+            elapsed_ms = (time.perf_counter() - start) * 1000
+            items = result.get("items", [])
+            trace_id = result.get("trace_id")
+            refs = [
+                {"segment_id": item.get("segment_id"), "path": item.get("path")}
+                for item in items
+            ]
+            timings = {"total_ms": round(elapsed_ms, 2)}
+            log_retrieval_trace(
+                trace_id=trace_id,
+                case_id=sess.case_id,
+                query=text,
+                graph_weight=1.0,
+                dense_weight=1.0,
+                timings=timings,
+                results=items,
+            )
+        except Exception:  # pragma: no cover - best effort
+            pass
+    events = engine.analyze_segment(
+        session_id,
+        seg,
+        trace_id=trace_id,
+        refs=refs,
+        path=refs[0]["path"] if refs else None,
+    )
+    for e in events:
+        emit(
+            "objection_event",
+            {
+                "event_id": e.id,
+                "segment_id": e.segment_id,
+                "ground": e.ground,
+                "confidence": e.confidence,
+                "suggested_cures": e.suggested_cures,
+                "refs": e.refs,
+                "trace_id": e.trace_id,
+            },
+            room=session_id,
+        )
