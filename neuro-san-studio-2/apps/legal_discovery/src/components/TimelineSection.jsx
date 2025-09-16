@@ -103,8 +103,9 @@ function TimelineSection() {
     return () => window.removeEventListener('timelineRefresh', handler);
   });
   return (
-    <section className="card">
+    <section className="card glass floaty">
       <h2>Timeline</h2>
+      <div className="animated-border mb-2" />
       <textarea rows="2" className="w-full mb-3 p-2 rounded" value={query} onChange={e=>setQuery(e.target.value)} placeholder="Request events…"></textarea>
       <div className="flex gap-2 mb-2">
         <input type="date" value={startDate} onChange={e=>setStartDate(e.target.value)} className="p-1 rounded" />
