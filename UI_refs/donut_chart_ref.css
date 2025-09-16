@@ -1,0 +1,2897 @@
+/* Donut Chart */
+
+position: relative;
+width: 1315px;
+height: 2608px;
+
+background: #0F0F0F;
+
+
+/* Group 17 */
+
+position: absolute;
+width: 1172px;
+height: 113px;
+left: 70px;
+bottom: 84px;
+
+
+
+/* Email: ashishsauparna@gmail.com */
+
+position: absolute;
+width: 248px;
+height: 19px;
+left: 70px;
+bottom: 84px;
+
+font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 19px;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+color: #FCFCFC;
+
+
+
+/* ashishsauparna.in */
+
+position: absolute;
+width: 131px;
+height: 19px;
+left: 70px;
+bottom: 112px;
+
+font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 19px;
+text-decoration-line: underline;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+color: #FCFCFC;
+
+
+
+/* Designed by: Ashish Sharma */
+
+position: absolute;
+width: 204px;
+height: 19px;
+left: 70px;
+bottom: 141px;
+
+font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 19px;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+color: #FCFCFC;
+
+
+
+/* line */
+
+position: absolute;
+width: 1172px;
+height: 0px;
+left: 70px;
+bottom: 197px;
+
+opacity: 0.2;
+border: 1px solid #FCFCFC;
+
+
+/* line */
+
+position: absolute;
+height: 0px;
+left: 70px;
+right: 70px;
+top: 190px;
+
+opacity: 0.2;
+border: 1px solid #FCFCFC;
+
+
+/* Last Update: 28 June, 2023 */
+
+position: absolute;
+width: 198px;
+height: 19px;
+right: 70px;
+top: 114px;
+
+font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 19px;
+text-align: right;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+color: #FCFCFC;
+
+
+
+/* Elements: 14 */
+
+position: absolute;
+width: 90px;
+height: 19px;
+right: 70px;
+top: 74px;
+
+font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 19px;
+text-align: right;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+color: #C8CFDA;
+
+
+
+/* Data Visualization */
+
+position: absolute;
+width: 129px;
+height: 19px;
+left: 70px;
+top: 114px;
+
+font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 19px;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+color: #C8CFDA;
+
+
+
+/* Donut Chart */
+
+position: absolute;
+width: 189px;
+height: 40px;
+left: 70px;
+top: 59px;
+
+font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 40px;
+/* identical to box height, or 125% */
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+color: #FCFCFC;
+
+
+
+/* Frame 67 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+align-items: flex-start;
+align-content: flex-start;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+width: 1214px;
+height: 1660px;
+left: 70px;
+top: 264px;
+
+
+
+/* Frame 13 */
+
+width: 461px;
+height: 544px;
+
+background: #212123;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Internet Speed */
+
+position: absolute;
+width: 190px;
+height: 34px;
+left: 32px;
+top: 31px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 34px;
+/* identical to box height */
+
+color: #FCFCFC;
+
+
+
+/* Group 12 */
+
+position: absolute;
+width: 273px;
+height: 273px;
+left: calc(50% - 273px/2 - 9px);
+top: 101px;
+
+
+
+/* Group 1 */
+
+position: absolute;
+width: 273px;
+height: 273px;
+left: 85px;
+top: 101px;
+
+
+
+/* Ellipse 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 273px;
+height: 273px;
+left: calc(50% - 273px/2 - 9px);
+top: 101px;
+
+border: 61.201px solid #2268D1;
+
+
+/* Ellipse 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 273px;
+height: 273px;
+left: calc(50% - 273px/2 - 9px);
+top: 101px;
+
+border: 61.201px solid #C8CFDA;
+
+
+/* mbps */
+
+position: absolute;
+width: 48px;
+height: 22px;
+left: calc(50% - 48px/2 - 9.98px);
+top: 253px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18.3603px;
+line-height: 22px;
+/* identical to box height */
+text-align: center;
+
+color: #FCFCFC;
+
+opacity: 0.45;
+
+
+/* 634.45 */
+
+position: absolute;
+width: 122px;
+height: 43px;
+left: calc(50% - 122px/2 - 8.88px);
+top: 211px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 43px;
+text-align: center;
+
+color: #FCFCFC;
+
+
+
+/* more_horiz */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 389px;
+top: 30px;
+
+
+
+/* Bounding box */
+
+position: absolute;
+width: 36px;
+height: 36px;
+right: 36px;
+top: 30px;
+
+background: #D9D9D9;
+
+
+/* more_horiz */
+
+position: absolute;
+width: 24px;
+height: 6px;
+right: 42px;
+top: 45px;
+
+background: #FCFCFC;
+
+
+/* Frame 47 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+position: absolute;
+width: 154px;
+height: 122px;
+left: 32px;
+top: 390px;
+
+
+
+/* Download */
+
+width: 129px;
+height: 34px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 28px;
+line-height: 34px;
+/* identical to box height */
+
+color: #FCFCFC;
+
+opacity: 0.45;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 49 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-end;
+padding: 0px;
+gap: 8px;
+
+width: 154px;
+height: 43px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* 346.2 */
+
+width: 98px;
+height: 43px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 43px;
+
+color: #FCFCFC;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* mbps */
+
+width: 48px;
+height: 30px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18.3603px;
+line-height: 30px;
+/* identical to box height */
+text-align: center;
+
+color: #FCFCFC;
+
+opacity: 0.45;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 43 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 77px;
+height: 29px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Group 10 */
+
+width: 28px;
+height: 28px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 16 */
+
+position: absolute;
+width: 28px;
+height: 28px;
+left: 0px;
+top: 0px;
+
+background: #14A166;
+opacity: 0.25;
+
+
+/* arrow_upward_alt */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 2px;
+top: 2px;
+
+
+
+/* Bounding box */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 2px;
+top: 2px;
+
+background: #22D188;
+
+
+/* arrow_upward_alt */
+
+position: absolute;
+left: 10.39%;
+right: 74.03%;
+top: 24.14%;
+bottom: 31.03%;
+
+background: #14A166;
+
+
+/* 12% */
+
+width: 41px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #14A166;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 48 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+position: absolute;
+width: 144px;
+height: 122px;
+left: 280px;
+top: 390px;
+
+
+
+/* Upload */
+
+width: 92px;
+height: 34px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 28px;
+line-height: 34px;
+/* identical to box height */
+
+color: #FCFCFC;
+
+opacity: 0.45;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 49 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-end;
+padding: 0px;
+gap: 8px;
+
+width: 144px;
+height: 43px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* 194.2 */
+
+width: 88px;
+height: 43px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 43px;
+
+color: #FCFCFC;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* mbps */
+
+width: 48px;
+height: 30px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18.3603px;
+line-height: 30px;
+/* identical to box height */
+text-align: center;
+
+color: #FCFCFC;
+
+opacity: 0.45;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 44 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 70px;
+height: 29px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Group 10 */
+
+width: 28px;
+height: 28px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 16 */
+
+position: absolute;
+width: 28px;
+height: 28px;
+left: 0px;
+top: 0px;
+
+background: #F82B2B;
+opacity: 0.25;
+
+
+/* arrow_upward_alt */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 2px;
+top: 2px;
+
+transform: rotate(180deg);
+
+
+/* Bounding box */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 2px;
+top: 2px;
+
+background: #22D188;
+transform: rotate(180deg);
+
+
+/* arrow_upward_alt */
+
+position: absolute;
+left: 11.43%;
+right: 71.43%;
+top: 27.59%;
+bottom: 27.59%;
+
+background: #F82B2B;
+transform: rotate(180deg);
+
+
+/* 8% */
+
+width: 34px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #F82B2B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 11 */
+
+width: 687px;
+height: 544px;
+
+background: #212123;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Referral Traffic */
+
+position: absolute;
+width: 189px;
+height: 34px;
+left: 32px;
+top: 31px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 34px;
+/* identical to box height */
+
+color: #FCFCFC;
+
+
+
+/* Average traffic that varies between countries */
+
+position: absolute;
+width: 581px;
+height: 34px;
+left: 32px;
+top: 73px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 34px;
+/* identical to box height */
+
+color: #FCFCFC;
+
+opacity: 0.45;
+
+
+/* more_horiz */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 615px;
+top: 30px;
+
+
+
+/* Bounding box */
+
+position: absolute;
+width: 36px;
+height: 36px;
+right: 36px;
+top: 30px;
+
+background: #D9D9D9;
+
+
+/* more_horiz */
+
+position: absolute;
+width: 24px;
+height: 6px;
+right: 42px;
+top: 45px;
+
+background: #FCFCFC;
+
+
+/* Group 1 */
+
+position: absolute;
+width: 242px;
+height: 242px;
+left: 53px;
+top: 148px;
+
+
+
+/* Ellipse 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 242px;
+height: 242px;
+left: 53px;
+top: calc(50% - 242px/2 - 3px);
+
+border: 61.201px solid #2268D1;
+
+
+/* Ellipse 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 242px;
+height: 242px;
+left: 53px;
+top: calc(50% - 242px/2 - 3px);
+
+border: 61.201px solid #7A8CA6;
+
+
+/* Ellipse 4 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 242px;
+height: 242px;
+left: 53px;
+top: calc(50% - 242px/2 - 3px);
+
+border: 61.201px solid #ACB6C6;
+
+
+/* Ellipse 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 242px;
+height: 242px;
+left: 53px;
+top: calc(50% - 242px/2 - 3px);
+
+border: 61.201px solid #C8CFDA;
+
+
+/* Group 2 */
+
+position: absolute;
+width: 242px;
+height: 242px;
+left: 361px;
+top: 148px;
+
+
+
+/* Ellipse 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 242px;
+height: 242px;
+left: 361px;
+top: calc(50% - 242px/2 - 3px);
+
+border: 61.201px solid #2268D1;
+
+
+/* Ellipse 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 242px;
+height: 242px;
+left: 361px;
+top: calc(50% - 242px/2 - 3px);
+
+border: 61.201px solid #7A8CA6;
+
+
+/* Ellipse 4 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 242px;
+height: 242px;
+left: 361px;
+top: calc(50% - 242px/2 - 3px);
+
+border: 61.201px solid #ACB6C6;
+
+
+/* Ellipse 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 242px;
+height: 242px;
+left: 361px;
+top: calc(50% - 242px/2 - 3px);
+
+border: 61.201px solid #C8CFDA;
+
+
+/* India */
+
+position: absolute;
+width: 62px;
+height: 33px;
+left: 142px;
+top: 252px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 27.5405px;
+line-height: 33px;
+/* identical to box height */
+text-align: center;
+
+color: #FCFCFC;
+
+
+
+/* USA */
+
+position: absolute;
+width: 55px;
+height: 33px;
+left: 454px;
+top: 252px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 27.5405px;
+line-height: 33px;
+/* identical to box height */
+text-align: center;
+
+color: #FCFCFC;
+
+
+
+/* Frame 6 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+align-items: flex-start;
+align-content: flex-start;
+padding: 0px;
+gap: 16px;
+
+position: absolute;
+width: 619px;
+height: 74px;
+left: 32px;
+top: 438px;
+
+
+
+/* Frame 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 164px;
+height: 29px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 3 */
+
+width: 16px;
+height: 16px;
+
+background: #2268D1;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Google 35% */
+
+width: 136px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FCFCFC;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 190px;
+height: 29px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Ellipse 4 */
+
+width: 16px;
+height: 16px;
+
+background: #7A8CA6;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Facebook 25% */
+
+width: 162px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FCFCFC;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 161px;
+height: 29px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Ellipse 4 */
+
+width: 16px;
+height: 16px;
+
+background: #ACB6C6;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Twitter 20% */
+
+width: 133px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FCFCFC;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 4 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 193px;
+height: 29px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Ellipse 4 */
+
+width: 16px;
+height: 16px;
+
+background: #C8CFDA;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Instagram 20% */
+
+width: 165px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FCFCFC;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 9 */
+
+width: 461px;
+height: 459px;
+
+background: #212123;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Confidence in Prediction */
+
+position: absolute;
+width: 321px;
+height: 34px;
+left: 32px;
+top: 31px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 34px;
+/* identical to box height */
+
+color: #FCFCFC;
+
+
+
+/* Frame 16 */
+
+position: absolute;
+width: 402px;
+height: 201px;
+left: calc(50% - 402px/2 - 0.5px);
+top: 210px;
+
+
+
+/* Ellipse 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 402px;
+height: 402px;
+left: calc(50% - 402px/2 - 0px);
+top: 0px;
+
+border: 70.2183px solid #C8CFDA;
+transform: rotate(180deg);
+
+
+/* Ellipse 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 402px;
+height: 402px;
+left: calc(50% - 402px/2 - 0px);
+top: 0px;
+
+border: 70.2183px solid #2268D1;
+transform: rotate(180deg);
+
+
+/* 83% */
+
+position: absolute;
+width: 107px;
+height: 64px;
+left: calc(50% - 107px/2 + 0.1px);
+top: 129.03px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 53.4022px;
+line-height: 64px;
+/* identical to box height */
+text-align: center;
+
+color: #FCFCFC;
+
+
+
+/* more_horiz */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 389px;
+top: 30px;
+
+
+
+/* Bounding box */
+
+position: absolute;
+width: 36px;
+height: 36px;
+right: 36px;
+top: 30px;
+
+background: #D9D9D9;
+
+
+/* more_horiz */
+
+position: absolute;
+width: 24px;
+height: 6px;
+right: 42px;
+top: 45px;
+
+background: #FCFCFC;
+
+
+/* Frame 10 */
+
+width: 687px;
+height: 459px;
+
+background: #212123;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Referral Traffic */
+
+position: absolute;
+width: 189px;
+height: 34px;
+left: 32px;
+top: 31px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 34px;
+/* identical to box height */
+
+color: #FCFCFC;
+
+
+
+/* Frame 46 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 66px;
+
+position: absolute;
+width: 532.11px;
+height: 273.11px;
+left: 56px;
+top: 143px;
+
+
+
+/* Group 1 */
+
+width: 273.11px;
+height: 273.11px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 273.11px;
+height: 273.11px;
+left: 0px;
+top: calc(50% - 273.11px/2);
+
+border: 61.201px solid #2268D1;
+
+
+/* Ellipse 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 273.11px;
+height: 273.11px;
+left: 0px;
+top: calc(50% - 273.11px/2);
+
+border: 61.201px solid #7A8CA6;
+
+
+/* Ellipse 4 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 273.11px;
+height: 273.11px;
+left: 0px;
+top: calc(50% - 273.11px/2);
+
+border: 61.201px solid #ACB6C6;
+
+
+/* Ellipse 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 273.11px;
+height: 273.11px;
+left: 0px;
+top: calc(50% - 273.11px/2);
+
+border: 61.201px solid #C8CFDA;
+
+
+/* Frame 6 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 193px;
+height: 164px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 164px;
+height: 29px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 3 */
+
+width: 16px;
+height: 16px;
+
+background: #2268D1;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Google 35% */
+
+width: 136px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FCFCFC;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 190px;
+height: 29px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Ellipse 4 */
+
+width: 16px;
+height: 16px;
+
+background: #7A8CA6;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Facebook 25% */
+
+width: 162px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FCFCFC;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 161px;
+height: 29px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Ellipse 4 */
+
+width: 16px;
+height: 16px;
+
+background: #ACB6C6;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Twitter 20% */
+
+width: 133px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FCFCFC;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 4 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 193px;
+height: 29px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Ellipse 4 */
+
+width: 16px;
+height: 16px;
+
+background: #C8CFDA;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Instagram 20% */
+
+width: 165px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FCFCFC;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Total Visitors */
+
+position: absolute;
+width: 111px;
+height: 22px;
+left: 136.52px;
+top: 299px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18.3603px;
+line-height: 22px;
+/* identical to box height */
+text-align: center;
+
+color: #FCFCFC;
+
+opacity: 0.45;
+
+
+/* 40,45,893 */
+
+position: absolute;
+width: 159px;
+height: 38px;
+left: 113.62px;
+top: 253px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 38px;
+text-align: center;
+
+color: #FCFCFC;
+
+
+
+/* more_horiz */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 615px;
+top: 30px;
+
+
+
+/* Bounding box */
+
+position: absolute;
+width: 36px;
+height: 36px;
+right: 36px;
+top: 30px;
+
+background: #D9D9D9;
+
+
+/* more_horiz */
+
+position: absolute;
+width: 24px;
+height: 6px;
+right: 42px;
+top: 45px;
+
+background: #FCFCFC;
+
+
+/* Frame 16 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: flex-start;
+padding: 4px;
+gap: 4px;
+
+position: absolute;
+width: 166px;
+height: 45px;
+right: 36px;
+top: 82px;
+
+background: #E4E5E8;
+border-radius: 4px;
+
+
+/* Frame 21 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 4px 12px;
+gap: 10px;
+
+width: 87px;
+height: 37px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Week */
+
+width: 63px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #212123;
+
+opacity: 0.45;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 23 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 4px 12px;
+gap: 10px;
+
+width: 67px;
+height: 37px;
+
+background: #212123;
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Day */
+
+width: 43px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FCFCFC;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 4 */
+
+width: 461px;
+height: 609px;
+
+background: #212123;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Device type */
+
+position: absolute;
+width: 156px;
+height: 34px;
+left: 32px;
+top: 31px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 34px;
+/* identical to box height */
+
+color: #FCFCFC;
+
+
+
+/* Frame 6 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 40px;
+
+position: absolute;
+width: 377px;
+height: 29px;
+left: 32px;
+bottom: 32px;
+
+
+
+/* Frame 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 160px;
+height: 29px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 4 */
+
+width: 16px;
+height: 16px;
+
+background: #2268D1;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Mobile 73% */
+
+width: 129px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FCFCFC;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 177px;
+height: 29px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Ellipse 3 */
+
+width: 16px;
+height: 16px;
+
+background: #ACB6C6;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Desktop 27% */
+
+width: 146px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FCFCFC;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Group 14 */
+
+position: absolute;
+width: 357px;
+height: 357px;
+left: calc(50% - 357px/2);
+top: 123px;
+
+
+
+/* Group 1 */
+
+position: absolute;
+width: 357px;
+height: 357px;
+left: calc(50% - 357px/2);
+top: calc(50% - 357px/2 - 3px);
+
+
+
+/* Ellipse 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 357px;
+height: 357px;
+left: 52px;
+top: calc(50% - 357px/2 - 3px);
+
+border: 80px solid #2268D1;
+
+
+/* Ellipse 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 357px;
+height: 357px;
+left: 52px;
+top: calc(50% - 357px/2 - 3px);
+
+border: 80px solid #ACB6C6;
+
+
+/* Group 13 */
+
+position: absolute;
+width: 195px;
+height: 85px;
+left: 133px;
+top: 272px;
+
+
+
+/* Total */
+
+position: absolute;
+width: 54px;
+height: 29px;
+left: 203px;
+top: 328px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-align: center;
+
+color: #FCFCFC;
+
+opacity: 0.45;
+
+
+/* 23,45,893 */
+
+position: absolute;
+width: 195px;
+height: 48px;
+left: 133px;
+top: 272px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 48px;
+/* identical to box height */
+text-align: center;
+
+color: #FCFCFC;
+
+
+
+/* more_horiz */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 389px;
+top: 30px;
+
+
+
+/* Bounding box */
+
+position: absolute;
+width: 36px;
+height: 36px;
+right: 36px;
+top: 30px;
+
+background: #D9D9D9;
+
+
+/* more_horiz */
+
+position: absolute;
+width: 24px;
+height: 6px;
+right: 42px;
+top: 45px;
+
+background: #FCFCFC;
+
+
+/* Frame 12 */
+
+width: 687px;
+height: 609px;
+
+background: #212123;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Spending Plan */
+
+position: absolute;
+width: 185px;
+height: 34px;
+left: 32px;
+top: 31px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 34px;
+/* identical to box height */
+
+color: #FCFCFC;
+
+
+
+/* Group 11 */
+
+position: absolute;
+width: 528px;
+height: 273px;
+left: 32px;
+top: 304px;
+
+
+
+/* Frame 46 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 66px;
+
+position: absolute;
+width: 528px;
+height: 273px;
+left: 32px;
+top: 304px;
+
+
+
+/* Group 1 */
+
+width: 273px;
+height: 273px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 273px;
+height: 273px;
+left: 0px;
+top: calc(50% - 273px/2);
+
+border: 61.201px solid #2268D1;
+
+
+/* Ellipse 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 273px;
+height: 273px;
+left: 0px;
+top: calc(50% - 273px/2);
+
+border: 61.201px solid #7A8CA6;
+
+
+/* Ellipse 4 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 273px;
+height: 273px;
+left: 0px;
+top: calc(50% - 273px/2);
+
+border: 61.201px solid #ACB6C6;
+
+
+/* Ellipse 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 273px;
+height: 273px;
+left: 0px;
+top: calc(50% - 273px/2);
+
+border: 61.201px solid #C8CFDA;
+
+
+/* Frame 6 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 189px;
+height: 164px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 119px;
+height: 29px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 3 */
+
+width: 16px;
+height: 16px;
+
+background: #2268D1;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Housing */
+
+width: 91px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FCFCFC;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 69px;
+height: 29px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Ellipse 4 */
+
+width: 16px;
+height: 16px;
+
+background: #7A8CA6;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Life */
+
+width: 41px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FCFCFC;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 189px;
+height: 29px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Ellipse 4 */
+
+width: 16px;
+height: 16px;
+
+background: #ACB6C6;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Transportation */
+
+width: 161px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FCFCFC;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 4 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 82px;
+height: 29px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Ellipse 4 */
+
+width: 16px;
+height: 16px;
+
+background: #C8CFDA;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Debt */
+
+width: 54px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FCFCFC;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Spending */
+
+position: absolute;
+width: 80px;
+height: 22px;
+left: 127.52px;
+top: 466px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18.3603px;
+line-height: 22px;
+/* identical to box height */
+text-align: center;
+
+color: #FCFCFC;
+
+opacity: 0.45;
+
+
+/* $ 3,567 */
+
+position: absolute;
+width: 141px;
+height: 48px;
+left: 98.62px;
+top: 410px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 48px;
+/* identical to box height */
+text-align: center;
+
+color: #FCFCFC;
+
+
+
+/* more_horiz */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 615px;
+top: 30px;
+
+
+
+/* Bounding box */
+
+position: absolute;
+width: 36px;
+height: 36px;
+right: 36px;
+top: 30px;
+
+background: #D9D9D9;
+
+
+/* more_horiz */
+
+position: absolute;
+width: 24px;
+height: 6px;
+right: 42px;
+top: 45px;
+
+background: #FCFCFC;
+
+
+/* Frame 47 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+position: absolute;
+width: 141px;
+height: 127px;
+left: 32px;
+top: 105px;
+
+
+
+/* Income */
+
+width: 96px;
+height: 34px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 34px;
+/* identical to box height */
+
+color: #FCFCFC;
+
+opacity: 0.45;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* $ 3,567 */
+
+width: 141px;
+height: 48px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 48px;
+/* identical to box height */
+
+color: #FCFCFC;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 43 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 113px;
+height: 29px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Group 10 */
+
+width: 28px;
+height: 28px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 16 */
+
+position: absolute;
+width: 28px;
+height: 28px;
+left: 0px;
+top: 0px;
+
+background: #14A166;
+opacity: 0.25;
+
+
+/* arrow_upward_alt */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 2px;
+top: 2px;
+
+
+
+/* Bounding box */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 2px;
+top: 2px;
+
+background: #22D188;
+
+
+/* arrow_upward_alt */
+
+position: absolute;
+left: 7.08%;
+right: 82.3%;
+top: 24.14%;
+bottom: 31.03%;
+
+background: #14A166;
+
+
+/* 18.56% */
+
+width: 77px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #14A166;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 48 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+position: absolute;
+width: 141px;
+height: 127px;
+left: 395px;
+top: 105px;
+
+
+
+/* Spending */
+
+width: 122px;
+height: 34px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 34px;
+/* identical to box height */
+
+color: #FCFCFC;
+
+opacity: 0.45;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* $ 3,567 */
+
+width: 141px;
+height: 48px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 48px;
+/* identical to box height */
+
+color: #FCFCFC;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 44 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 112px;
+height: 29px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Group 10 */
+
+width: 28px;
+height: 28px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 16 */
+
+position: absolute;
+width: 28px;
+height: 28px;
+left: 0px;
+top: 0px;
+
+background: #F82B2B;
+opacity: 0.25;
+
+
+/* arrow_upward_alt */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 2px;
+top: 2px;
+
+transform: rotate(180deg);
+
+
+/* Bounding box */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 2px;
+top: 2px;
+
+background: #22D188;
+transform: rotate(180deg);
+
+
+/* arrow_upward_alt */
+
+position: absolute;
+left: 7.14%;
+right: 82.14%;
+top: 27.59%;
+bottom: 27.59%;
+
+background: #F82B2B;
+transform: rotate(180deg);
+
+
+/* 12.23% */
+
+width: 76px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #F82B2B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;

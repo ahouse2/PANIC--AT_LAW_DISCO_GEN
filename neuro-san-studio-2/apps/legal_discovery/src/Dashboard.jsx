@@ -32,10 +32,12 @@ const ExhibitTab = React.lazy(()=>import('./components/ExhibitTab'));
 const DepositionPrepSection = React.lazy(()=>import('./components/DepositionPrepSection'));
 const OppositionTrackerSection = React.lazy(()=>import('./components/OppositionTrackerSection'));
 const ChainLogSection = React.lazy(()=>import('./components/ChainLogSection'));
+const CommandCenter = React.lazy(()=>import('./components/CommandCenter'));
 
 const TABS = [
   {id:'network', label:'Agent Network', icon:'fa-sitemap', Component: AgentNetworkSection},
   {id:'overview', label:'Overview', icon:'fa-home', Component: OverviewSection},
+  {id:'command', label:'Command Center', icon:'fa-bolt', Component: CommandCenter},
   {id:'chat', label:'Orchestrator', icon:'fa-comments', Component: ChatSection},
   {id:'pipeline', label:'Team Pipeline', icon:'fa-route', Component: PipelineSection},
   {id:'stats', label:'Stats', icon:'fa-chart-bar', Component: StatsSection},

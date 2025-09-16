@@ -1,0 +1,15014 @@
+/* TemplateGUI - 03.Industry */
+
+position: relative;
+width: 1920px;
+height: 1080px;
+
+/* Effect/Halo_2 */
+filter: drop-shadow(0px 0px 30px rgba(24, 254, 254, 0.2));
+
+
+/* Industry_KV 2 */
+
+position: absolute;
+width: 1952px;
+height: 1120px;
+left: 1px;
+top: -23px;
+
+background: url(Industry_KV);
+
+
+/* Group 179 */
+
+position: absolute;
+width: 19.58px;
+height: 947px;
+left: 10px;
+top: 112px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 1.2%;
+right: 98.8%;
+top: 10.37%;
+bottom: 2.13%;
+
+border: 1px solid rgba(255, 255, 255, 0.2);
+
+
+/* Vector */
+
+position: absolute;
+left: 0.86%;
+right: 98.46%;
+top: 10.37%;
+bottom: 89.44%;
+
+background: #7E7E7E;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.86%;
+right: 98.46%;
+top: 97.87%;
+bottom: 1.94%;
+
+background: #7E7E7E;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.52%;
+right: 99.48%;
+top: 11.2%;
+bottom: 3.15%;
+
+opacity: 0.6;
+border: 4px dashed rgba(255, 255, 255, 0.2);
+
+
+/* Vector */
+
+position: absolute;
+left: 1.2%;
+right: 98.8%;
+top: 10.56%;
+bottom: 87.59%;
+
+border: 2px solid #7E7E7E;
+
+
+/* Vector */
+
+position: absolute;
+left: 1.2%;
+right: 98.8%;
+top: 96.11%;
+bottom: 2.04%;
+
+border: 2px solid #7E7E7E;
+
+
+/* Group 180 */
+
+position: absolute;
+width: 19.58px;
+height: 947px;
+left: 1890px;
+top: 112px;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 98.78%;
+right: 1.22%;
+top: 10.37%;
+bottom: 2.13%;
+
+border: 1px solid rgba(255, 255, 255, 0.2);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 98.44%;
+right: 0.89%;
+top: 10.37%;
+bottom: 89.44%;
+
+background: #7E7E7E;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 98.44%;
+right: 0.89%;
+top: 97.87%;
+bottom: 1.94%;
+
+background: #7E7E7E;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 99.46%;
+right: 0.54%;
+top: 11.2%;
+bottom: 3.15%;
+
+opacity: 0.6;
+border: 4px dashed rgba(255, 255, 255, 0.2);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 98.78%;
+right: 1.22%;
+top: 10.56%;
+bottom: 87.59%;
+
+border: 2px solid #7E7E7E;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 98.78%;
+right: 1.22%;
+top: 96.11%;
+bottom: 2.04%;
+
+border: 2px solid #7E7E7E;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* NAV */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 36px 24px;
+gap: 10px;
+
+position: absolute;
+width: 1919px;
+height: 97px;
+left: 1px;
+top: 0px;
+
+
+
+/* LOGO-title */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+gap: 16px;
+
+width: 393.91px;
+height: 54.21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame */
+
+width: 54px;
+height: 54px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.48%;
+right: 0.56%;
+top: 0.52%;
+bottom: 0.52%;
+
+background: rgba(64, 221, 255, 0.41);
+
+
+/* Vector */
+
+position: absolute;
+left: 0.48%;
+right: 0.56%;
+top: 0.52%;
+bottom: 0.52%;
+
+background: rgba(64, 221, 255, 0.41);
+
+
+/* Vector */
+
+position: absolute;
+left: 8.94%;
+right: 9.02%;
+top: 8.97%;
+bottom: 8.97%;
+
+background: #0AF0FF;
+box-shadow: 0px 0px 4px #4AF4FF;
+
+
+/* Vector */
+
+position: absolute;
+left: 39.12%;
+right: 39.21%;
+top: 38.68%;
+bottom: 39.65%;
+
+background: #0AF0FF;
+box-shadow: 0px 0px 4px #1BF1FF;
+
+
+/* Group 1 */
+
+width: 307.91px;
+height: 54.21px;
+
+filter: drop-shadow(0px 0px 24px rgba(255, 255, 255, 0.58));
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* logo */
+
+position: absolute;
+width: 195px;
+height: 30px;
+left: 78px;
+top: 0.58px;
+
+
+
+/* SAMRT */
+
+position: absolute;
+width: 195px;
+height: 30px;
+left: 78px;
+top: 0.58px;
+
+background: #FFFFFF;
+
+
+/* SDV UI-Kit INDUSTRY DATA CONTROL SYSTEM */
+
+position: absolute;
+width: 307px;
+height: 19px;
+left: 78.91px;
+top: 35.21px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 19px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: rgba(255, 255, 255, 0.6);
+
+
+
+/* Group 3 */
+
+position: absolute;
+width: 75.86px;
+height: 31.24px;
+left: 286.26px;
+top: 0px;
+
+
+
+/* Rectangle 12 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 75.86px;
+height: 31.24px;
+left: 286.26px;
+top: 0px;
+
+border: 1px solid rgba(255, 255, 255, 0.5);
+border-radius: 5px;
+
+
+/* Beta */
+
+position: absolute;
+width: 45.71px;
+height: 14.68px;
+left: 301.36px;
+top: 8.13px;
+
+background: #FFFFFF;
+
+
+/* Frame 137 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px 40px;
+gap: 87px;
+
+width: 1192.09px;
+height: 57px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Frame 50 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 32px;
+
+margin: 0 auto;
+width: 635px;
+height: 57px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 136 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px;
+gap: 10px;
+
+width: 107px;
+height: 57px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* [ ホーム ] */
+
+width: 75px;
+height: 25px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 25px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+text-shadow: 0px 0px 4px rgba(255, 255, 255, 0.5);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 137 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px;
+gap: 10px;
+
+width: 144px;
+height: 57px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* 機能ページ-2 */
+
+width: 112px;
+height: 25px;
+
+font-family: 'PingFang SC';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 25px;
+
+color: rgba(255, 255, 255, 0.7);
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 138 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px;
+gap: 10px;
+
+width: 144px;
+height: 57px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* 機能ページ-3 */
+
+width: 112px;
+height: 25px;
+
+font-family: 'PingFang SC';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 25px;
+
+color: rgba(255, 255, 255, 0.7);
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 139 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px;
+gap: 10px;
+
+width: 144px;
+height: 57px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* 機能ページ-4 */
+
+width: 112px;
+height: 25px;
+
+font-family: 'PingFang SC';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 25px;
+
+color: rgba(255, 255, 255, 0.7);
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 136 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+margin: 0 auto;
+width: 362px;
+height: 57px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 136 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 183px;
+height: 37px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 50 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 183px;
+height: 37px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Misc/circuit-board */
+
+width: 37px;
+height: 37px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Octicons / circuit-board */
+
+position: absolute;
+visibility: hidden;
+left: 6.25%;
+right: 6.25%;
+top: 6.25%;
+bottom: 6.25%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.25%;
+right: 6.25%;
+top: 6.25%;
+bottom: 6.25%;
+
+background: #06F7A1;
+
+
+/* Frame 136 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 138px;
+height: 36px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Edition Information */
+
+width: 138px;
+height: 19px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 19px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* V0.04 14/08 */
+
+width: 71px;
+height: 17px;
+
+font-family: 'PingFang SC';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 17px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 52 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 1px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Rectangle 86 */
+
+width: 1px;
+height: 24px;
+
+background: #C4C4C4;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 136 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 130px;
+height: 36px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 51 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 130px;
+height: 36px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 136 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 130px;
+height: 36px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Componentisation */
+
+width: 130px;
+height: 19px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 19px;
+/* identical to box height */
+
+color: rgba(255, 255, 255, 0.7);
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Next Release */
+
+width: 73px;
+height: 17px;
+
+font-family: 'PingFang SC';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 17px;
+/* identical to box height */
+
+color: rgba(255, 255, 255, 0.7);
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 136 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 15px;
+
+width: 265px;
+height: 46px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Weather */
+
+width: 56px;
+height: 46px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* small-rain */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* 图层 6 3 */
+
+position: absolute;
+left: 15.3%;
+right: 20.06%;
+top: 58.63%;
+bottom: 0%;
+
+opacity: 0.58;
+
+
+/* image 3 */
+
+position: absolute;
+left: 15.3%;
+right: 20.06%;
+top: 58.63%;
+bottom: 0%;
+
+background: url(image 3.png);
+
+
+/* image 4 */
+
+position: absolute;
+left: 15.3%;
+right: 20.06%;
+top: 58.63%;
+bottom: 0%;
+
+background: url(image 3.png);
+
+
+/* 云 拷贝 4 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 16.59%;
+
+
+
+/* image */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 16.59%;
+
+background: url(Image.png);
+
+
+/* Temp */
+
+width: 54px;
+height: 46px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* 32 */
+
+position: absolute;
+left: 3.41%;
+right: 27.84%;
+top: 7.39%;
+bottom: 50%;
+
+background: #FFFFFF;
+
+
+/* ℃ */
+
+position: absolute;
+left: 75.93%;
+right: 0%;
+top: 0%;
+bottom: 56.52%;
+
+font-family: 'PingFang SC';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* PM 2.0 */
+
+position: absolute;
+left: 0%;
+right: 25.93%;
+top: 63.04%;
+bottom: 0%;
+
+font-family: 'PingFang SC';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 17px;
+/* identical to box height */
+
+color: #B3B5B7;
+
+
+
+/* Rectangle 72 */
+
+position: absolute;
+width: 38px;
+height: 1px;
+left: 1px;
+top: 29px;
+
+background: rgba(255, 255, 255, 0.3);
+
+
+/* Frame 128 */
+
+width: 125px;
+height: 41px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* 09:01:00 */
+
+position: absolute;
+width: 121.13px;
+height: 21.04px;
+left: 1.4px;
+top: 0px;
+
+background: #FFFFFF;
+
+
+/* 10/08/2021 */
+
+position: absolute;
+width: 76px;
+height: 14px;
+left: 0px;
+top: 28.33px;
+
+font-family: 'PingFang SC';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 14px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* 月曜日 */
+
+position: absolute;
+width: 36px;
+height: 17px;
+left: 89.08px;
+top: 27px;
+
+font-family: 'PingFang SC';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 17px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #B3B5B7;
+
+
+
+/* Rectangle 70 */
+
+position: absolute;
+width: 1px;
+height: 10.73px;
+left: 85px;
+top: 30.7px;
+
+background: rgba(255, 255, 255, 0.3);
+
+
+/* Frame 167 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 19px;
+
+position: absolute;
+width: 511.04px;
+height: 235.54px;
+left: 46px;
+top: 116px;
+
+
+
+/* Frame 172 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 23px;
+
+width: 253px;
+height: 235.54px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 178 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 251px;
+height: 105px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 179 */
+
+width: 130px;
+height: 105px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #333333;
+mix-blend-mode: screen;
+opacity: 0.13;
+
+
+/* Group 198 */
+
+position: absolute;
+left: 16.15%;
+right: 15.38%;
+top: 7.62%;
+bottom: 7.62%;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 16.15%;
+right: 15.38%;
+top: 7.62%;
+bottom: 7.62%;
+
+opacity: 0.4;
+/* Theme/White */
+border: 1px solid #FFFFFF;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 24.77%;
+right: 24.3%;
+top: 18.56%;
+bottom: 18.39%;
+
+/* Theme/White */
+border: 6px solid #FFFFFF;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 36.88%;
+right: 49.76%;
+top: 76.92%;
+bottom: 18.39%;
+
+opacity: 0.2;
+/* Theme/White */
+border: 4px solid #FFFFFF;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Group 14 */
+
+position: absolute;
+left: 36.15%;
+right: 36.13%;
+top: 33.33%;
+bottom: 37.52%;
+
+
+
+/* ALERT */
+
+position: absolute;
+left: 41.54%;
+right: 41.46%;
+top: 33.33%;
+bottom: 56.84%;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 7.36842px;
+line-height: 10px;
+
+color: #67747E;
+
+
+
+/* 80 */
+
+position: absolute;
+left: 36.15%;
+right: 36.13%;
+top: 44.76%;
+bottom: 37.52%;
+
+background: #FFFFFF;
+
+
+/* Frame 180 */
+
+width: 121px;
+height: 105px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #027474;
+opacity: 0.07;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.83%;
+right: 0%;
+top: 0%;
+bottom: 25.66%;
+
+background: #027474;
+mix-blend-mode: normal;
+opacity: 0.08;
+
+
+/* Group */
+
+position: absolute;
+left: 6.37%;
+right: 38.42%;
+top: 82.3%;
+bottom: 8.01%;
+
+mix-blend-mode: normal;
+opacity: 0.5;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.37%;
+right: 88.84%;
+top: 83.15%;
+bottom: 9.59%;
+
+background: #FFFFFF;
+mix-blend-mode: screen;
+opacity: 0.26;
+
+
+/* Vector */
+
+position: absolute;
+left: 11.67%;
+right: 82.46%;
+top: 83.15%;
+bottom: 9.62%;
+
+background: #FFFFFF;
+mix-blend-mode: screen;
+opacity: 0.26;
+
+
+/* Vector */
+
+position: absolute;
+left: 17.7%;
+right: 77.3%;
+top: 83.13%;
+bottom: 9.55%;
+
+background: #FFFFFF;
+mix-blend-mode: screen;
+opacity: 0.26;
+
+
+/* Vector */
+
+position: absolute;
+left: 23.87%;
+right: 72.93%;
+top: 87.22%;
+bottom: 11.65%;
+
+background: #FFFFFF;
+mix-blend-mode: screen;
+opacity: 0.26;
+
+
+/* Vector */
+
+position: absolute;
+left: 27.71%;
+right: 66.41%;
+top: 83.15%;
+bottom: 9.62%;
+
+background: #FFFFFF;
+mix-blend-mode: screen;
+opacity: 0.26;
+
+
+/* Vector */
+
+position: absolute;
+left: 34.54%;
+right: 60.63%;
+top: 83.15%;
+bottom: 9.62%;
+
+background: #FFFFFF;
+mix-blend-mode: screen;
+opacity: 0.26;
+
+
+/* Vector */
+
+position: absolute;
+left: 39.85%;
+right: 54.27%;
+top: 83.15%;
+bottom: 9.62%;
+
+background: #FFFFFF;
+mix-blend-mode: screen;
+opacity: 0.26;
+
+
+/* Vector */
+
+position: absolute;
+left: 49.27%;
+right: 48.86%;
+top: 82.3%;
+bottom: 8.01%;
+
+background: #FFFFFF;
+mix-blend-mode: screen;
+opacity: 0.26;
+
+
+/* Vector */
+
+position: absolute;
+left: 51.88%;
+right: 44.17%;
+top: 83.09%;
+bottom: 9.53%;
+
+background: #FFFFFF;
+mix-blend-mode: screen;
+opacity: 0.26;
+
+
+/* Vector */
+
+position: absolute;
+left: 56.85%;
+right: 41.15%;
+top: 83.15%;
+bottom: 9.62%;
+
+background: #FFFFFF;
+mix-blend-mode: screen;
+opacity: 0.26;
+
+
+/* Vector */
+
+position: absolute;
+left: 59.73%;
+right: 38.42%;
+top: 82.3%;
+bottom: 8.01%;
+
+background: #FFFFFF;
+mix-blend-mode: screen;
+opacity: 0.26;
+
+
+/* これは、実行ログに関連するテキストメッセージです。 */
+
+position: absolute;
+width: 97px;
+height: 53px;
+left: 15px;
+top: 12px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 19px;
+/* or 190% */
+
+color: rgba(255, 255, 255, 0.7);
+
+
+
+/* Frame 192 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 20px;
+
+width: 253px;
+height: 107.54px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 177 */
+
+width: 251.21px;
+height: 22.27px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 7.38%;
+bottom: 7.47%;
+
+background: #666666;
+mix-blend-mode: lighten;
+opacity: 0.09;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 33.52%;
+top: 7.38%;
+bottom: 7.47%;
+
+background: #666666;
+mix-blend-mode: lighten;
+opacity: 0.09;
+
+
+/* Vector */
+
+position: absolute;
+left: 7%;
+right: 6.94%;
+top: 0%;
+bottom: 98.7%;
+
+background: #666666;
+
+
+/* Vector */
+
+position: absolute;
+left: 7%;
+right: 6.94%;
+top: 98.7%;
+bottom: 0%;
+
+background: #666666;
+
+
+/* Frame 177 */
+
+position: absolute;
+width: 67.7px;
+height: 11.44px;
+left: 178.71px;
+top: 5.19px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 88.18%;
+top: 1.05%;
+bottom: 0.74%;
+
+/* Theme/White */
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 13.02%;
+right: 75.06%;
+top: 1.07%;
+bottom: 0.74%;
+
+/* Theme/White */
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 26.19%;
+right: 62.09%;
+top: 0%;
+bottom: 0.01%;
+
+/* Theme/White */
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 46.42%;
+right: 43.84%;
+top: 0.33%;
+bottom: 0.74%;
+
+/* Theme/White */
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 57.9%;
+right: 32.66%;
+top: 1.14%;
+bottom: 0%;
+
+/* Theme/White */
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 69.99%;
+right: 19.15%;
+top: 1.14%;
+bottom: 0.74%;
+
+/* Theme/White */
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 82.19%;
+right: 12.89%;
+top: 1.47%;
+bottom: 0.74%;
+
+/* Theme/White */
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 90.26%;
+right: 0%;
+top: 0.33%;
+bottom: 0.74%;
+
+/* Theme/White */
+background: #FFFFFF;
+
+
+/* いくつかのプログラムテキスト */
+
+position: absolute;
+width: 140px;
+height: 14px;
+left: 14.77px;
+top: 4.14px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 14px;
+/* identical to box height */
+
+color: rgba(255, 255, 255, 0.4);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0.09%;
+right: 94.13%;
+top: 0.02%;
+bottom: 98.72%;
+
+background: #666666;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.37%;
+right: -0.15%;
+top: 0.02%;
+bottom: 98.72%;
+
+background: #666666;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.08%;
+right: 94.13%;
+top: 98.7%;
+bottom: 0%;
+
+background: #666666;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.37%;
+right: -0.15%;
+top: 98.7%;
+bottom: 0%;
+
+background: #666666;
+
+
+/* Frame 183 */
+
+width: 253px;
+height: 23px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 7.03%;
+right: 7.51%;
+top: 2.71%;
+bottom: 96.04%;
+
+background: #666666;
+
+
+/* Vector */
+
+position: absolute;
+left: 7.03%;
+right: 7.51%;
+top: 98.27%;
+bottom: 0.46%;
+
+background: #666666;
+
+
+/* Group 182 */
+
+position: absolute;
+width: 76.51px;
+height: 18.96px;
+left: 175.93px;
+top: 2px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 69.54%;
+right: 0.22%;
+top: 8.7%;
+bottom: 8.86%;
+
+background: #666666;
+mix-blend-mode: lighten;
+opacity: 0.09;
+
+
+/* Frame */
+
+position: absolute;
+left: 73.09%;
+right: 2.03%;
+top: 33.74%;
+bottom: 29.88%;
+
+mix-blend-mode: screen;
+opacity: 0.49;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 90.75%;
+top: 1.45%;
+bottom: 0.91%;
+
+background: #FFFFFF;
+mix-blend-mode: screen;
+opacity: 0.49;
+
+
+/* Vector */
+
+position: absolute;
+left: 11.82%;
+right: 79.01%;
+top: 1.46%;
+bottom: 0.91%;
+
+background: #FFFFFF;
+mix-blend-mode: screen;
+opacity: 0.49;
+
+
+/* Vector */
+
+position: absolute;
+left: 22.15%;
+right: 67.68%;
+top: 1.46%;
+bottom: 1%;
+
+background: #FFFFFF;
+mix-blend-mode: screen;
+opacity: 0.49;
+
+
+/* Vector */
+
+position: absolute;
+left: 38.35%;
+right: 59.48%;
+top: 29.4%;
+bottom: 1%;
+
+background: #FFFFFF;
+mix-blend-mode: screen;
+opacity: 0.49;
+
+
+/* Vector */
+
+position: absolute;
+left: 47.62%;
+right: 43.14%;
+top: 1.01%;
+bottom: 0.1%;
+
+background: #FFFFFF;
+mix-blend-mode: screen;
+opacity: 0.49;
+
+
+/* Vector */
+
+position: absolute;
+left: 59.49%;
+right: 31.41%;
+top: 1.45%;
+bottom: 1%;
+
+background: #FFFFFF;
+mix-blend-mode: screen;
+opacity: 0.49;
+
+
+/* Vector */
+
+position: absolute;
+left: 70.41%;
+right: 20.46%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+mix-blend-mode: screen;
+opacity: 0.49;
+
+
+/* Vector */
+
+position: absolute;
+left: 86.61%;
+right: 5.8%;
+top: 0.2%;
+bottom: 0%;
+
+background: #FFFFFF;
+mix-blend-mode: screen;
+opacity: 0.49;
+
+
+/* Vector */
+
+position: absolute;
+left: 96.15%;
+right: 0%;
+top: 1.46%;
+bottom: 1%;
+
+background: #FFFFFF;
+mix-blend-mode: screen;
+opacity: 0.49;
+
+
+/* Group 181 */
+
+position: absolute;
+width: 53.8px;
+height: 18.96px;
+left: 0.23px;
+top: 2.27px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0.14%;
+right: 88.25%;
+top: 9.85%;
+bottom: 7.71%;
+
+background: #666666;
+mix-blend-mode: lighten;
+opacity: 0.09;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.09%;
+right: 78.65%;
+top: 9.85%;
+bottom: 7.71%;
+
+background: #666666;
+mix-blend-mode: lighten;
+opacity: 0.09;
+
+
+/* Group */
+
+position: absolute;
+left: 12.75%;
+right: 79.7%;
+top: 34.34%;
+bottom: 26.06%;
+
+mix-blend-mode: screen;
+opacity: 0.49;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.75%;
+right: 86.51%;
+top: 34.34%;
+bottom: 26.06%;
+
+background: #FFFFFF;
+mix-blend-mode: screen;
+opacity: 0.49;
+
+
+/* Vector */
+
+position: absolute;
+left: 13.78%;
+right: 84.66%;
+top: 37.45%;
+bottom: 32.4%;
+
+background: #FFFFFF;
+mix-blend-mode: screen;
+opacity: 0.49;
+
+
+/* Vector */
+
+position: absolute;
+left: 15.73%;
+right: 82.68%;
+top: 37.42%;
+bottom: 32.42%;
+
+background: #FFFFFF;
+mix-blend-mode: screen;
+opacity: 0.49;
+
+
+/* Vector */
+
+position: absolute;
+left: 17.77%;
+right: 80.67%;
+top: 37.64%;
+bottom: 32.59%;
+
+background: #FFFFFF;
+mix-blend-mode: screen;
+opacity: 0.49;
+
+
+/* Vector */
+
+position: absolute;
+left: 19.56%;
+right: 79.7%;
+top: 34.34%;
+bottom: 26.06%;
+
+background: #FFFFFF;
+mix-blend-mode: screen;
+opacity: 0.49;
+
+
+/* Group 180 */
+
+position: absolute;
+width: 16.22px;
+height: 11.32px;
+left: 6.62px;
+top: 6.14px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 2.62%;
+right: 94.23%;
+top: 27.01%;
+bottom: 24.23%;
+
+/* Theme/White */
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.43%;
+right: 90.97%;
+top: 26.68%;
+bottom: 24.11%;
+
+/* Theme/White */
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.7%;
+right: 0.56%;
+top: 2.72%;
+bottom: 96.05%;
+
+background: #666666;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.7%;
+right: 0.56%;
+top: 98.27%;
+bottom: 0.48%;
+
+background: #666666;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.09%;
+right: 94.18%;
+top: 2.72%;
+bottom: 96.05%;
+
+background: #666666;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.09%;
+right: 94.18%;
+top: 98.27%;
+bottom: 0.48%;
+
+background: #666666;
+
+
+/* 一部の番組テキスト */
+
+position: absolute;
+width: 90px;
+height: 14px;
+left: 68px;
+top: 5px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 14px;
+/* identical to box height */
+
+color: rgba(255, 255, 255, 0.4);
+
+
+
+/* Frame 191 */
+
+width: 251.36px;
+height: 22.27px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 94.23%;
+top: 0.02%;
+bottom: 98.72%;
+
+background: #666666;
+
+
+/* Vector */
+
+position: absolute;
+left: 7%;
+right: 7%;
+top: 0%;
+bottom: 98.7%;
+
+background: #666666;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.23%;
+right: 0%;
+top: 0.02%;
+bottom: 98.72%;
+
+background: #666666;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 94.23%;
+top: 98.72%;
+bottom: 0.02%;
+
+background: #666666;
+
+
+/* Vector */
+
+position: absolute;
+left: 7%;
+right: 7%;
+top: 98.7%;
+bottom: 0%;
+
+background: #666666;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.23%;
+right: 0%;
+top: 98.72%;
+bottom: 0.02%;
+
+background: #666666;
+
+
+/* Frame 189 */
+
+position: absolute;
+width: 49.59px;
+height: 18.96px;
+left: 201.63px;
+top: 1.64px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 7.84%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #666666;
+mix-blend-mode: lighten;
+opacity: 0.09;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 95.18%;
+top: 0%;
+bottom: 0%;
+
+background: #666666;
+mix-blend-mode: lighten;
+opacity: 0.09;
+
+
+/* Group */
+
+position: absolute;
+left: 17.89%;
+right: 13.75%;
+top: 29.07%;
+bottom: 26.87%;
+
+mix-blend-mode: screen;
+opacity: 0.49;
+
+
+/* Vector */
+
+position: absolute;
+left: 17.89%;
+right: 67.78%;
+top: 29.62%;
+bottom: 27.35%;
+
+background: #FFFFFF;
+mix-blend-mode: screen;
+opacity: 0.49;
+
+
+/* Vector */
+
+position: absolute;
+left: 34.55%;
+right: 53.77%;
+top: 29.62%;
+bottom: 27.33%;
+
+background: #FFFFFF;
+mix-blend-mode: screen;
+opacity: 0.49;
+
+
+/* Vector */
+
+position: absolute;
+left: 49.53%;
+right: 39.68%;
+top: 29.62%;
+bottom: 27.34%;
+
+background: #FFFFFF;
+mix-blend-mode: screen;
+opacity: 0.49;
+
+
+/* Vector */
+
+position: absolute;
+left: 69.27%;
+right: 21.1%;
+top: 29.07%;
+bottom: 26.87%;
+
+background: #FFFFFF;
+mix-blend-mode: screen;
+opacity: 0.49;
+
+
+/* Vector */
+
+position: absolute;
+left: 81.39%;
+right: 13.75%;
+top: 29.62%;
+bottom: 27.34%;
+
+background: #FFFFFF;
+mix-blend-mode: screen;
+opacity: 0.49;
+
+
+/* Group 190 */
+
+position: absolute;
+width: 102.54px;
+height: 18.96px;
+left: 0.01px;
+top: 1.64px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0.05%;
+right: 71.66%;
+top: 7.38%;
+bottom: 7.48%;
+
+background: #666666;
+mix-blend-mode: lighten;
+opacity: 0.09;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 59.2%;
+top: 7.38%;
+bottom: 7.48%;
+
+background: #666666;
+mix-blend-mode: lighten;
+opacity: 0.09;
+
+
+/* Group */
+
+position: absolute;
+left: 30.78%;
+right: 61%;
+top: 32.7%;
+bottom: 26.4%;
+
+mix-blend-mode: screen;
+opacity: 0.49;
+
+
+/* Vector */
+
+position: absolute;
+left: 30.78%;
+right: 68.47%;
+top: 32.7%;
+bottom: 26.4%;
+
+background: #FFFFFF;
+mix-blend-mode: screen;
+opacity: 0.49;
+
+
+/* Vector */
+
+position: absolute;
+left: 32.65%;
+right: 65.01%;
+top: 36.28%;
+bottom: 33.32%;
+
+background: #FFFFFF;
+mix-blend-mode: screen;
+opacity: 0.49;
+
+
+/* Vector */
+
+position: absolute;
+left: 35.07%;
+right: 62.84%;
+top: 36.28%;
+bottom: 33.28%;
+
+background: #FFFFFF;
+mix-blend-mode: screen;
+opacity: 0.49;
+
+
+/* Vector */
+
+position: absolute;
+left: 38.25%;
+right: 61%;
+top: 32.7%;
+bottom: 26.4%;
+
+background: #FFFFFF;
+mix-blend-mode: screen;
+opacity: 0.49;
+
+
+/* Group 189 */
+
+position: absolute;
+width: 54.33px;
+height: 11.36px;
+left: 5.32px;
+top: 5.47px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 2.12%;
+right: 94%;
+top: 25.14%;
+bottom: 24.56%;
+
+/* Theme/White */
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.61%;
+right: 90.2%;
+top: 25.13%;
+bottom: 24.54%;
+
+/* Theme/White */
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.21%;
+right: 85.16%;
+top: 24.75%;
+bottom: 24.42%;
+
+/* Theme/White */
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 15.39%;
+right: 83.29%;
+top: 25.2%;
+bottom: 24.56%;
+
+/* Theme/White */
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 17.6%;
+right: 79.47%;
+top: 25.2%;
+bottom: 24.49%;
+
+/* Theme/White */
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 21.12%;
+right: 76.27%;
+top: 24.55%;
+bottom: 24.62%;
+
+/* Theme/White */
+background: #FFFFFF;
+
+
+/* プログラムテキスト */
+
+position: absolute;
+width: 90px;
+height: 14px;
+left: 108px;
+top: 3.88px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 14px;
+/* identical to box height */
+
+color: rgba(255, 255, 255, 0.4);
+
+
+
+/* Frame 171 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 239.04px;
+height: 235.47px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 199 */
+
+width: 223.16px;
+height: 95px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 200 */
+
+position: absolute;
+width: 42.56px;
+height: 85.64px;
+left: 180.6px;
+top: 9.06px;
+
+
+
+/* Frame 177 */
+
+position: absolute;
+width: 42.56px;
+height: 28.99px;
+left: 180.6px;
+top: 65.71px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 85.96%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.64%;
+right: 43.24%;
+top: 8.81%;
+bottom: 16.74%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 64.42%;
+right: 20.56%;
+top: 8.82%;
+bottom: 16.76%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 86%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Frame 175 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 6px;
+
+position: absolute;
+width: 40.41px;
+height: 37.06px;
+left: 182.54px;
+top: 9.06px;
+
+
+
+/* Frame 175 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 40.41px;
+height: 8.25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group 176 */
+
+width: 1.18px;
+height: 1.62px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 97.09%;
+top: 40.16%;
+bottom: 40.16%;
+
+background: #FFFFFF;
+
+
+/* Group 175 */
+
+width: 13.48px;
+height: 8.25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 32.6%;
+right: 57.76%;
+top: 0%;
+bottom: 0.27%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 43.24%;
+right: 45.51%;
+top: 0.01%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 56.16%;
+right: 34.04%;
+top: 0%;
+bottom: 0.64%;
+
+background: #FFFFFF;
+
+
+/* Frame 176 */
+
+width: 40.41px;
+height: 8.41px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 97.09%;
+top: 53.3%;
+bottom: 27.37%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 30.61%;
+right: 57.37%;
+top: 1.01%;
+bottom: 1%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 44.46%;
+right: 44.55%;
+top: 1.01%;
+bottom: 1%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 57.29%;
+right: 40.7%;
+top: 1.01%;
+bottom: 1%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 62.39%;
+right: 27.7%;
+top: 1%;
+bottom: 1%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 73.42%;
+right: 24.27%;
+top: 87.89%;
+bottom: 1%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 77.55%;
+right: 12.34%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 90.19%;
+right: 0%;
+top: 1%;
+bottom: 1%;
+
+background: #FFFFFF;
+
+
+/* Frame 176 */
+
+width: 30.86px;
+height: 8.41px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 96.19%;
+top: 53.3%;
+bottom: 27.37%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 41.6%;
+right: 47.33%;
+top: 1.01%;
+bottom: 1%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 54.68%;
+right: 32.05%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 69.05%;
+right: 15.23%;
+top: 1.01%;
+bottom: 1%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 87.15%;
+right: 0%;
+top: 1%;
+bottom: 1%;
+
+background: #FFFFFF;
+
+
+/* Group 173 */
+
+position: absolute;
+width: 167px;
+height: 95px;
+left: 0px;
+top: 0px;
+
+
+
+/* T */
+
+position: absolute;
+width: 75px;
+height: 95px;
+left: 0px;
+top: 0px;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* 3 */
+
+position: absolute;
+width: 77px;
+height: 95px;
+left: 90px;
+top: 0px;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Frame 177 */
+
+width: 239.04px;
+height: 124.47px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 14.97%;
+bottom: 0%;
+
+background: #027474;
+opacity: 0.07;
+
+
+/* Frame 177 */
+
+position: absolute;
+width: 239.04px;
+height: 18.77px;
+left: 0px;
+top: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #333333;
+opacity: 0.48;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 30.84%;
+top: 0%;
+bottom: 0%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+opacity: 0.07;
+
+
+/* Group 174 */
+
+position: absolute;
+width: 56.56px;
+height: 9.54px;
+left: 176.38px;
+top: 5.05px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 73.79%;
+right: 25.11%;
+top: 27.42%;
+bottom: 22.97%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 75.37%;
+right: 22.84%;
+top: 26.92%;
+bottom: 22.97%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 77.58%;
+right: 21.93%;
+top: 70.85%;
+bottom: 22.97%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 78.44%;
+right: 19.79%;
+top: 27.03%;
+bottom: 22.28%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 80.65%;
+right: 17.6%;
+top: 27.5%;
+bottom: 22.44%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 82.85%;
+right: 15.42%;
+top: 27.29%;
+bottom: 22.54%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 85.04%;
+right: 14.47%;
+top: 70.85%;
+bottom: 22.97%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 85.95%;
+right: 12.28%;
+top: 26.92%;
+bottom: 22.97%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 88.22%;
+right: 10.08%;
+top: 27.29%;
+bottom: 22.55%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 90.4%;
+right: 9.11%;
+top: 70.85%;
+bottom: 22.97%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 91.33%;
+right: 6.88%;
+top: 26.92%;
+bottom: 22.97%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.53%;
+right: 4.68%;
+top: 26.92%;
+bottom: 22.97%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 95.66%;
+right: 2.55%;
+top: 27.03%;
+bottom: 22.32%;
+
+background: #FFFFFF;
+
+
+/* 機器関連情報の紹介、システム関連情報の紹介、操作ログのテキスト情報などです。 */
+
+position: absolute;
+width: 204px;
+height: 77px;
+left: 17.91px;
+top: 29.2px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 25px;
+/* or 208% */
+
+color: rgba(255, 255, 255, 0.4);
+
+
+
+/* Group 170 */
+
+position: absolute;
+width: 216.86px;
+height: 445.46px;
+left: 46px;
+top: 375.54px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 3.85%;
+right: 75.72%;
+top: 36.48%;
+bottom: 48.65%;
+
+background: #027474;
+opacity: 0.08;
+backdrop-filter: blur(9px);
+/* Note: backdrop-filter has minimal browser support */
+transform: rotate(90deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 3.85%;
+right: 90.21%;
+top: 36.57%;
+bottom: 48.61%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+opacity: 0.07;
+transform: rotate(90deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 3.85%;
+right: 95.42%;
+top: 34.77%;
+bottom: 52.25%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+opacity: 0.07;
+transform: rotate(90deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 2.4%;
+right: 74.43%;
+top: 34.81%;
+bottom: 63.52%;
+
+background: #DBF5F5;
+opacity: 0.07;
+transform: rotate(90deg);
+
+
+/* 機器の動作状況 */
+
+position: absolute;
+width: 98px;
+height: 19px;
+left: 82px;
+top: 524px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Group 201 */
+
+position: absolute;
+width: 73px;
+height: 24.78px;
+left: 83px;
+top: 567px;
+
+
+
+/* EQUIPMENT OPERATION */
+
+position: absolute;
+width: 73px;
+height: 8px;
+left: 83px;
+top: 567px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 6px;
+line-height: 8px;
+display: flex;
+align-items: center;
+
+/* Theme/White */
+color: #FFFFFF;
+
+
+
+/* Group 196 */
+
+position: absolute;
+width: 59.38px;
+height: 14.06px;
+left: 83.13px;
+top: 577.72px;
+
+opacity: 0.7;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.34%;
+right: 95.64%;
+top: 53.5%;
+bottom: 46.07%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.41%;
+right: 95.47%;
+top: 53.61%;
+bottom: 46.07%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.57%;
+right: 95.3%;
+top: 53.61%;
+bottom: 46.07%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.73%;
+right: 95.24%;
+top: 53.5%;
+bottom: 46.07%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.8%;
+right: 95.08%;
+top: 53.49%;
+bottom: 46.07%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.97%;
+right: 95%;
+top: 53.5%;
+bottom: 46.07%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.04%;
+right: 94.84%;
+top: 53.49%;
+bottom: 46.07%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.21%;
+right: 94.67%;
+top: 53.62%;
+bottom: 46.07%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.38%;
+right: 94.5%;
+top: 53.61%;
+bottom: 46.07%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.53%;
+right: 94.39%;
+top: 53.53%;
+bottom: 46.07%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.73%;
+right: 94.15%;
+top: 53.62%;
+bottom: 46.07%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.88%;
+right: 94.04%;
+top: 53.53%;
+bottom: 46.07%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.33%;
+right: 95.61%;
+top: 54.23%;
+bottom: 45.33%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.41%;
+right: 95.46%;
+top: 54.35%;
+bottom: 45.33%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.58%;
+right: 95.3%;
+top: 54.23%;
+bottom: 45.33%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.74%;
+right: 95.14%;
+top: 54.35%;
+bottom: 45.32%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.9%;
+right: 95%;
+top: 54.35%;
+bottom: 45.33%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.02%;
+right: 94.85%;
+top: 54.35%;
+bottom: 45.33%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.27%;
+right: 94.61%;
+top: 54.35%;
+bottom: 45.33%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.42%;
+right: 94.5%;
+top: 54.26%;
+bottom: 45.33%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.61%;
+right: 94.27%;
+top: 54.23%;
+bottom: 45.33%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.77%;
+right: 94.1%;
+top: 54.35%;
+bottom: 45.32%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.94%;
+right: 94%;
+top: 54.23%;
+bottom: 45.33%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.02%;
+right: 93.85%;
+top: 54.35%;
+bottom: 45.32%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.19%;
+right: 93.71%;
+top: 54.35%;
+bottom: 45.33%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.31%;
+right: 93.57%;
+top: 54.35%;
+bottom: 45.33%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.55%;
+right: 93.23%;
+top: 54.35%;
+bottom: 45.33%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.8%;
+right: 93.07%;
+top: 54.35%;
+bottom: 45.33%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.97%;
+right: 92.91%;
+top: 54.35%;
+bottom: 45.21%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 7.14%;
+right: 92.74%;
+top: 54.35%;
+bottom: 45.33%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 7.3%;
+right: 92.58%;
+top: 54.35%;
+bottom: 45.33%;
+
+background: #FFFFFF;
+
+
+/* Group 202 */
+
+position: absolute;
+width: 73px;
+height: 24.78px;
+left: 83px;
+top: 623.78px;
+
+
+
+/* EQUIPMENT OPERATION */
+
+position: absolute;
+width: 73px;
+height: 8px;
+left: 83px;
+top: 623.78px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 6px;
+line-height: 8px;
+display: flex;
+align-items: center;
+
+/* Theme/White */
+color: #FFFFFF;
+
+
+
+/* Group 196 */
+
+position: absolute;
+width: 59.38px;
+height: 14.06px;
+left: 83.13px;
+top: 634.5px;
+
+opacity: 0.7;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.34%;
+right: 95.64%;
+top: 58.76%;
+bottom: 40.81%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.41%;
+right: 95.47%;
+top: 58.87%;
+bottom: 40.81%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.57%;
+right: 95.3%;
+top: 58.87%;
+bottom: 40.81%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.73%;
+right: 95.24%;
+top: 58.76%;
+bottom: 40.81%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.8%;
+right: 95.08%;
+top: 58.75%;
+bottom: 40.81%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.97%;
+right: 95%;
+top: 58.76%;
+bottom: 40.81%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.04%;
+right: 94.84%;
+top: 58.75%;
+bottom: 40.81%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.21%;
+right: 94.67%;
+top: 58.87%;
+bottom: 40.81%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.38%;
+right: 94.5%;
+top: 58.87%;
+bottom: 40.81%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.53%;
+right: 94.39%;
+top: 58.78%;
+bottom: 40.81%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.73%;
+right: 94.15%;
+top: 58.87%;
+bottom: 40.81%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.88%;
+right: 94.04%;
+top: 58.78%;
+bottom: 40.81%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.33%;
+right: 95.61%;
+top: 59.49%;
+bottom: 40.08%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.41%;
+right: 95.46%;
+top: 59.61%;
+bottom: 40.07%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.58%;
+right: 95.3%;
+top: 59.49%;
+bottom: 40.07%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.74%;
+right: 95.14%;
+top: 59.61%;
+bottom: 40.07%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.9%;
+right: 95%;
+top: 59.61%;
+bottom: 40.08%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.02%;
+right: 94.85%;
+top: 59.61%;
+bottom: 40.07%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.27%;
+right: 94.61%;
+top: 59.61%;
+bottom: 40.07%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.42%;
+right: 94.5%;
+top: 59.52%;
+bottom: 40.08%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.61%;
+right: 94.27%;
+top: 59.49%;
+bottom: 40.07%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.77%;
+right: 94.1%;
+top: 59.61%;
+bottom: 40.07%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.94%;
+right: 94%;
+top: 59.49%;
+bottom: 40.08%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.02%;
+right: 93.85%;
+top: 59.61%;
+bottom: 40.07%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.19%;
+right: 93.71%;
+top: 59.61%;
+bottom: 40.08%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.31%;
+right: 93.57%;
+top: 59.61%;
+bottom: 40.07%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.55%;
+right: 93.23%;
+top: 59.61%;
+bottom: 40.08%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.8%;
+right: 93.07%;
+top: 59.61%;
+bottom: 40.07%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.97%;
+right: 92.91%;
+top: 59.61%;
+bottom: 39.95%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 7.14%;
+right: 92.74%;
+top: 59.61%;
+bottom: 40.08%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 7.3%;
+right: 92.58%;
+top: 59.61%;
+bottom: 40.07%;
+
+background: #FFFFFF;
+
+
+/* Group 203 */
+
+position: absolute;
+width: 73px;
+height: 24.78px;
+left: 83px;
+top: 680.56px;
+
+
+
+/* EQUIPMENT OPERATION */
+
+position: absolute;
+width: 73px;
+height: 8px;
+left: 83px;
+top: 680.56px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 6px;
+line-height: 8px;
+display: flex;
+align-items: center;
+
+/* Theme/White */
+color: #FFFFFF;
+
+
+
+/* Group 196 */
+
+position: absolute;
+width: 59.38px;
+height: 14.06px;
+left: 83.13px;
+top: 691.28px;
+
+opacity: 0.7;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.34%;
+right: 95.64%;
+top: 64.02%;
+bottom: 35.56%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.41%;
+right: 95.47%;
+top: 64.13%;
+bottom: 35.56%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.57%;
+right: 95.3%;
+top: 64.13%;
+bottom: 35.55%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.73%;
+right: 95.24%;
+top: 64.02%;
+bottom: 35.56%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.8%;
+right: 95.08%;
+top: 64.01%;
+bottom: 35.55%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.97%;
+right: 95%;
+top: 64.02%;
+bottom: 35.56%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.04%;
+right: 94.84%;
+top: 64.01%;
+bottom: 35.55%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.21%;
+right: 94.67%;
+top: 64.13%;
+bottom: 35.55%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.38%;
+right: 94.5%;
+top: 64.13%;
+bottom: 35.56%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.53%;
+right: 94.39%;
+top: 64.04%;
+bottom: 35.55%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.73%;
+right: 94.15%;
+top: 64.13%;
+bottom: 35.55%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.88%;
+right: 94.04%;
+top: 64.04%;
+bottom: 35.55%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.33%;
+right: 95.61%;
+top: 64.75%;
+bottom: 34.82%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.41%;
+right: 95.46%;
+top: 64.87%;
+bottom: 34.81%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.58%;
+right: 95.3%;
+top: 64.75%;
+bottom: 34.81%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.74%;
+right: 95.14%;
+top: 64.87%;
+bottom: 34.81%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.9%;
+right: 95%;
+top: 64.87%;
+bottom: 34.82%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.02%;
+right: 94.85%;
+top: 64.87%;
+bottom: 34.81%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.27%;
+right: 94.61%;
+top: 64.87%;
+bottom: 34.81%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.42%;
+right: 94.5%;
+top: 64.78%;
+bottom: 34.82%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.61%;
+right: 94.27%;
+top: 64.75%;
+bottom: 34.81%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.77%;
+right: 94.1%;
+top: 64.87%;
+bottom: 34.81%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.94%;
+right: 94%;
+top: 64.75%;
+bottom: 34.82%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.02%;
+right: 93.85%;
+top: 64.87%;
+bottom: 34.81%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.19%;
+right: 93.71%;
+top: 64.87%;
+bottom: 34.82%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.31%;
+right: 93.57%;
+top: 64.87%;
+bottom: 34.81%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.55%;
+right: 93.23%;
+top: 64.86%;
+bottom: 34.82%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.8%;
+right: 93.07%;
+top: 64.87%;
+bottom: 34.81%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.97%;
+right: 92.91%;
+top: 64.87%;
+bottom: 34.69%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 7.14%;
+right: 92.74%;
+top: 64.86%;
+bottom: 34.82%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 7.3%;
+right: 92.58%;
+top: 64.87%;
+bottom: 34.81%;
+
+background: #FFFFFF;
+
+
+/* Frame 192 */
+
+position: absolute;
+width: 27.52px;
+height: 425.96px;
+left: 235.34px;
+top: 394.81px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: -1447.82%;
+top: 0%;
+bottom: 93.54%;
+
+background: #DBF5F5;
+opacity: 0.07;
+transform: rotate(90deg);
+
+
+/* Group 191 */
+
+position: absolute;
+width: 10.44px;
+height: 65.51px;
+left: 7.69px;
+top: 350.9px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 28.08%;
+right: 34.56%;
+top: 82.38%;
+bottom: 15.92%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Vector */
+
+position: absolute;
+left: 27.94%;
+right: 34.23%;
+top: 84.49%;
+bottom: 13.79%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Vector */
+
+position: absolute;
+left: 28.34%;
+right: 34.56%;
+top: 86.4%;
+bottom: 11.73%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Vector */
+
+position: absolute;
+left: 28.2%;
+right: 34.37%;
+top: 89.37%;
+bottom: 9.23%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Vector */
+
+position: absolute;
+left: 28.18%;
+right: 34.56%;
+top: 91.03%;
+bottom: 7.6%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Vector */
+
+position: absolute;
+left: 28.2%;
+right: 34.37%;
+top: 92.75%;
+bottom: 5.84%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Vector */
+
+position: absolute;
+left: 27.95%;
+right: 34.12%;
+top: 94.55%;
+bottom: 4.04%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Vector */
+
+position: absolute;
+left: 28.2%;
+right: 34.37%;
+top: 96.35%;
+bottom: 2.24%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Group 197 */
+
+position: absolute;
+width: 151.49px;
+height: 105.31px;
+left: 78px;
+top: 399px;
+
+
+
+/* Union */
+
+position: absolute;
+width: 15.49px;
+height: 15.5px;
+left: 214px;
+top: 488.81px;
+
+/* Theme/Green */
+background: #06F7A1;
+
+
+/* Vector */
+
+position: absolute;
+left: 11.67%;
+right: 88.05%;
+top: 45.26%;
+bottom: 53.31%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Vector */
+
+position: absolute;
+left: 11.15%;
+right: 88.57%;
+top: 46.2%;
+bottom: 52.37%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+transform: rotate(-90deg);
+
+
+/* Union */
+
+position: absolute;
+width: 15.49px;
+height: 15.49px;
+left: 78px;
+top: 399px;
+
+/* Theme/Green */
+background: #06F7A1;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.06%;
+right: 95.66%;
+top: 36.94%;
+bottom: 61.62%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+transform: rotate(180deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 4.06%;
+right: 95.66%;
+top: 36.94%;
+bottom: 61.62%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+transform: rotate(90deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 9.48%;
+right: 90.41%;
+top: 44.76%;
+bottom: 54.94%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.61%;
+right: 90.27%;
+top: 44.76%;
+bottom: 54.94%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.76%;
+right: 90.11%;
+top: 44.76%;
+bottom: 54.95%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.91%;
+right: 89.97%;
+top: 44.76%;
+bottom: 54.94%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 10.06%;
+right: 89.83%;
+top: 44.77%;
+bottom: 54.95%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 10.19%;
+right: 89.69%;
+top: 44.76%;
+bottom: 54.94%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 10.31%;
+right: 89.57%;
+top: 44.77%;
+bottom: 54.95%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 10.45%;
+right: 89.44%;
+top: 44.77%;
+bottom: 54.95%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 10.57%;
+right: 89.31%;
+top: 44.77%;
+bottom: 54.95%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 10.7%;
+right: 89.18%;
+top: 44.76%;
+bottom: 54.94%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 10.85%;
+right: 89.03%;
+top: 44.77%;
+bottom: 54.95%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.35%;
+right: 90.57%;
+top: 45.33%;
+bottom: 54.46%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.46%;
+right: 90.46%;
+top: 45.26%;
+bottom: 54.45%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.57%;
+right: 90.42%;
+top: 45.26%;
+bottom: 54.46%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.62%;
+right: 90.3%;
+top: 45.33%;
+bottom: 54.38%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.73%;
+right: 90.26%;
+top: 45.26%;
+bottom: 54.46%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.77%;
+right: 90.15%;
+top: 45.33%;
+bottom: 54.45%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.87%;
+right: 90.05%;
+top: 45.33%;
+bottom: 54.46%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.98%;
+right: 90.01%;
+top: 45.26%;
+bottom: 54.46%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 10.03%;
+right: 89.89%;
+top: 45.33%;
+bottom: 54.46%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 10.14%;
+right: 89.78%;
+top: 45.33%;
+bottom: 54.37%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 10.3%;
+right: 89.62%;
+top: 45.33%;
+bottom: 54.46%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 10.4%;
+right: 89.56%;
+top: 45.25%;
+bottom: 54.46%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 10.47%;
+right: 89.52%;
+top: 45.26%;
+bottom: 54.46%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 10.51%;
+right: 89.44%;
+top: 45.28%;
+bottom: 54.45%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 10.58%;
+right: 89.4%;
+top: 45.51%;
+bottom: 54.41%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 10.67%;
+right: 89.24%;
+top: 45.33%;
+bottom: 54.46%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 10.78%;
+right: 89.14%;
+top: 45.33%;
+bottom: 54.46%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 10.88%;
+right: 89.04%;
+top: 45.26%;
+bottom: 54.45%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.86%;
+right: 93.72%;
+top: 39.48%;
+bottom: 56.66%;
+
+/* Theme/Green */
+background: #06F7A1;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.61%;
+right: 91.84%;
+top: 39.48%;
+bottom: 56.65%;
+
+/* Theme/Green */
+background: #06F7A1;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.59%;
+right: 90.37%;
+top: 41.66%;
+bottom: 57.74%;
+
+/* Theme/Green */
+background: #06F7A1;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.98%;
+right: 88.74%;
+top: 39.44%;
+bottom: 56.66%;
+
+/* Theme/Green */
+background: #06F7A1;
+
+
+/* Frame 188 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 56px;
+
+position: absolute;
+width: 858.12px;
+height: 125.21px;
+left: calc(50% - 858.12px/2 + 0.06px);
+top: 921px;
+
+
+
+/* Frame 189 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 19px;
+
+width: 401.04px;
+height: 125.21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 184 */
+
+width: 125.21px;
+height: 125.21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: rgba(2, 116, 116, 0.1);
+
+
+/* Vector */
+
+position: absolute;
+left: 11.89%;
+right: 11.89%;
+top: 71.61%;
+bottom: 28.39%;
+
+/* Theme/Cyan */
+border: 2px solid #18FEFE;
+
+
+/* Vector */
+
+position: absolute;
+left: 13.66%;
+right: 76.33%;
+top: 43.24%;
+bottom: 35.74%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 31.21%;
+right: 58.68%;
+top: 43.26%;
+bottom: 35.7%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 47.67%;
+right: 42.15%;
+top: 43.24%;
+bottom: 35.75%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 62.67%;
+right: 35.54%;
+top: 62.12%;
+bottom: 35.73%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 71.78%;
+right: 18.14%;
+top: 43.3%;
+bottom: 35.7%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 11.62%;
+right: 84.4%;
+top: 80.75%;
+bottom: 10.9%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 18.7%;
+right: 77.26%;
+top: 80.73%;
+bottom: 10.9%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 25.66%;
+right: 70.29%;
+top: 80.73%;
+bottom: 10.93%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 32.72%;
+right: 63.27%;
+top: 80.73%;
+bottom: 10.9%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 39.86%;
+right: 57.1%;
+top: 85.99%;
+bottom: 13.53%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.92%;
+right: 50.04%;
+top: 80.73%;
+bottom: 10.9%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 52.22%;
+right: 43.4%;
+top: 80.73%;
+bottom: 10.92%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 59.23%;
+right: 36.7%;
+top: 80.73%;
+bottom: 10.93%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 66.27%;
+right: 29.67%;
+top: 80.73%;
+bottom: 10.93%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 73.43%;
+right: 23.53%;
+top: 85.99%;
+bottom: 13.53%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 79.64%;
+right: 16.31%;
+top: 80.68%;
+bottom: 10.92%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 11.77%;
+right: 84.19%;
+top: 10.96%;
+bottom: 80.67%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 18.77%;
+right: 77.17%;
+top: 10.99%;
+bottom: 80.7%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 25.65%;
+right: 70.93%;
+top: 11.06%;
+bottom: 80.73%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 30.73%;
+right: 65.84%;
+top: 11.06%;
+bottom: 80.73%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.14%;
+right: 8.14%;
+top: 74.71%;
+bottom: 25.29%;
+
+
+
+/* Frame 185 */
+
+width: 125.21px;
+height: 125.21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: rgba(2, 116, 116, 0.1);
+
+
+/* Vector */
+
+position: absolute;
+left: 11.89%;
+right: 11.89%;
+top: 71.61%;
+bottom: 28.39%;
+
+/* Theme/Cyan */
+border: 2px solid #18FEFE;
+
+
+/* Vector */
+
+position: absolute;
+left: 14.33%;
+right: 75.57%;
+top: 43.26%;
+bottom: 35.7%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 31.61%;
+right: 58.29%;
+top: 43.26%;
+bottom: 35.7%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 48.75%;
+right: 41.02%;
+top: 43.31%;
+bottom: 35.73%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 66.09%;
+right: 32.12%;
+top: 62.12%;
+bottom: 35.73%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 73.81%;
+right: 21.08%;
+top: 43.26%;
+bottom: 35.73%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.3%;
+right: 85.68%;
+top: 80.75%;
+bottom: 10.92%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 18.08%;
+right: 77.85%;
+top: 80.73%;
+bottom: 10.93%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 25.01%;
+right: 70.98%;
+top: 80.78%;
+bottom: 10.87%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 32.14%;
+right: 63.86%;
+top: 80.73%;
+bottom: 10.9%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 39.27%;
+right: 57.69%;
+top: 85.99%;
+bottom: 13.53%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.67%;
+right: 50.31%;
+top: 80.75%;
+bottom: 10.9%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 52.36%;
+right: 43.6%;
+top: 80.72%;
+bottom: 10.9%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 59.61%;
+right: 38.38%;
+top: 80.75%;
+bottom: 10.92%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 65.39%;
+right: 30.55%;
+top: 80.73%;
+bottom: 10.93%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 72.56%;
+right: 24.41%;
+top: 85.99%;
+bottom: 13.53%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 78.2%;
+right: 17.73%;
+top: 80.75%;
+bottom: 10.9%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.3%;
+right: 85.68%;
+top: 10.98%;
+bottom: 80.67%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 18.05%;
+right: 77.91%;
+top: 10.96%;
+bottom: 80.67%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 25.07%;
+right: 71.51%;
+top: 11.06%;
+bottom: 80.73%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 30.16%;
+right: 66.42%;
+top: 11.06%;
+bottom: 80.73%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.14%;
+right: 8.14%;
+top: 74.71%;
+bottom: 25.29%;
+
+
+
+/* Frame 188 */
+
+width: 112.62px;
+height: 125.21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 29.56%;
+top: 0%;
+bottom: 70.54%;
+
+/* Theme/Green */
+border: 2px solid #06F7A1;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 29.56%;
+top: 35.27%;
+bottom: 35.27%;
+
+/* Theme/Green */
+background: #06F7A1;
+opacity: 0.5;
+/* Theme/Green */
+border: 2px solid #06F7A1;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 29.56%;
+top: 70.54%;
+bottom: 0%;
+
+/* Theme/Green */
+background: #06F7A1;
+opacity: 0.5;
+/* Theme/Green */
+border: 2px solid #06F7A1;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.41%;
+right: 83.14%;
+top: 80.73%;
+bottom: 10.9%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 19.84%;
+right: 75.66%;
+top: 80.72%;
+bottom: 10.9%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 27.7%;
+right: 67.88%;
+top: 80.75%;
+bottom: 10.9%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 35.63%;
+right: 59.91%;
+top: 80.75%;
+bottom: 10.89%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 43.55%;
+right: 53.07%;
+top: 85.99%;
+bottom: 13.53%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 50.27%;
+right: 45.23%;
+top: 80.73%;
+bottom: 10.9%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.41%;
+right: 83.14%;
+top: 45.21%;
+bottom: 46.43%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.19%;
+right: 75.35%;
+top: 45.21%;
+bottom: 46.43%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 28.07%;
+right: 67.47%;
+top: 45.2%;
+bottom: 46.46%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 35.44%;
+right: 60.07%;
+top: 45.21%;
+bottom: 46.43%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 42.79%;
+right: 53.83%;
+top: 50.47%;
+bottom: 49.05%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 49.96%;
+right: 45.57%;
+top: 45.2%;
+bottom: 46.46%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.41%;
+right: 83.14%;
+top: 10.97%;
+bottom: 80.67%;
+
+/* Theme/Green */
+background: #06F7A1;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.19%;
+right: 75.35%;
+top: 10.97%;
+bottom: 80.67%;
+
+/* Theme/Green */
+background: #06F7A1;
+
+
+/* Vector */
+
+position: absolute;
+left: 28.07%;
+right: 67.47%;
+top: 11%;
+bottom: 80.67%;
+
+/* Theme/Green */
+background: #06F7A1;
+
+
+/* Vector */
+
+position: absolute;
+left: 35.44%;
+right: 60.07%;
+top: 10.95%;
+bottom: 80.67%;
+
+/* Theme/Green */
+background: #06F7A1;
+
+
+/* Vector */
+
+position: absolute;
+left: 42.79%;
+right: 53.83%;
+top: 16.22%;
+bottom: 83.29%;
+
+/* Theme/Green */
+background: #06F7A1;
+
+
+/* Vector */
+
+position: absolute;
+left: 49.96%;
+right: 45.57%;
+top: 11.01%;
+bottom: 80.67%;
+
+/* Theme/Green */
+background: #06F7A1;
+
+
+/* Vector */
+
+position: absolute;
+left: 82.89%;
+right: 13.31%;
+top: 23.92%;
+bottom: 68.97%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 89.55%;
+right: 6.65%;
+top: 23.92%;
+bottom: 68.97%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 96.25%;
+right: 1.84%;
+top: 23.92%;
+bottom: 68.97%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 82.89%;
+right: 13.31%;
+top: 59.3%;
+bottom: 33.59%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 89.53%;
+right: 6.67%;
+top: 59.3%;
+bottom: 33.59%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 96.09%;
+right: 0.11%;
+top: 59.33%;
+bottom: 33.57%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 82.89%;
+right: 13.31%;
+top: 92.7%;
+bottom: 0.19%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 89.48%;
+right: 6.68%;
+top: 92.66%;
+bottom: 0.19%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 96.17%;
+right: 0%;
+top: 92.66%;
+bottom: 0.19%;
+
+background: #FFFFFF;
+
+
+/* Frame 190 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 19px;
+
+width: 401.08px;
+height: 125.21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 189 */
+
+width: 125.21px;
+height: 125.21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Secondary/Warn */
+background: #FF9900;
+opacity: 0.1;
+
+
+/* Vector */
+
+position: absolute;
+left: 11.88%;
+right: 11.89%;
+top: 71.61%;
+bottom: 28.39%;
+
+/* Secondary/Warn */
+border: 2px solid #FF9900;
+
+
+/* Vector */
+
+position: absolute;
+left: 13.68%;
+right: 76.3%;
+top: 43.24%;
+bottom: 35.74%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 31.21%;
+right: 58.65%;
+top: 43.26%;
+bottom: 35.7%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 47.7%;
+right: 42.14%;
+top: 43.23%;
+bottom: 35.75%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 62.7%;
+right: 35.52%;
+top: 62.12%;
+bottom: 35.73%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 71.75%;
+right: 18.14%;
+top: 43.29%;
+bottom: 35.7%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 11.62%;
+right: 84.4%;
+top: 80.75%;
+bottom: 10.9%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 18.69%;
+right: 77.26%;
+top: 80.73%;
+bottom: 10.9%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 25.68%;
+right: 70.26%;
+top: 80.73%;
+bottom: 10.93%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 32.72%;
+right: 63.27%;
+top: 80.73%;
+bottom: 10.9%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 39.88%;
+right: 57.07%;
+top: 85.99%;
+bottom: 13.53%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.91%;
+right: 50.04%;
+top: 80.73%;
+bottom: 10.9%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 52.22%;
+right: 43.39%;
+top: 80.73%;
+bottom: 10.92%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 59.23%;
+right: 36.72%;
+top: 80.73%;
+bottom: 10.93%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 66.27%;
+right: 29.68%;
+top: 80.73%;
+bottom: 10.93%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 73.43%;
+right: 23.53%;
+top: 85.99%;
+bottom: 13.53%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 79.64%;
+right: 16.32%;
+top: 80.68%;
+bottom: 10.92%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.3%;
+right: 85.68%;
+top: 10.98%;
+bottom: 80.67%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 18.09%;
+right: 77.9%;
+top: 10.98%;
+bottom: 80.67%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 24.96%;
+right: 71.62%;
+top: 11.06%;
+bottom: 80.73%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 30.05%;
+right: 66.53%;
+top: 11.06%;
+bottom: 80.73%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.14%;
+right: 8.14%;
+top: 74.71%;
+bottom: 25.29%;
+
+
+
+/* Frame 190 */
+
+width: 125.21px;
+height: 125.21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: rgba(2, 116, 116, 0.1);
+
+
+/* Vector */
+
+position: absolute;
+left: 11.89%;
+right: 11.88%;
+top: 71.61%;
+bottom: 28.39%;
+
+/* Theme/Cyan */
+border: 2px solid #18FEFE;
+
+
+/* Vector */
+
+position: absolute;
+left: 14.33%;
+right: 75.56%;
+top: 43.26%;
+bottom: 35.7%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 31.61%;
+right: 58.25%;
+top: 43.26%;
+bottom: 35.7%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 48.74%;
+right: 41.04%;
+top: 43.31%;
+bottom: 35.73%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 66.12%;
+right: 32.1%;
+top: 62.12%;
+bottom: 35.73%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 73.82%;
+right: 21.08%;
+top: 43.26%;
+bottom: 35.73%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.31%;
+right: 85.68%;
+top: 80.75%;
+bottom: 10.92%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 18.09%;
+right: 77.85%;
+top: 80.73%;
+bottom: 10.93%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 25.03%;
+right: 70.95%;
+top: 80.78%;
+bottom: 10.87%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 32.14%;
+right: 63.85%;
+top: 80.73%;
+bottom: 10.9%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 39.28%;
+right: 57.69%;
+top: 85.99%;
+bottom: 13.53%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.67%;
+right: 50.31%;
+top: 80.75%;
+bottom: 10.9%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 52.37%;
+right: 43.6%;
+top: 80.72%;
+bottom: 10.9%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 59.61%;
+right: 38.37%;
+top: 80.75%;
+bottom: 10.92%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 65.4%;
+right: 30.55%;
+top: 80.73%;
+bottom: 10.93%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 72.56%;
+right: 24.4%;
+top: 85.99%;
+bottom: 13.53%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 78.2%;
+right: 17.73%;
+top: 80.75%;
+bottom: 10.9%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 11.83%;
+right: 84.11%;
+top: 10.99%;
+bottom: 80.7%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 18.75%;
+right: 77.27%;
+top: 11%;
+bottom: 80.64%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 25.73%;
+right: 70.84%;
+top: 11.06%;
+bottom: 80.73%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 30.82%;
+right: 65.75%;
+top: 11.06%;
+bottom: 80.73%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.14%;
+right: 8.14%;
+top: 74.71%;
+bottom: 25.29%;
+
+
+
+/* Frame 192 */
+
+width: 112.67px;
+height: 125.21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 29.59%;
+top: 0%;
+bottom: 70.54%;
+
+/* Secondary/Error */
+border: 2px solid #FF483D;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 29.59%;
+top: 35.27%;
+bottom: 35.27%;
+
+/* Secondary/Error */
+background: #FF483D;
+opacity: 0.5;
+/* Secondary/Error */
+border: 2px solid #FF483D;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 29.59%;
+top: 70.54%;
+bottom: 0%;
+
+/* Secondary/Error */
+background: #FF483D;
+opacity: 0.5;
+/* Secondary/Error */
+border: 2px solid #FF483D;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.21%;
+right: 83.33%;
+top: 80.78%;
+bottom: 10.87%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.12%;
+right: 75.41%;
+top: 80.75%;
+bottom: 10.9%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 27.56%;
+right: 67.95%;
+top: 80.72%;
+bottom: 10.9%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 35.61%;
+right: 62.15%;
+top: 80.75%;
+bottom: 10.92%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 42.19%;
+right: 54.44%;
+top: 85.99%;
+bottom: 13.53%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 49.35%;
+right: 46.18%;
+top: 80.72%;
+bottom: 10.94%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.21%;
+right: 83.33%;
+top: 45.23%;
+bottom: 46.43%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.04%;
+right: 75.5%;
+top: 45.23%;
+bottom: 46.43%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 27.78%;
+right: 67.34%;
+top: 45.22%;
+bottom: 46.43%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 35.57%;
+right: 59.92%;
+top: 45.19%;
+bottom: 46.45%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 43.54%;
+right: 53.09%;
+top: 50.47%;
+bottom: 49.05%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 49.99%;
+right: 47.77%;
+top: 45.23%;
+bottom: 46.43%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.21%;
+right: 83.33%;
+top: 11.02%;
+bottom: 80.63%;
+
+/* Secondary/Error */
+background: #FF483D;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.19%;
+right: 77.57%;
+top: 10.98%;
+bottom: 80.67%;
+
+/* Secondary/Error */
+background: #FF483D;
+
+
+/* Vector */
+
+position: absolute;
+left: 26.64%;
+right: 68.89%;
+top: 11%;
+bottom: 80.67%;
+
+/* Secondary/Error */
+background: #FF483D;
+
+
+/* Vector */
+
+position: absolute;
+left: 34.36%;
+right: 61.14%;
+top: 10.95%;
+bottom: 80.67%;
+
+/* Secondary/Error */
+background: #FF483D;
+
+
+/* Vector */
+
+position: absolute;
+left: 41.1%;
+right: 55.52%;
+top: 16.22%;
+bottom: 83.29%;
+
+/* Secondary/Error */
+background: #FF483D;
+
+
+/* Vector */
+
+position: absolute;
+left: 47.84%;
+right: 47.67%;
+top: 10.95%;
+bottom: 80.67%;
+
+/* Secondary/Error */
+background: #FF483D;
+
+
+/* Vector */
+
+position: absolute;
+left: 82.86%;
+right: 13.34%;
+top: 23.92%;
+bottom: 68.97%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 89.51%;
+right: 6.69%;
+top: 23.92%;
+bottom: 68.97%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 96.13%;
+right: 0.05%;
+top: 23.92%;
+bottom: 69%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 82.86%;
+right: 13.34%;
+top: 59.3%;
+bottom: 33.59%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 89.55%;
+right: 6.65%;
+top: 59.27%;
+bottom: 33.63%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 96.2%;
+right: 0%;
+top: 59.27%;
+bottom: 33.63%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 82.86%;
+right: 13.34%;
+top: 92.7%;
+bottom: 0.19%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 89.41%;
+right: 6.8%;
+top: 92.73%;
+bottom: 0.16%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 96.15%;
+right: 0.06%;
+top: 92.7%;
+bottom: 0.19%;
+
+background: #FFFFFF;
+
+
+/* Group 193 */
+
+position: absolute;
+width: 308.9px;
+height: 222px;
+left: 55px;
+top: 840px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.72%;
+right: 81.05%;
+top: 79.91%;
+bottom: 19.13%;
+
+/* Secondary/Warn */
+background: #FF9900;
+opacity: 0.1;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.72%;
+right: 90.2%;
+top: 79.91%;
+bottom: 19.13%;
+
+/* Secondary/Warn */
+background: #FF9900;
+mix-blend-mode: normal;
+opacity: 0.3;
+
+
+/* 運用データの監視 */
+
+position: absolute;
+width: 96px;
+height: 16px;
+left: 129px;
+top: 878px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+
+color: #FFFFFF;
+
+opacity: 0.7;
+
+
+/* Rectangle 94 */
+
+position: absolute;
+width: 56px;
+height: 56px;
+left: 55px;
+top: 840px;
+
+/* Secondary/Warn */
+background: #FF9900;
+opacity: 0.07;
+
+
+/* Rectangle 95 */
+
+position: absolute;
+width: 56px;
+height: 56px;
+left: 55px;
+top: 923px;
+
+/* Theme/Cyan */
+background: #18FEFE;
+opacity: 0.07;
+
+
+/* Rectangle 96 */
+
+position: absolute;
+width: 56px;
+height: 56px;
+left: 55px;
+top: 1006px;
+
+/* Theme/Cyan */
+background: #18FEFE;
+opacity: 0.07;
+
+
+/* Rectangle 40 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 3.39%;
+right: 94.74%;
+top: 78.7%;
+bottom: 17.96%;
+
+/* Secondary/Warn */
+border: 1px solid #FF9900;
+
+
+/* Rectangle 41 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 3.39%;
+right: 94.74%;
+top: 86.39%;
+bottom: 10.28%;
+
+opacity: 0.5;
+/* Theme/White */
+border: 1px solid #FFFFFF;
+
+
+/* Rectangle 42 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 3.39%;
+right: 94.74%;
+top: 94.17%;
+bottom: 2.5%;
+
+opacity: 0.5;
+/* Theme/White */
+border: 1px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.77%;
+right: 92.9%;
+top: 78.54%;
+bottom: 20.66%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 7.13%;
+right: 92.48%;
+top: 78.54%;
+bottom: 20.66%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 7.51%;
+right: 92.16%;
+top: 78.54%;
+bottom: 20.66%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 7.81%;
+right: 91.79%;
+top: 78.54%;
+bottom: 20.66%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.44%;
+right: 91.43%;
+top: 78.44%;
+bottom: 20.48%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.75%;
+right: 90.85%;
+top: 78.54%;
+bottom: 20.66%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.33%;
+right: 90.54%;
+top: 78.44%;
+bottom: 20.48%;
+
+background: #FFFFFF;
+
+
+/* Group 194 */
+
+position: absolute;
+width: 234.85px;
+height: 47.8px;
+left: 129.05px;
+top: 930.2px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.72%;
+right: 81.05%;
+top: 87.59%;
+bottom: 11.44%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+opacity: 0.2;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.72%;
+right: 82.98%;
+top: 87.59%;
+bottom: 11.44%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+mix-blend-mode: normal;
+opacity: 0.3;
+
+
+/* 運用データの監視 */
+
+position: absolute;
+width: 96px;
+height: 16px;
+left: 130px;
+top: 962px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+
+color: #FFFFFF;
+
+opacity: 0.7;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.77%;
+right: 92.9%;
+top: 86.23%;
+bottom: 12.97%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 7.12%;
+right: 92.48%;
+top: 86.23%;
+bottom: 12.97%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 7.5%;
+right: 92.17%;
+top: 86.23%;
+bottom: 12.97%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 7.81%;
+right: 91.79%;
+top: 86.23%;
+bottom: 12.97%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.44%;
+right: 91.43%;
+top: 86.13%;
+bottom: 12.8%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.73%;
+right: 90.92%;
+top: 86.23%;
+bottom: 12.97%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.24%;
+right: 90.63%;
+top: 86.13%;
+bottom: 12.8%;
+
+background: #FFFFFF;
+
+
+/* Group 195 */
+
+position: absolute;
+width: 234.9px;
+height: 47.75px;
+left: 129px;
+top: 1013.25px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.72%;
+right: 81.05%;
+top: 95.28%;
+bottom: 3.75%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+opacity: 0.1;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.72%;
+right: 87.51%;
+top: 95.28%;
+bottom: 3.75%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+mix-blend-mode: normal;
+opacity: 0.3;
+
+
+/* 運用データの監視 */
+
+position: absolute;
+width: 96px;
+height: 16px;
+left: 129px;
+top: 1045px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+
+color: #FFFFFF;
+
+opacity: 0.7;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.77%;
+right: 92.9%;
+top: 93.91%;
+bottom: 5.29%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 7.13%;
+right: 92.48%;
+top: 93.91%;
+bottom: 5.29%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 7.51%;
+right: 92.16%;
+top: 93.91%;
+bottom: 5.29%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 7.81%;
+right: 91.79%;
+top: 93.91%;
+bottom: 5.29%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.44%;
+right: 91.43%;
+top: 93.82%;
+bottom: 5.11%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.75%;
+right: 90.89%;
+top: 93.91%;
+bottom: 5.28%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.28%;
+right: 90.59%;
+top: 93.82%;
+bottom: 5.11%;
+
+background: #FFFFFF;
+
+
+/* Group 205 */
+
+position: absolute;
+width: 335.6px;
+height: 160.59px;
+left: 847px;
+top: 226px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 44.11%;
+right: 47.91%;
+top: 21.62%;
+bottom: 62.54%;
+
+/* Secondary/Error */
+background: #FF483D;
+opacity: 0.2;
+transform: rotate(90deg);
+
+
+/* Group 203 */
+
+position: absolute;
+width: 57px;
+height: 15.49px;
+left: 864px;
+top: 359px;
+
+
+
+/* EQUIPMENT WARN */
+
+position: absolute;
+width: 57px;
+height: 8px;
+left: 864px;
+top: 359px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 6px;
+line-height: 8px;
+display: flex;
+align-items: center;
+
+/* Theme/White */
+color: #FFFFFF;
+
+
+
+/* Group 196 */
+
+position: absolute;
+width: 31.14px;
+height: 4.77px;
+left: 864.26px;
+top: 369.72px;
+
+opacity: 0.7;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.01%;
+right: 54.96%;
+top: 34.24%;
+bottom: 65.33%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.08%;
+right: 54.79%;
+top: 34.35%;
+bottom: 65.33%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.25%;
+right: 54.63%;
+top: 34.35%;
+bottom: 65.33%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.41%;
+right: 54.57%;
+top: 34.24%;
+bottom: 65.33%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.48%;
+right: 54.4%;
+top: 34.23%;
+bottom: 65.32%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.65%;
+right: 54.33%;
+top: 34.24%;
+bottom: 65.33%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.72%;
+right: 54.16%;
+top: 34.23%;
+bottom: 65.32%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.88%;
+right: 53.99%;
+top: 34.36%;
+bottom: 65.32%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 46.06%;
+right: 53.82%;
+top: 34.35%;
+bottom: 65.33%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 46.21%;
+right: 53.71%;
+top: 34.27%;
+bottom: 65.33%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 46.4%;
+right: 53.47%;
+top: 34.36%;
+bottom: 65.32%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 46.56%;
+right: 53.36%;
+top: 34.27%;
+bottom: 65.33%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 44.12%;
+right: 49.95%;
+top: 21.62%;
+bottom: 47.31%;
+
+background: #000405;
+opacity: 0.8;
+transform: rotate(90deg);
+
+
+/* Group 201 */
+
+position: absolute;
+width: 140px;
+height: 37px;
+left: 1031px;
+top: 248px;
+
+
+
+/* Group 207 */
+
+position: absolute;
+width: 140px;
+height: 37px;
+left: 1031px;
+top: 248px;
+
+
+
+/* EQUIPMENT INFO */
+
+position: absolute;
+width: 105px;
+height: 16px;
+left: 1031px;
+top: 248px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 16px;
+display: flex;
+align-items: center;
+
+/* Theme/White */
+color: #FFFFFF;
+
+
+
+/* 機器関連情報の紹介、システム */
+
+position: absolute;
+width: 140px;
+height: 17px;
+left: 1031px;
+top: 268px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 300;
+font-size: 10px;
+line-height: 16px;
+/* or 160% */
+
+color: rgba(255, 255, 255, 0.5);
+
+
+
+/* Group 202 */
+
+position: absolute;
+width: 140px;
+height: 37px;
+left: 1031px;
+top: 299px;
+
+
+
+/* Group 207 */
+
+position: absolute;
+width: 140px;
+height: 37px;
+left: 1031px;
+top: 299px;
+
+
+
+/* WARN INFO */
+
+position: absolute;
+width: 71px;
+height: 16px;
+left: 1031px;
+top: 299px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 16px;
+display: flex;
+align-items: center;
+
+/* Theme/White */
+color: #FFFFFF;
+
+
+
+/* いくつかのプログラムテキスト */
+
+position: absolute;
+width: 140px;
+height: 17px;
+left: 1031px;
+top: 319px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 14px;
+
+color: rgba(255, 255, 255, 0.5);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 44.12%;
+right: 55.59%;
+top: 20.93%;
+bottom: 48%;
+
+/* Secondary/Error */
+background: #FF483D;
+transform: rotate(90deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 44.11%;
+right: 55.59%;
+top: 20.93%;
+bottom: 78.81%;
+
+background: #63C8EB;
+opacity: 0.07;
+transform: rotate(90deg);
+
+
+/* Union */
+
+position: absolute;
+width: 9.85px;
+height: 17.1px;
+left: 936.32px;
+top: 360.63px;
+
+/* Secondary/Error */
+background: #FF483D;
+
+
+/* Vector */
+
+position: absolute;
+left: 48.77%;
+right: 50.6%;
+top: 34.06%;
+bottom: 65.76%;
+
+background: #00BACB;
+transform: rotate(-135deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 48.77%;
+right: 50.6%;
+top: 33.39%;
+bottom: 66.44%;
+
+background: #00BACB;
+transform: rotate(135deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 45.45%;
+right: 53.13%;
+top: 24.54%;
+bottom: 71.59%;
+
+/* Secondary/Error */
+background: #FF483D;
+
+
+/* Vector */
+
+position: absolute;
+left: 47.2%;
+right: 51.25%;
+top: 24.54%;
+bottom: 71.59%;
+
+/* Secondary/Error */
+background: #FF483D;
+
+
+/* Vector */
+
+position: absolute;
+left: 49.18%;
+right: 49.78%;
+top: 26.72%;
+bottom: 72.68%;
+
+/* Secondary/Error */
+background: #FF483D;
+
+
+/* Vector */
+
+position: absolute;
+left: 50.57%;
+right: 48.14%;
+top: 24.5%;
+bottom: 71.59%;
+
+/* Secondary/Error */
+background: #FF483D;
+
+
+/* Vector */
+
+position: absolute;
+left: 50.07%;
+right: 49.81%;
+top: 29.83%;
+bottom: 69.88%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 50.21%;
+right: 49.68%;
+top: 29.83%;
+bottom: 69.88%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 50.35%;
+right: 49.52%;
+top: 29.83%;
+bottom: 69.88%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 50.5%;
+right: 49.37%;
+top: 29.83%;
+bottom: 69.88%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 50.65%;
+right: 49.24%;
+top: 29.83%;
+bottom: 69.88%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 50.78%;
+right: 49.1%;
+top: 29.83%;
+bottom: 69.88%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 50.91%;
+right: 48.97%;
+top: 29.83%;
+bottom: 69.88%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 51.04%;
+right: 48.85%;
+top: 29.83%;
+bottom: 69.88%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 51.16%;
+right: 48.72%;
+top: 29.83%;
+bottom: 69.88%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 51.29%;
+right: 48.59%;
+top: 29.83%;
+bottom: 69.88%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 51.44%;
+right: 48.44%;
+top: 29.83%;
+bottom: 69.88%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 49.94%;
+right: 49.98%;
+top: 30.39%;
+bottom: 69.4%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 50.05%;
+right: 49.87%;
+top: 30.32%;
+bottom: 69.39%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 50.16%;
+right: 49.82%;
+top: 30.32%;
+bottom: 69.4%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 50.21%;
+right: 49.71%;
+top: 30.39%;
+bottom: 69.31%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 50.32%;
+right: 49.66%;
+top: 30.32%;
+bottom: 69.4%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 50.36%;
+right: 49.56%;
+top: 30.39%;
+bottom: 69.39%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 50.47%;
+right: 49.45%;
+top: 30.39%;
+bottom: 69.39%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 50.57%;
+right: 49.41%;
+top: 30.32%;
+bottom: 69.4%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 50.62%;
+right: 49.3%;
+top: 30.39%;
+bottom: 69.4%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 50.73%;
+right: 49.19%;
+top: 30.39%;
+bottom: 69.31%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 50.89%;
+right: 49.03%;
+top: 30.4%;
+bottom: 69.39%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 51%;
+right: 48.97%;
+top: 30.32%;
+bottom: 69.4%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 51.06%;
+right: 48.92%;
+top: 30.32%;
+bottom: 69.4%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 51.1%;
+right: 48.85%;
+top: 30.34%;
+bottom: 69.39%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 51.17%;
+right: 48.81%;
+top: 30.57%;
+bottom: 69.34%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 51.27%;
+right: 48.65%;
+top: 30.39%;
+bottom: 69.39%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 51.37%;
+right: 48.55%;
+top: 30.4%;
+bottom: 69.39%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 51.48%;
+right: 48.44%;
+top: 30.32%;
+bottom: 69.39%;
+
+background: #FFFFFF;
+
+
+/* Group 214 */
+
+position: absolute;
+width: 415px;
+height: 246px;
+left: 1466px;
+top: 813px;
+
+
+
+/* Group 210 */
+
+position: absolute;
+width: 188px;
+height: 58px;
+left: 1693px;
+top: 813px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 88.82%;
+right: 2.05%;
+top: 75.28%;
+bottom: 19.38%;
+
+background: #63C8EB;
+opacity: 0.07;
+
+
+/* Group 208 */
+
+position: absolute;
+width: 73px;
+height: 30.78px;
+left: 1769px;
+top: 822px;
+
+
+
+/* Group 205 */
+
+position: absolute;
+width: 59.38px;
+height: 14.06px;
+left: 1769px;
+top: 838.72px;
+
+
+
+/* Group 196 */
+
+position: absolute;
+width: 59.38px;
+height: 14.06px;
+left: 1769px;
+top: 838.72px;
+
+opacity: 0.7;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.14%;
+right: 7.83%;
+top: 77.67%;
+bottom: 21.9%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.21%;
+right: 7.66%;
+top: 77.78%;
+bottom: 21.9%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.38%;
+right: 7.5%;
+top: 77.78%;
+bottom: 21.9%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.54%;
+right: 7.44%;
+top: 77.67%;
+bottom: 21.9%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.61%;
+right: 7.27%;
+top: 77.66%;
+bottom: 21.9%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.78%;
+right: 7.2%;
+top: 77.67%;
+bottom: 21.9%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.85%;
+right: 7.03%;
+top: 77.66%;
+bottom: 21.9%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.01%;
+right: 6.86%;
+top: 77.78%;
+bottom: 21.9%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.18%;
+right: 6.69%;
+top: 77.78%;
+bottom: 21.9%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.34%;
+right: 6.59%;
+top: 77.69%;
+bottom: 21.9%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.53%;
+right: 6.34%;
+top: 77.78%;
+bottom: 21.9%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.69%;
+right: 6.24%;
+top: 77.69%;
+bottom: 21.9%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.14%;
+right: 7.81%;
+top: 78.4%;
+bottom: 21.17%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.22%;
+right: 7.66%;
+top: 78.52%;
+bottom: 21.16%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.39%;
+right: 7.49%;
+top: 78.4%;
+bottom: 21.16%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.55%;
+right: 7.33%;
+top: 78.52%;
+bottom: 21.16%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.71%;
+right: 7.19%;
+top: 78.52%;
+bottom: 21.17%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.83%;
+right: 7.05%;
+top: 78.52%;
+bottom: 21.16%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.07%;
+right: 6.8%;
+top: 78.52%;
+bottom: 21.16%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.22%;
+right: 6.7%;
+top: 78.43%;
+bottom: 21.17%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.42%;
+right: 6.46%;
+top: 78.4%;
+bottom: 21.16%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.58%;
+right: 6.3%;
+top: 78.52%;
+bottom: 21.16%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.74%;
+right: 6.2%;
+top: 78.4%;
+bottom: 21.17%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.83%;
+right: 6.05%;
+top: 78.52%;
+bottom: 21.16%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.99%;
+right: 5.91%;
+top: 78.52%;
+bottom: 21.17%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.11%;
+right: 5.76%;
+top: 78.52%;
+bottom: 21.16%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.36%;
+right: 5.43%;
+top: 78.52%;
+bottom: 21.17%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.61%;
+right: 5.27%;
+top: 78.52%;
+bottom: 21.16%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.77%;
+right: 5.1%;
+top: 78.52%;
+bottom: 21.04%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.94%;
+right: 4.93%;
+top: 78.52%;
+bottom: 21.17%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 95.1%;
+right: 4.77%;
+top: 78.52%;
+bottom: 21.16%;
+
+background: #FFFFFF;
+
+
+/* Group 201 */
+
+position: absolute;
+width: 73px;
+height: 11px;
+left: 1769px;
+top: 822px;
+
+
+
+/* Group 207 */
+
+position: absolute;
+width: 73px;
+height: 11px;
+left: 1769px;
+top: 822px;
+
+
+
+/* 機器関連情報 */
+
+position: absolute;
+width: 73px;
+height: 11px;
+left: 1769px;
+top: 822px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 10px;
+/* identical to box height, or 85% */
+
+color: #FFFFFF;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 91.77%;
+right: 2.03%;
+top: 79.54%;
+bottom: 19.35%;
+
+background: #63C8EB;
+opacity: 0.07;
+
+
+/* EQUIPMENT */
+
+position: absolute;
+width: 36px;
+height: 8px;
+left: 1769px;
+top: 861px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 6px;
+line-height: 8px;
+display: flex;
+align-items: center;
+
+/* Theme/White */
+color: #FFFFFF;
+
+opacity: 0.7;
+
+
+/* Vector */
+
+position: absolute;
+left: 88.18%;
+right: 8.22%;
+top: 75.28%;
+bottom: 19.38%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* A7 */
+
+position: absolute;
+width: 41px;
+height: 44px;
+left: 1707px;
+top: 821px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 44px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #050C0D;
+
+
+
+/* Group */
+
+position: absolute;
+left: 97.56%;
+right: 2.24%;
+top: 75.58%;
+bottom: 23.88%;
+
+opacity: 0.1;
+
+
+/* Vector */
+
+position: absolute;
+left: 97.66%;
+right: 2.24%;
+top: 75.94%;
+bottom: 23.88%;
+
+background: #63C8EB;
+opacity: 0.1;
+transform: rotate(180deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 97.66%;
+right: 2.24%;
+top: 75.58%;
+bottom: 24.24%;
+
+background: #63C8EB;
+opacity: 0.1;
+transform: rotate(180deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 97.56%;
+right: 2.34%;
+top: 75.76%;
+bottom: 24.06%;
+
+background: #63C8EB;
+opacity: 0.1;
+transform: rotate(180deg);
+
+
+/* Group 209 */
+
+position: absolute;
+width: 38.54px;
+height: 5.92px;
+left: 1837.3px;
+top: 862px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 95.69%;
+right: 4.08%;
+top: 79.82%;
+bottom: 19.64%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Vector */
+
+position: absolute;
+left: 95.97%;
+right: 3.68%;
+top: 79.82%;
+bottom: 19.64%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Vector */
+
+position: absolute;
+left: 96.36%;
+right: 3.44%;
+top: 79.82%;
+bottom: 19.64%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Vector */
+
+position: absolute;
+left: 96.71%;
+right: 3.12%;
+top: 79.82%;
+bottom: 19.64%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Vector */
+
+position: absolute;
+left: 96.92%;
+right: 2.88%;
+top: 79.82%;
+bottom: 19.64%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Vector */
+
+position: absolute;
+left: 97.16%;
+right: 2.65%;
+top: 79.81%;
+bottom: 19.64%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Vector */
+
+position: absolute;
+left: 97.4%;
+right: 2.43%;
+top: 79.82%;
+bottom: 19.64%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Vector */
+
+position: absolute;
+left: 97.61%;
+right: 2.3%;
+top: 79.82%;
+bottom: 19.64%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Group 211 */
+
+position: absolute;
+width: 188.19px;
+height: 57.67px;
+left: 1692.81px;
+top: 906.67px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 88.82%;
+right: 2.05%;
+top: 83.95%;
+bottom: 10.71%;
+
+background: #63C8EB;
+opacity: 0.07;
+
+
+/* Group 208 */
+
+position: absolute;
+width: 73px;
+height: 30.78px;
+left: 1769px;
+top: 915.67px;
+
+
+
+/* Group 205 */
+
+position: absolute;
+width: 59.38px;
+height: 14.06px;
+left: 1769px;
+top: 932.39px;
+
+
+
+/* Group 196 */
+
+position: absolute;
+width: 59.38px;
+height: 14.06px;
+left: 1769px;
+top: 932.39px;
+
+opacity: 0.7;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.14%;
+right: 7.83%;
+top: 86.34%;
+bottom: 13.23%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.21%;
+right: 7.66%;
+top: 86.45%;
+bottom: 13.23%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.38%;
+right: 7.5%;
+top: 86.45%;
+bottom: 13.23%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.54%;
+right: 7.44%;
+top: 86.34%;
+bottom: 13.23%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.61%;
+right: 7.27%;
+top: 86.33%;
+bottom: 13.23%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.78%;
+right: 7.2%;
+top: 86.34%;
+bottom: 13.23%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.85%;
+right: 7.03%;
+top: 86.33%;
+bottom: 13.23%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.01%;
+right: 6.86%;
+top: 86.46%;
+bottom: 13.23%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.18%;
+right: 6.69%;
+top: 86.45%;
+bottom: 13.23%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.34%;
+right: 6.59%;
+top: 86.37%;
+bottom: 13.23%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.53%;
+right: 6.34%;
+top: 86.46%;
+bottom: 13.23%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.69%;
+right: 6.24%;
+top: 86.37%;
+bottom: 13.23%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.14%;
+right: 7.81%;
+top: 87.07%;
+bottom: 12.49%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.22%;
+right: 7.66%;
+top: 87.19%;
+bottom: 12.49%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.39%;
+right: 7.49%;
+top: 87.07%;
+bottom: 12.49%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.55%;
+right: 7.33%;
+top: 87.19%;
+bottom: 12.48%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.71%;
+right: 7.19%;
+top: 87.19%;
+bottom: 12.49%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.83%;
+right: 7.05%;
+top: 87.19%;
+bottom: 12.49%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.07%;
+right: 6.8%;
+top: 87.19%;
+bottom: 12.49%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.22%;
+right: 6.7%;
+top: 87.1%;
+bottom: 12.49%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.42%;
+right: 6.46%;
+top: 87.07%;
+bottom: 12.49%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.58%;
+right: 6.3%;
+top: 87.19%;
+bottom: 12.48%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.74%;
+right: 6.2%;
+top: 87.07%;
+bottom: 12.49%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.83%;
+right: 6.05%;
+top: 87.19%;
+bottom: 12.48%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.99%;
+right: 5.91%;
+top: 87.19%;
+bottom: 12.49%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.11%;
+right: 5.76%;
+top: 87.19%;
+bottom: 12.49%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.36%;
+right: 5.43%;
+top: 87.19%;
+bottom: 12.49%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.61%;
+right: 5.27%;
+top: 87.19%;
+bottom: 12.49%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.77%;
+right: 5.1%;
+top: 87.19%;
+bottom: 12.37%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.94%;
+right: 4.93%;
+top: 87.19%;
+bottom: 12.49%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 95.1%;
+right: 4.77%;
+top: 87.19%;
+bottom: 12.49%;
+
+background: #FFFFFF;
+
+
+/* Group 201 */
+
+position: absolute;
+width: 73px;
+height: 11px;
+left: 1769px;
+top: 915.67px;
+
+
+
+/* Group 207 */
+
+position: absolute;
+width: 73px;
+height: 11px;
+left: 1769px;
+top: 915.67px;
+
+
+
+/* 機器関連情報 */
+
+position: absolute;
+width: 73px;
+height: 11px;
+left: 1769px;
+top: 915.67px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 10px;
+/* identical to box height, or 85% */
+
+color: #FFFFFF;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 91.77%;
+right: 2.03%;
+top: 88.24%;
+bottom: 10.74%;
+
+background: #63C8EB;
+opacity: 0.07;
+
+
+/* EQUIPMENT */
+
+position: absolute;
+width: 36px;
+height: 8px;
+left: 1769px;
+top: 954.67px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 6px;
+line-height: 8px;
+display: flex;
+align-items: center;
+
+/* Theme/White */
+color: #FFFFFF;
+
+opacity: 0.7;
+
+
+/* Vector */
+
+position: absolute;
+left: 88.17%;
+right: 8.23%;
+top: 83.95%;
+bottom: 10.71%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* D6 */
+
+position: absolute;
+width: 42px;
+height: 44px;
+left: 1706px;
+top: 914px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 44px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #050C0D;
+
+
+
+/* Group */
+
+position: absolute;
+left: 97.56%;
+right: 2.24%;
+top: 84.26%;
+bottom: 15.2%;
+
+opacity: 0.1;
+
+
+/* Vector */
+
+position: absolute;
+left: 97.66%;
+right: 2.24%;
+top: 84.62%;
+bottom: 15.2%;
+
+background: #63C8EB;
+opacity: 0.1;
+transform: rotate(180deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 97.66%;
+right: 2.24%;
+top: 84.26%;
+bottom: 15.56%;
+
+background: #63C8EB;
+opacity: 0.1;
+transform: rotate(180deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 97.56%;
+right: 2.34%;
+top: 84.44%;
+bottom: 15.38%;
+
+background: #63C8EB;
+opacity: 0.1;
+transform: rotate(180deg);
+
+
+/* Group 209 */
+
+position: absolute;
+width: 38.54px;
+height: 5.92px;
+left: 1837.3px;
+top: 955.67px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 95.69%;
+right: 4.08%;
+top: 88.49%;
+bottom: 10.97%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Vector */
+
+position: absolute;
+left: 95.97%;
+right: 3.68%;
+top: 88.49%;
+bottom: 10.97%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Vector */
+
+position: absolute;
+left: 96.36%;
+right: 3.44%;
+top: 88.49%;
+bottom: 10.97%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Vector */
+
+position: absolute;
+left: 96.71%;
+right: 3.12%;
+top: 88.49%;
+bottom: 10.97%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Vector */
+
+position: absolute;
+left: 96.92%;
+right: 2.88%;
+top: 88.49%;
+bottom: 10.97%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Vector */
+
+position: absolute;
+left: 97.16%;
+right: 2.65%;
+top: 88.49%;
+bottom: 10.96%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Vector */
+
+position: absolute;
+left: 97.4%;
+right: 2.43%;
+top: 88.49%;
+bottom: 10.97%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Vector */
+
+position: absolute;
+left: 97.61%;
+right: 2.3%;
+top: 88.49%;
+bottom: 10.97%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Group 212 */
+
+position: absolute;
+width: 188.19px;
+height: 58.66px;
+left: 1692.81px;
+top: 1000.34px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 88.82%;
+right: 2.05%;
+top: 92.62%;
+bottom: 2.04%;
+
+background: #63C8EB;
+opacity: 0.07;
+
+
+/* Group 208 */
+
+position: absolute;
+width: 73px;
+height: 30.78px;
+left: 1769px;
+top: 1009.34px;
+
+
+
+/* Group 205 */
+
+position: absolute;
+width: 59.38px;
+height: 14.06px;
+left: 1769px;
+top: 1026.06px;
+
+
+
+/* Group 196 */
+
+position: absolute;
+width: 59.38px;
+height: 14.06px;
+left: 1769px;
+top: 1026.06px;
+
+opacity: 0.7;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.14%;
+right: 7.83%;
+top: 95.01%;
+bottom: 4.56%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.21%;
+right: 7.66%;
+top: 95.13%;
+bottom: 4.56%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.38%;
+right: 7.5%;
+top: 95.12%;
+bottom: 4.55%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.54%;
+right: 7.44%;
+top: 95.01%;
+bottom: 4.56%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.61%;
+right: 7.27%;
+top: 95.01%;
+bottom: 4.55%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.78%;
+right: 7.2%;
+top: 95.01%;
+bottom: 4.56%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.85%;
+right: 7.03%;
+top: 95.01%;
+bottom: 4.55%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.01%;
+right: 6.86%;
+top: 95.13%;
+bottom: 4.55%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.18%;
+right: 6.69%;
+top: 95.13%;
+bottom: 4.56%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.34%;
+right: 6.59%;
+top: 95.04%;
+bottom: 4.56%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.53%;
+right: 6.34%;
+top: 95.13%;
+bottom: 4.55%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.69%;
+right: 6.24%;
+top: 95.04%;
+bottom: 4.56%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.14%;
+right: 7.81%;
+top: 95.74%;
+bottom: 3.82%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.22%;
+right: 7.66%;
+top: 95.86%;
+bottom: 3.81%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.39%;
+right: 7.49%;
+top: 95.74%;
+bottom: 3.81%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.55%;
+right: 7.33%;
+top: 95.87%;
+bottom: 3.81%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.71%;
+right: 7.19%;
+top: 95.86%;
+bottom: 3.82%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.83%;
+right: 7.05%;
+top: 95.86%;
+bottom: 3.81%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.07%;
+right: 6.8%;
+top: 95.86%;
+bottom: 3.81%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.22%;
+right: 6.7%;
+top: 95.77%;
+bottom: 3.82%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.42%;
+right: 6.46%;
+top: 95.74%;
+bottom: 3.81%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.58%;
+right: 6.3%;
+top: 95.87%;
+bottom: 3.81%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.74%;
+right: 6.2%;
+top: 95.74%;
+bottom: 3.82%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.83%;
+right: 6.05%;
+top: 95.87%;
+bottom: 3.81%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.99%;
+right: 5.91%;
+top: 95.86%;
+bottom: 3.82%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.11%;
+right: 5.76%;
+top: 95.86%;
+bottom: 3.81%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.36%;
+right: 5.43%;
+top: 95.86%;
+bottom: 3.82%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.61%;
+right: 5.27%;
+top: 95.86%;
+bottom: 3.81%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.77%;
+right: 5.1%;
+top: 95.86%;
+bottom: 3.69%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.94%;
+right: 4.93%;
+top: 95.86%;
+bottom: 3.82%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 95.1%;
+right: 4.77%;
+top: 95.86%;
+bottom: 3.81%;
+
+background: #FFFFFF;
+
+
+/* Group 201 */
+
+position: absolute;
+width: 73px;
+height: 11px;
+left: 1769px;
+top: 1009.34px;
+
+
+
+/* Group 207 */
+
+position: absolute;
+width: 73px;
+height: 11px;
+left: 1769px;
+top: 1009.34px;
+
+
+
+/* 機器関連情報 */
+
+position: absolute;
+width: 73px;
+height: 11px;
+left: 1769px;
+top: 1009.34px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 10px;
+/* identical to box height, or 85% */
+
+color: #FFFFFF;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 91.77%;
+right: 2.03%;
+top: 96.94%;
+bottom: 1.94%;
+
+background: #63C8EB;
+opacity: 0.07;
+
+
+/* EQUIPMENT */
+
+position: absolute;
+width: 36px;
+height: 8px;
+left: 1769px;
+top: 1048.34px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 6px;
+line-height: 8px;
+display: flex;
+align-items: center;
+
+/* Theme/White */
+color: #FFFFFF;
+
+opacity: 0.7;
+
+
+/* Vector */
+
+position: absolute;
+left: 88.17%;
+right: 8.23%;
+top: 92.62%;
+bottom: 2.04%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* S3 */
+
+position: absolute;
+width: 36px;
+height: 44px;
+left: 1709px;
+top: 1007px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 44px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #050C0D;
+
+
+
+/* Group */
+
+position: absolute;
+left: 97.56%;
+right: 2.24%;
+top: 92.93%;
+bottom: 6.53%;
+
+opacity: 0.1;
+
+
+/* Vector */
+
+position: absolute;
+left: 97.66%;
+right: 2.24%;
+top: 93.29%;
+bottom: 6.53%;
+
+background: #63C8EB;
+opacity: 0.1;
+transform: rotate(180deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 97.66%;
+right: 2.24%;
+top: 92.93%;
+bottom: 6.89%;
+
+background: #63C8EB;
+opacity: 0.1;
+transform: rotate(180deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 97.56%;
+right: 2.34%;
+top: 93.11%;
+bottom: 6.71%;
+
+background: #63C8EB;
+opacity: 0.1;
+transform: rotate(180deg);
+
+
+/* Group 209 */
+
+position: absolute;
+width: 38.54px;
+height: 5.92px;
+left: 1837.3px;
+top: 1049.34px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 95.69%;
+right: 4.08%;
+top: 97.17%;
+bottom: 2.29%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Vector */
+
+position: absolute;
+left: 95.97%;
+right: 3.68%;
+top: 97.17%;
+bottom: 2.3%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Vector */
+
+position: absolute;
+left: 96.36%;
+right: 3.44%;
+top: 97.17%;
+bottom: 2.3%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Vector */
+
+position: absolute;
+left: 96.71%;
+right: 3.12%;
+top: 97.16%;
+bottom: 2.29%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Vector */
+
+position: absolute;
+left: 96.92%;
+right: 2.88%;
+top: 97.17%;
+bottom: 2.3%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Vector */
+
+position: absolute;
+left: 97.16%;
+right: 2.65%;
+top: 97.16%;
+bottom: 2.29%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Vector */
+
+position: absolute;
+left: 97.4%;
+right: 2.43%;
+top: 97.17%;
+bottom: 2.29%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Vector */
+
+position: absolute;
+left: 97.61%;
+right: 2.3%;
+top: 97.17%;
+bottom: 2.3%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Frame 204 */
+
+position: absolute;
+width: 194px;
+height: 194px;
+left: 1466px;
+top: 843px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 96.7%;
+right: -0.24%;
+top: 50.88%;
+bottom: 48.57%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+transform: rotate(-135deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 96.7%;
+right: -0.24%;
+top: 48.75%;
+bottom: 50.71%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+transform: rotate(135deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 53.1%;
+right: 43.36%;
+top: 6.04%;
+bottom: 93.42%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+transform: rotate(135deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 50.97%;
+right: 45.49%;
+top: 6.04%;
+bottom: 93.41%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+transform: rotate(45deg);
+
+
+/* Group */
+
+position: absolute;
+left: 13.85%;
+right: 85.97%;
+top: 42.86%;
+bottom: 41.85%;
+
+mix-blend-mode: screen;
+
+
+/* Vector */
+
+position: absolute;
+left: 13.91%;
+right: 85.97%;
+top: 42.86%;
+bottom: 56.98%;
+
+background: #FFFFFF;
+mix-blend-mode: screen;
+
+
+/* Vector */
+
+position: absolute;
+left: 13.85%;
+right: 86.03%;
+top: 58%;
+bottom: 41.85%;
+
+background: #FFFFFF;
+mix-blend-mode: screen;
+
+
+/* Vector */
+
+position: absolute;
+left: 31.44%;
+right: 61.6%;
+top: 46.01%;
+bottom: 44.23%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Vector */
+
+position: absolute;
+left: 39.25%;
+right: 53.08%;
+top: 46.01%;
+bottom: 44.22%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Vector */
+
+position: absolute;
+left: 51.88%;
+right: 45.41%;
+top: 44.86%;
+bottom: 42.03%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Group 201 */
+
+position: absolute;
+width: 73px;
+height: 24.78px;
+left: 78px;
+top: 120px;
+
+
+
+/* EQUIPMENT OPERATION */
+
+position: absolute;
+width: 73px;
+height: 8px;
+left: 78px;
+top: 120px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 6px;
+line-height: 8px;
+display: flex;
+align-items: center;
+
+/* Theme/White */
+color: #FFFFFF;
+
+
+
+/* Group 196 */
+
+position: absolute;
+width: 59.38px;
+height: 14.06px;
+left: 78.13px;
+top: 130.72px;
+
+opacity: 0.7;
+
+
+/* Vector */
+
+position: absolute;
+left: 40.34%;
+right: 59.41%;
+top: 67.43%;
+bottom: 30.19%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 41.05%;
+right: 57.73%;
+top: 68.05%;
+bottom: 30.19%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 42.67%;
+right: 56.11%;
+top: 68.04%;
+bottom: 30.16%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 44.26%;
+right: 55.5%;
+top: 67.43%;
+bottom: 30.19%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 44.94%;
+right: 53.85%;
+top: 67.38%;
+bottom: 30.16%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 46.64%;
+right: 53.12%;
+top: 67.43%;
+bottom: 30.19%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 47.32%;
+right: 51.47%;
+top: 67.38%;
+bottom: 30.16%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 48.95%;
+right: 49.81%;
+top: 68.08%;
+bottom: 30.16%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 50.65%;
+right: 48.12%;
+top: 68.05%;
+bottom: 30.19%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 52.17%;
+right: 47.07%;
+top: 67.57%;
+bottom: 30.17%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 54.09%;
+right: 44.69%;
+top: 68.08%;
+bottom: 30.16%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 55.62%;
+right: 43.61%;
+top: 67.57%;
+bottom: 30.17%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 40.27%;
+right: 59.15%;
+top: 71.49%;
+bottom: 26.08%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 41.09%;
+right: 57.68%;
+top: 72.16%;
+bottom: 26.05%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 42.76%;
+right: 56.03%;
+top: 71.49%;
+bottom: 26.05%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 44.34%;
+right: 54.45%;
+top: 72.18%;
+bottom: 26.03%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.96%;
+right: 53.05%;
+top: 72.16%;
+bottom: 26.09%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 47.15%;
+right: 51.62%;
+top: 72.16%;
+bottom: 26.05%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 49.55%;
+right: 49.23%;
+top: 72.16%;
+bottom: 26.05%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 51.04%;
+right: 48.19%;
+top: 71.66%;
+bottom: 26.09%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 52.95%;
+right: 45.84%;
+top: 71.49%;
+bottom: 26.05%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 54.56%;
+right: 44.23%;
+top: 72.18%;
+bottom: 26.03%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 56.18%;
+right: 43.24%;
+top: 71.49%;
+bottom: 26.08%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 57.04%;
+right: 41.75%;
+top: 72.18%;
+bottom: 26.03%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 58.66%;
+right: 40.36%;
+top: 72.16%;
+bottom: 26.09%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 59.85%;
+right: 38.92%;
+top: 72.16%;
+bottom: 26.05%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 62.28%;
+right: 35.62%;
+top: 72.15%;
+bottom: 26.09%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 64.77%;
+right: 34.01%;
+top: 72.16%;
+bottom: 26.05%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 66.39%;
+right: 32.4%;
+top: 72.16%;
+bottom: 25.37%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 68.05%;
+right: 30.73%;
+top: 72.15%;
+bottom: 26.09%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 69.66%;
+right: 29.12%;
+top: 72.16%;
+bottom: 26.05%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 59.22%;
+right: 34.36%;
+top: 46.02%;
+bottom: 44.22%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Vector */
+
+position: absolute;
+left: 66.43%;
+right: 30.67%;
+top: 46.01%;
+bottom: 44.23%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Vector */
+
+position: absolute;
+left: 74.3%;
+right: 23.01%;
+top: 44.86%;
+bottom: 42.03%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Ellipse 20 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 142px;
+height: 142px;
+left: 33px;
+top: 26px;
+
+border: 1px solid #FFFFFF;
+
+
+/* Ellipse 21 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 152px;
+height: 152px;
+left: 28px;
+top: 21px;
+
+border: 0.5px dashed rgba(255, 255, 255, 0.4);
+
+
+/* Subtract */
+
+position: absolute;
+width: 165.42px;
+height: 182px;
+left: 22.29px;
+top: 6px;
+
+/* Theme/Cyan */
+background: #18FEFE;
+box-shadow: 0px 0px 6px rgba(24, 254, 254, 0.47);
+
+
+/* FG */
+
+position: absolute;
+width: 23px;
+height: 25px;
+left: 0px;
+top: 89px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 25px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* Group 220 */
+
+position: absolute;
+width: 217.8px;
+height: 171.19px;
+left: 1662px;
+top: 453.78px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 86.56%;
+right: 2.09%;
+top: 44.96%;
+bottom: 42.13%;
+
+background: #003A3A;
+opacity: 0.3;
+
+
+/* Group 202 */
+
+position: absolute;
+width: 73px;
+height: 24.78px;
+left: 1756.35px;
+top: 499px;
+
+
+
+/* EQUIPMENT OPERATION */
+
+position: absolute;
+width: 73px;
+height: 8px;
+left: 1756.35px;
+top: 499px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 6px;
+line-height: 8px;
+display: flex;
+align-items: center;
+
+/* Theme/White */
+color: #FFFFFF;
+
+
+
+/* Group 196 */
+
+position: absolute;
+width: 59.38px;
+height: 14.06px;
+left: 1756.48px;
+top: 509.72px;
+
+opacity: 0.7;
+
+
+/* Vector */
+
+position: absolute;
+left: 91.49%;
+right: 8.48%;
+top: 47.2%;
+bottom: 52.37%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 91.56%;
+right: 8.31%;
+top: 47.32%;
+bottom: 52.37%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 91.73%;
+right: 8.15%;
+top: 47.31%;
+bottom: 52.36%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 91.89%;
+right: 8.09%;
+top: 47.2%;
+bottom: 52.37%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 91.96%;
+right: 7.92%;
+top: 47.2%;
+bottom: 52.36%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.13%;
+right: 7.85%;
+top: 47.2%;
+bottom: 52.37%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.2%;
+right: 7.68%;
+top: 47.2%;
+bottom: 52.36%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.36%;
+right: 7.52%;
+top: 47.32%;
+bottom: 52.36%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.53%;
+right: 7.34%;
+top: 47.32%;
+bottom: 52.37%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.68%;
+right: 7.24%;
+top: 47.23%;
+bottom: 52.36%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.88%;
+right: 7%;
+top: 47.32%;
+bottom: 52.36%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.03%;
+right: 6.89%;
+top: 47.23%;
+bottom: 52.36%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 91.48%;
+right: 8.46%;
+top: 47.94%;
+bottom: 51.63%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 91.57%;
+right: 8.31%;
+top: 48.05%;
+bottom: 51.62%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 91.73%;
+right: 8.14%;
+top: 47.94%;
+bottom: 51.62%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 91.89%;
+right: 7.98%;
+top: 48.06%;
+bottom: 51.62%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.06%;
+right: 7.84%;
+top: 48.05%;
+bottom: 51.63%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.18%;
+right: 7.7%;
+top: 48.05%;
+bottom: 51.62%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.42%;
+right: 7.46%;
+top: 48.05%;
+bottom: 51.62%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.57%;
+right: 7.35%;
+top: 47.96%;
+bottom: 51.63%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.76%;
+right: 7.11%;
+top: 47.94%;
+bottom: 51.62%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.93%;
+right: 6.95%;
+top: 48.06%;
+bottom: 51.62%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.09%;
+right: 6.85%;
+top: 47.94%;
+bottom: 51.63%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.18%;
+right: 6.7%;
+top: 48.06%;
+bottom: 51.62%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.34%;
+right: 6.56%;
+top: 48.05%;
+bottom: 51.63%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.46%;
+right: 6.41%;
+top: 48.05%;
+bottom: 51.62%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.71%;
+right: 6.08%;
+top: 48.05%;
+bottom: 51.63%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.96%;
+right: 5.92%;
+top: 48.05%;
+bottom: 51.62%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.12%;
+right: 5.76%;
+top: 48.05%;
+bottom: 51.5%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.29%;
+right: 5.59%;
+top: 48.05%;
+bottom: 51.63%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.45%;
+right: 5.42%;
+top: 48.05%;
+bottom: 51.62%;
+
+background: #FFFFFF;
+
+
+/* Group 203 */
+
+position: absolute;
+width: 73px;
+height: 24.78px;
+left: 1756.35px;
+top: 539.78px;
+
+
+
+/* EQUIPMENT OPERATION */
+
+position: absolute;
+width: 73px;
+height: 8px;
+left: 1756.35px;
+top: 539.78px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 6px;
+line-height: 8px;
+display: flex;
+align-items: center;
+
+/* Theme/White */
+color: #FFFFFF;
+
+
+
+/* Group 196 */
+
+position: absolute;
+width: 59.38px;
+height: 14.06px;
+left: 1756.48px;
+top: 550.5px;
+
+opacity: 0.7;
+
+
+/* Vector */
+
+position: absolute;
+left: 91.49%;
+right: 8.48%;
+top: 50.98%;
+bottom: 48.59%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 91.56%;
+right: 8.31%;
+top: 51.09%;
+bottom: 48.59%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 91.73%;
+right: 8.15%;
+top: 51.09%;
+bottom: 48.59%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 91.89%;
+right: 8.09%;
+top: 50.98%;
+bottom: 48.59%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 91.96%;
+right: 7.92%;
+top: 50.97%;
+bottom: 48.59%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.13%;
+right: 7.85%;
+top: 50.98%;
+bottom: 48.59%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.2%;
+right: 7.68%;
+top: 50.97%;
+bottom: 48.59%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.36%;
+right: 7.52%;
+top: 51.1%;
+bottom: 48.59%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.53%;
+right: 7.34%;
+top: 51.09%;
+bottom: 48.59%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.68%;
+right: 7.24%;
+top: 51.01%;
+bottom: 48.59%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.88%;
+right: 7%;
+top: 51.1%;
+bottom: 48.59%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.03%;
+right: 6.89%;
+top: 51.01%;
+bottom: 48.59%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 91.48%;
+right: 8.46%;
+top: 51.71%;
+bottom: 47.85%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 91.57%;
+right: 8.31%;
+top: 51.83%;
+bottom: 47.85%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 91.73%;
+right: 8.14%;
+top: 51.71%;
+bottom: 47.85%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 91.89%;
+right: 7.98%;
+top: 51.83%;
+bottom: 47.84%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.06%;
+right: 7.84%;
+top: 51.83%;
+bottom: 47.85%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.18%;
+right: 7.7%;
+top: 51.83%;
+bottom: 47.85%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.42%;
+right: 7.46%;
+top: 51.83%;
+bottom: 47.85%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.57%;
+right: 7.35%;
+top: 51.74%;
+bottom: 47.85%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.76%;
+right: 7.11%;
+top: 51.71%;
+bottom: 47.85%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.93%;
+right: 6.95%;
+top: 51.83%;
+bottom: 47.84%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.09%;
+right: 6.85%;
+top: 51.71%;
+bottom: 47.85%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.18%;
+right: 6.7%;
+top: 51.83%;
+bottom: 47.84%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.34%;
+right: 6.56%;
+top: 51.83%;
+bottom: 47.85%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.46%;
+right: 6.41%;
+top: 51.83%;
+bottom: 47.85%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.71%;
+right: 6.08%;
+top: 51.83%;
+bottom: 47.85%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.96%;
+right: 5.92%;
+top: 51.83%;
+bottom: 47.85%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.12%;
+right: 5.76%;
+top: 51.83%;
+bottom: 47.73%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.29%;
+right: 5.59%;
+top: 51.83%;
+bottom: 47.85%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.45%;
+right: 5.42%;
+top: 51.83%;
+bottom: 47.85%;
+
+background: #FFFFFF;
+
+
+/* Group 204 */
+
+position: absolute;
+width: 73px;
+height: 24.78px;
+left: 1756.35px;
+top: 581px;
+
+
+
+/* EQUIPMENT OPERATION */
+
+position: absolute;
+width: 73px;
+height: 8px;
+left: 1756.35px;
+top: 581px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 6px;
+line-height: 8px;
+display: flex;
+align-items: center;
+
+/* Theme/White */
+color: #FFFFFF;
+
+
+
+/* Group 196 */
+
+position: absolute;
+width: 59.38px;
+height: 14.06px;
+left: 1756.48px;
+top: 591.72px;
+
+opacity: 0.7;
+
+
+/* Vector */
+
+position: absolute;
+left: 91.49%;
+right: 8.48%;
+top: 54.8%;
+bottom: 44.77%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 91.56%;
+right: 8.31%;
+top: 54.91%;
+bottom: 44.77%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 91.73%;
+right: 8.15%;
+top: 54.91%;
+bottom: 44.77%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 91.89%;
+right: 8.09%;
+top: 54.8%;
+bottom: 44.77%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 91.96%;
+right: 7.92%;
+top: 54.79%;
+bottom: 44.77%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.13%;
+right: 7.85%;
+top: 54.8%;
+bottom: 44.77%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.2%;
+right: 7.68%;
+top: 54.79%;
+bottom: 44.77%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.36%;
+right: 7.52%;
+top: 54.91%;
+bottom: 44.77%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.53%;
+right: 7.34%;
+top: 54.91%;
+bottom: 44.77%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.68%;
+right: 7.24%;
+top: 54.82%;
+bottom: 44.77%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.88%;
+right: 7%;
+top: 54.91%;
+bottom: 44.77%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.03%;
+right: 6.89%;
+top: 54.82%;
+bottom: 44.77%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 91.48%;
+right: 8.46%;
+top: 55.53%;
+bottom: 44.04%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 91.57%;
+right: 8.31%;
+top: 55.65%;
+bottom: 44.03%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 91.73%;
+right: 8.14%;
+top: 55.53%;
+bottom: 44.03%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 91.89%;
+right: 7.98%;
+top: 55.65%;
+bottom: 44.03%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.06%;
+right: 7.84%;
+top: 55.65%;
+bottom: 44.04%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.18%;
+right: 7.7%;
+top: 55.65%;
+bottom: 44.03%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.42%;
+right: 7.46%;
+top: 55.65%;
+bottom: 44.03%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.57%;
+right: 7.35%;
+top: 55.56%;
+bottom: 44.04%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.76%;
+right: 7.11%;
+top: 55.53%;
+bottom: 44.03%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.93%;
+right: 6.95%;
+top: 55.65%;
+bottom: 44.03%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.09%;
+right: 6.85%;
+top: 55.53%;
+bottom: 44.04%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.18%;
+right: 6.7%;
+top: 55.65%;
+bottom: 44.03%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.34%;
+right: 6.56%;
+top: 55.65%;
+bottom: 44.04%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.46%;
+right: 6.41%;
+top: 55.65%;
+bottom: 44.03%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.71%;
+right: 6.08%;
+top: 55.65%;
+bottom: 44.04%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.96%;
+right: 5.92%;
+top: 55.65%;
+bottom: 44.03%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.12%;
+right: 5.76%;
+top: 55.65%;
+bottom: 43.91%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.29%;
+right: 5.59%;
+top: 55.65%;
+bottom: 44.04%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.45%;
+right: 5.42%;
+top: 55.65%;
+bottom: 44.03%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 86.56%;
+right: 9.36%;
+top: 44.96%;
+bottom: 42.13%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+opacity: 0.1;
+
+
+/* Vector */
+
+position: absolute;
+left: 86.56%;
+right: 2.09%;
+top: 42.02%;
+bottom: 55.69%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+opacity: 0.07;
+
+
+/* Vector */
+
+position: absolute;
+left: 87.28%;
+right: 11.3%;
+top: 49.32%;
+bottom: 46.82%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Vector */
+
+position: absolute;
+left: 88.9%;
+right: 9.8%;
+top: 49.28%;
+bottom: 46.77%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* 運用データの監視 */
+
+position: absolute;
+width: 96px;
+height: 16px;
+left: 1771px;
+top: 458px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+
+/* Theme/Cyan */
+color: #18FEFE;
+
+
+
+/* Group 221 */
+
+position: absolute;
+width: 215px;
+height: 313.78px;
+left: 1662px;
+top: 116px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 87.68%;
+right: 5.73%;
+top: 25.37%;
+bottom: 60.21%;
+
+background: #027474;
+opacity: 0.07;
+
+
+/* Vector */
+
+position: absolute;
+left: 86.56%;
+right: 12.63%;
+top: 25.37%;
+bottom: 60.21%;
+
+background: #63C8EB;
+opacity: 0.07;
+
+
+/* Vector */
+
+position: absolute;
+left: 87.68%;
+right: 2.24%;
+top: 25.37%;
+bottom: 71.8%;
+
+/* Theme/White */
+background: #FFFFFF;
+opacity: 0.07;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.71%;
+right: 5.11%;
+top: 29.41%;
+bottom: 70.11%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.92%;
+right: 4.88%;
+top: 29.4%;
+bottom: 70.1%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 95.17%;
+right: 4.63%;
+top: 29.41%;
+bottom: 70.11%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 95.42%;
+right: 4.4%;
+top: 29.41%;
+bottom: 70.11%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 95.65%;
+right: 4.11%;
+top: 29.41%;
+bottom: 70.11%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 96.05%;
+right: 3.9%;
+top: 29.41%;
+bottom: 70.11%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 96.16%;
+right: 3.65%;
+top: 29.41%;
+bottom: 70.11%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 96.38%;
+right: 3.42%;
+top: 29.41%;
+bottom: 70.1%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 96.62%;
+right: 3.18%;
+top: 29.41%;
+bottom: 70.1%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 96.87%;
+right: 2.89%;
+top: 29.41%;
+bottom: 70.11%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.69%;
+right: 5.17%;
+top: 30.36%;
+bottom: 69.28%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.88%;
+right: 5.1%;
+top: 30.23%;
+bottom: 69.29%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.94%;
+right: 4.97%;
+top: 30.26%;
+bottom: 69.29%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 95.16%;
+right: 4.71%;
+top: 30.36%;
+bottom: 69.28%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 95.34%;
+right: 4.42%;
+top: 30.36%;
+bottom: 69.29%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 95.62%;
+right: 4.24%;
+top: 30.36%;
+bottom: 69.28%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 95.79%;
+right: 4.12%;
+top: 30.26%;
+bottom: 69.29%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.71%;
+right: 5.09%;
+top: 34.33%;
+bottom: 65.18%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.95%;
+right: 4.85%;
+top: 34.33%;
+bottom: 65.17%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 95.31%;
+right: 4.51%;
+top: 34.33%;
+bottom: 65.18%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 95.53%;
+right: 4.41%;
+top: 34.33%;
+bottom: 65.18%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 95.64%;
+right: 4.16%;
+top: 34.33%;
+bottom: 65.18%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 95.87%;
+right: 3.92%;
+top: 34.33%;
+bottom: 65.18%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 96.12%;
+right: 3.64%;
+top: 34.33%;
+bottom: 65.18%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 96.42%;
+right: 3.38%;
+top: 34.33%;
+bottom: 65.17%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 96.66%;
+right: 3.14%;
+top: 34.33%;
+bottom: 65.18%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.71%;
+right: 5.26%;
+top: 35.16%;
+bottom: 64.36%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.79%;
+right: 5.07%;
+top: 35.28%;
+bottom: 64.36%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.97%;
+right: 4.89%;
+top: 35.29%;
+bottom: 64.36%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 95.15%;
+right: 4.82%;
+top: 35.16%;
+bottom: 64.36%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 95.23%;
+right: 4.64%;
+top: 35.15%;
+bottom: 64.36%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 95.42%;
+right: 4.55%;
+top: 35.16%;
+bottom: 64.36%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 95.5%;
+right: 4.37%;
+top: 35.15%;
+bottom: 64.36%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 95.68%;
+right: 4.18%;
+top: 35.29%;
+bottom: 64.36%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 95.87%;
+right: 4%;
+top: 35.28%;
+bottom: 64.36%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 96.04%;
+right: 3.87%;
+top: 35.19%;
+bottom: 64.36%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 96.26%;
+right: 3.61%;
+top: 35.29%;
+bottom: 64.36%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 96.43%;
+right: 3.49%;
+top: 35.19%;
+bottom: 64.36%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.7%;
+right: 5.23%;
+top: 35.97%;
+bottom: 63.54%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.8%;
+right: 5.07%;
+top: 36.11%;
+bottom: 63.54%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.98%;
+right: 4.88%;
+top: 35.97%;
+bottom: 63.54%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 95.16%;
+right: 4.7%;
+top: 36.1%;
+bottom: 63.54%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 95.34%;
+right: 4.55%;
+top: 36.11%;
+bottom: 63.54%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 95.48%;
+right: 4.39%;
+top: 36.11%;
+bottom: 63.53%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 95.75%;
+right: 4.12%;
+top: 36.11%;
+bottom: 63.53%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 95.91%;
+right: 4%;
+top: 36.01%;
+bottom: 63.54%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 96.13%;
+right: 3.74%;
+top: 35.97%;
+bottom: 63.54%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 96.31%;
+right: 3.56%;
+top: 36.1%;
+bottom: 63.54%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 96.49%;
+right: 3.44%;
+top: 35.97%;
+bottom: 63.54%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 96.59%;
+right: 3.28%;
+top: 36.1%;
+bottom: 63.54%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 96.77%;
+right: 3.12%;
+top: 36.11%;
+bottom: 63.54%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 96.9%;
+right: 2.96%;
+top: 36.11%;
+bottom: 63.53%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.7%;
+right: 5.06%;
+top: 36.93%;
+bottom: 62.72%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.98%;
+right: 4.88%;
+top: 36.92%;
+bottom: 62.72%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 95.17%;
+right: 4.7%;
+top: 36.92%;
+bottom: 62.58%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 95.35%;
+right: 4.51%;
+top: 36.93%;
+bottom: 62.72%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 95.53%;
+right: 4.33%;
+top: 36.92%;
+bottom: 62.72%;
+
+background: #FFFFFF;
+
+
+/* Group 222 */
+
+position: absolute;
+width: 100.33px;
+height: 8.19px;
+left: 1696.56px;
+top: 285.67px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 88.36%;
+right: 11.39%;
+top: 26.45%;
+bottom: 72.8%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 88.66%;
+right: 11.06%;
+top: 26.46%;
+bottom: 72.8%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 88.97%;
+right: 10.9%;
+top: 26.46%;
+bottom: 72.8%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 89.17%;
+right: 10.75%;
+top: 27.06%;
+bottom: 72.8%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 89.3%;
+right: 10.45%;
+top: 26.45%;
+bottom: 72.8%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 89.62%;
+right: 10.14%;
+top: 26.46%;
+bottom: 72.79%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 89.93%;
+right: 9.82%;
+top: 26.45%;
+bottom: 72.8%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 90.22%;
+right: 9.52%;
+top: 26.46%;
+bottom: 72.79%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 90.54%;
+right: 9.38%;
+top: 27.06%;
+bottom: 72.8%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 90.67%;
+right: 9.2%;
+top: 26.46%;
+bottom: 72.8%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 90.88%;
+right: 8.87%;
+top: 26.46%;
+bottom: 72.79%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 91.19%;
+right: 8.56%;
+top: 26.45%;
+bottom: 72.8%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 91.49%;
+right: 8.25%;
+top: 26.46%;
+bottom: 72.79%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 91.81%;
+right: 8.11%;
+top: 27.06%;
+bottom: 72.8%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 91.93%;
+right: 7.94%;
+top: 26.46%;
+bottom: 72.8%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.13%;
+right: 7.74%;
+top: 26.46%;
+bottom: 72.8%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.33%;
+right: 7.42%;
+top: 26.45%;
+bottom: 72.8%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.64%;
+right: 7.28%;
+top: 27.06%;
+bottom: 72.8%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.9%;
+right: 6.76%;
+top: 26.46%;
+bottom: 72.8%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.29%;
+right: 6.41%;
+top: 26.46%;
+bottom: 72.8%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 88.24%;
+right: 9.5%;
+top: 14.85%;
+bottom: 79.5%;
+
+/* Theme/White */
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 91.13%;
+right: 6.51%;
+top: 14.85%;
+bottom: 79.5%;
+
+/* Theme/White */
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 95.05%;
+right: 4.01%;
+top: 14.86%;
+bottom: 79.5%;
+
+/* Theme/White */
+background: #FFFFFF;
+
+
+/* Union */
+
+position: absolute;
+width: 22.64px;
+height: 22.64px;
+left: 1854.35px;
+top: 242.67px;
+
+/* Theme/White */
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 97.35%;
+right: 2.24%;
+top: 22.47%;
+bottom: 75.43%;
+
+background: #00BACB;
+
+
+/* Vector */
+
+position: absolute;
+left: 96.58%;
+right: 3.01%;
+top: 23.84%;
+bottom: 74.06%;
+
+background: #00BACB;
+transform: rotate(-90deg);
+
+
+/* Union */
+
+position: absolute;
+width: 22.64px;
+height: 22.64px;
+left: 1662px;
+top: 116px;
+
+/* Theme/White */
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 86.56%;
+right: 13.03%;
+top: 10.74%;
+bottom: 87.16%;
+
+background: #00BACB;
+transform: rotate(180deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 86.56%;
+right: 13.03%;
+top: 10.74%;
+bottom: 87.16%;
+
+background: #00BACB;
+transform: rotate(90deg);
+
+
+/* Group 216 */
+
+position: absolute;
+width: 387px;
+height: 147px;
+left: 1218px;
+top: 605px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 63.46%;
+right: 16.41%;
+top: 56.02%;
+bottom: 32.19%;
+
+background: #000405;
+opacity: 0.8;
+
+
+/* Frame 217 */
+
+position: absolute;
+width: 208px;
+height: 71.78px;
+right: 366px;
+top: 644px;
+
+
+
+/* Group 201 */
+
+position: absolute;
+width: 73px;
+height: 24.78px;
+left: 0px;
+top: 0px;
+
+
+
+/* EQUIPMENT OPERATION */
+
+position: absolute;
+width: 73px;
+height: 8px;
+left: 0px;
+top: 0px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 6px;
+line-height: 8px;
+display: flex;
+align-items: center;
+
+/* Theme/White */
+color: #FFFFFF;
+
+
+
+/* Group 196 */
+
+position: absolute;
+width: 59.38px;
+height: 14.06px;
+left: 0.13px;
+top: 10.72px;
+
+opacity: 0.7;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.12%;
+right: 99.64%;
+top: 15.06%;
+bottom: 78.49%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.78%;
+right: 98.07%;
+top: 16.74%;
+bottom: 78.49%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 2.3%;
+right: 96.56%;
+top: 16.72%;
+bottom: 78.42%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 3.78%;
+right: 96%;
+top: 15.06%;
+bottom: 78.49%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.42%;
+right: 94.46%;
+top: 14.93%;
+bottom: 78.42%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 6%;
+right: 93.77%;
+top: 15.06%;
+bottom: 78.49%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.63%;
+right: 92.24%;
+top: 14.93%;
+bottom: 78.42%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.16%;
+right: 90.69%;
+top: 16.81%;
+bottom: 78.42%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.74%;
+right: 89.11%;
+top: 16.74%;
+bottom: 78.49%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 11.15%;
+right: 88.13%;
+top: 15.45%;
+bottom: 78.46%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.95%;
+right: 85.91%;
+top: 16.81%;
+bottom: 78.42%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 14.38%;
+right: 84.9%;
+top: 15.45%;
+bottom: 78.46%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.06%;
+right: 99.4%;
+top: 26.05%;
+bottom: 67.39%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.83%;
+right: 98.03%;
+top: 27.85%;
+bottom: 67.32%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 2.38%;
+right: 96.49%;
+top: 26.05%;
+bottom: 67.32%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 3.86%;
+right: 95.01%;
+top: 27.9%;
+bottom: 67.26%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.37%;
+right: 93.71%;
+top: 27.85%;
+bottom: 67.42%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.48%;
+right: 92.37%;
+top: 27.85%;
+bottom: 67.32%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.71%;
+right: 90.14%;
+top: 27.85%;
+bottom: 67.32%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 10.11%;
+right: 89.18%;
+top: 26.5%;
+bottom: 67.41%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 11.88%;
+right: 86.99%;
+top: 26.05%;
+bottom: 67.3%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 13.39%;
+right: 85.48%;
+top: 27.9%;
+bottom: 67.26%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 14.9%;
+right: 84.56%;
+top: 26.05%;
+bottom: 67.39%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 15.7%;
+right: 83.17%;
+top: 27.9%;
+bottom: 67.26%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 17.21%;
+right: 81.87%;
+top: 27.85%;
+bottom: 67.42%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 18.32%;
+right: 80.53%;
+top: 27.85%;
+bottom: 67.32%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.59%;
+right: 77.45%;
+top: 27.82%;
+bottom: 67.42%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 22.91%;
+right: 75.95%;
+top: 27.85%;
+bottom: 67.31%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 24.42%;
+right: 74.45%;
+top: 27.84%;
+bottom: 65.48%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 25.97%;
+right: 72.89%;
+top: 27.82%;
+bottom: 67.42%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 27.47%;
+right: 71.39%;
+top: 27.85%;
+bottom: 67.31%;
+
+background: #FFFFFF;
+
+
+/* Group 203 */
+
+position: absolute;
+width: 73px;
+height: 24.78px;
+left: 0px;
+top: 47px;
+
+
+
+/* EQUIPMENT OPERATION */
+
+position: absolute;
+width: 73px;
+height: 8px;
+left: 0px;
+top: 47px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 6px;
+line-height: 8px;
+display: flex;
+align-items: center;
+
+/* Theme/White */
+color: #FFFFFF;
+
+
+
+/* Group 196 */
+
+position: absolute;
+width: 59.38px;
+height: 14.06px;
+left: 0.13px;
+top: 57.72px;
+
+opacity: 0.7;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.12%;
+right: 99.64%;
+top: 80.54%;
+bottom: 13.01%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.78%;
+right: 98.07%;
+top: 82.22%;
+bottom: 13.01%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 2.3%;
+right: 96.56%;
+top: 82.19%;
+bottom: 12.94%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 3.78%;
+right: 96%;
+top: 80.54%;
+bottom: 13.01%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.42%;
+right: 94.46%;
+top: 80.41%;
+bottom: 12.94%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 6%;
+right: 93.77%;
+top: 80.54%;
+bottom: 13.01%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.63%;
+right: 92.24%;
+top: 80.41%;
+bottom: 12.94%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.16%;
+right: 90.69%;
+top: 82.29%;
+bottom: 12.94%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.74%;
+right: 89.11%;
+top: 82.22%;
+bottom: 13.01%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 11.15%;
+right: 88.13%;
+top: 80.93%;
+bottom: 12.98%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.95%;
+right: 85.91%;
+top: 82.29%;
+bottom: 12.94%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 14.38%;
+right: 84.9%;
+top: 80.93%;
+bottom: 12.98%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.06%;
+right: 99.4%;
+top: 91.53%;
+bottom: 1.91%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.83%;
+right: 98.03%;
+top: 93.33%;
+bottom: 1.84%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 2.38%;
+right: 96.49%;
+top: 91.53%;
+bottom: 1.84%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 3.86%;
+right: 95.01%;
+top: 93.38%;
+bottom: 1.78%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.37%;
+right: 93.71%;
+top: 93.33%;
+bottom: 1.94%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.48%;
+right: 92.37%;
+top: 93.33%;
+bottom: 1.84%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.71%;
+right: 90.14%;
+top: 93.33%;
+bottom: 1.84%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 10.11%;
+right: 89.18%;
+top: 91.98%;
+bottom: 1.93%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 11.88%;
+right: 86.99%;
+top: 91.53%;
+bottom: 1.82%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 13.39%;
+right: 85.48%;
+top: 93.38%;
+bottom: 1.78%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 14.9%;
+right: 84.56%;
+top: 91.53%;
+bottom: 1.91%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 15.7%;
+right: 83.17%;
+top: 93.38%;
+bottom: 1.78%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 17.21%;
+right: 81.87%;
+top: 93.33%;
+bottom: 1.94%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 18.32%;
+right: 80.53%;
+top: 93.33%;
+bottom: 1.84%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.59%;
+right: 77.45%;
+top: 93.3%;
+bottom: 1.94%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 22.91%;
+right: 75.95%;
+top: 93.33%;
+bottom: 1.84%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 24.42%;
+right: 74.45%;
+top: 93.32%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 25.97%;
+right: 72.89%;
+top: 93.3%;
+bottom: 1.94%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 27.47%;
+right: 71.39%;
+top: 93.33%;
+bottom: 1.83%;
+
+background: #FFFFFF;
+
+
+/* Group 202 */
+
+position: absolute;
+width: 73px;
+height: 24.78px;
+left: 135px;
+top: 0px;
+
+
+
+/* EQUIPMENT OPERATION */
+
+position: absolute;
+width: 73px;
+height: 8px;
+left: 135px;
+top: 0px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 6px;
+line-height: 8px;
+display: flex;
+align-items: center;
+
+/* Theme/White */
+color: #FFFFFF;
+
+
+
+/* Group 196 */
+
+position: absolute;
+width: 59.38px;
+height: 14.06px;
+left: 135.13px;
+top: 10.72px;
+
+opacity: 0.7;
+
+
+/* Vector */
+
+position: absolute;
+left: 65.03%;
+right: 34.74%;
+top: 15.06%;
+bottom: 78.49%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 65.69%;
+right: 33.17%;
+top: 16.74%;
+bottom: 78.49%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 67.21%;
+right: 31.66%;
+top: 16.72%;
+bottom: 78.42%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 68.68%;
+right: 31.09%;
+top: 15.06%;
+bottom: 78.49%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 69.32%;
+right: 29.55%;
+top: 14.93%;
+bottom: 78.42%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 70.9%;
+right: 28.87%;
+top: 15.06%;
+bottom: 78.49%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 71.54%;
+right: 27.33%;
+top: 14.93%;
+bottom: 78.42%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 73.06%;
+right: 25.79%;
+top: 16.81%;
+bottom: 78.42%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 74.64%;
+right: 24.21%;
+top: 16.74%;
+bottom: 78.49%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 76.06%;
+right: 23.23%;
+top: 15.45%;
+bottom: 78.46%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 77.85%;
+right: 21%;
+top: 16.81%;
+bottom: 78.42%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 79.28%;
+right: 20%;
+top: 15.45%;
+bottom: 78.46%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 64.97%;
+right: 34.5%;
+top: 26.05%;
+bottom: 67.39%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 65.73%;
+right: 33.13%;
+top: 27.85%;
+bottom: 67.32%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 67.28%;
+right: 31.59%;
+top: 26.05%;
+bottom: 67.32%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 68.76%;
+right: 30.11%;
+top: 27.9%;
+bottom: 67.26%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 70.27%;
+right: 28.81%;
+top: 27.85%;
+bottom: 67.42%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 71.38%;
+right: 27.47%;
+top: 27.85%;
+bottom: 67.32%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 73.61%;
+right: 25.24%;
+top: 27.85%;
+bottom: 67.32%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 75.01%;
+right: 24.27%;
+top: 26.5%;
+bottom: 67.41%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 76.79%;
+right: 22.08%;
+top: 26.05%;
+bottom: 67.3%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 78.29%;
+right: 20.58%;
+top: 27.9%;
+bottom: 67.26%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 79.81%;
+right: 19.66%;
+top: 26.05%;
+bottom: 67.39%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 80.6%;
+right: 18.27%;
+top: 27.9%;
+bottom: 67.26%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 82.12%;
+right: 16.97%;
+top: 27.85%;
+bottom: 67.42%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 83.23%;
+right: 15.63%;
+top: 27.85%;
+bottom: 67.32%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 85.5%;
+right: 12.55%;
+top: 27.82%;
+bottom: 67.42%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 87.81%;
+right: 11.05%;
+top: 27.85%;
+bottom: 67.31%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 89.33%;
+right: 9.54%;
+top: 27.84%;
+bottom: 65.48%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 90.87%;
+right: 7.98%;
+top: 27.82%;
+bottom: 67.42%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.37%;
+right: 6.48%;
+top: 27.85%;
+bottom: 67.31%;
+
+background: #FFFFFF;
+
+
+/* Group 204 */
+
+position: absolute;
+width: 73px;
+height: 24.78px;
+left: 135px;
+top: 47px;
+
+
+
+/* EQUIPMENT OPERATION */
+
+position: absolute;
+width: 73px;
+height: 8px;
+left: 135px;
+top: 47px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 6px;
+line-height: 8px;
+display: flex;
+align-items: center;
+
+/* Theme/White */
+color: #FFFFFF;
+
+
+
+/* Group 196 */
+
+position: absolute;
+width: 59.38px;
+height: 14.06px;
+left: 135.13px;
+top: 57.72px;
+
+opacity: 0.7;
+
+
+/* Vector */
+
+position: absolute;
+left: 65.03%;
+right: 34.74%;
+top: 80.54%;
+bottom: 13.01%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 65.69%;
+right: 33.17%;
+top: 82.22%;
+bottom: 13.01%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 67.21%;
+right: 31.66%;
+top: 82.19%;
+bottom: 12.94%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 68.68%;
+right: 31.09%;
+top: 80.54%;
+bottom: 13.01%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 69.32%;
+right: 29.55%;
+top: 80.41%;
+bottom: 12.94%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 70.9%;
+right: 28.87%;
+top: 80.54%;
+bottom: 13.01%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 71.54%;
+right: 27.33%;
+top: 80.41%;
+bottom: 12.94%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 73.06%;
+right: 25.79%;
+top: 82.29%;
+bottom: 12.94%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 74.64%;
+right: 24.21%;
+top: 82.22%;
+bottom: 13.01%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 76.06%;
+right: 23.23%;
+top: 80.93%;
+bottom: 12.98%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 77.85%;
+right: 21%;
+top: 82.29%;
+bottom: 12.94%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 79.28%;
+right: 20%;
+top: 80.93%;
+bottom: 12.98%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 64.97%;
+right: 34.5%;
+top: 91.53%;
+bottom: 1.91%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 65.73%;
+right: 33.13%;
+top: 93.33%;
+bottom: 1.84%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 67.28%;
+right: 31.59%;
+top: 91.53%;
+bottom: 1.84%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 68.76%;
+right: 30.11%;
+top: 93.38%;
+bottom: 1.78%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 70.27%;
+right: 28.81%;
+top: 93.33%;
+bottom: 1.94%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 71.38%;
+right: 27.47%;
+top: 93.33%;
+bottom: 1.84%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 73.61%;
+right: 25.24%;
+top: 93.33%;
+bottom: 1.84%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 75.01%;
+right: 24.27%;
+top: 91.98%;
+bottom: 1.93%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 76.79%;
+right: 22.08%;
+top: 91.53%;
+bottom: 1.82%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 78.29%;
+right: 20.58%;
+top: 93.38%;
+bottom: 1.78%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 79.81%;
+right: 19.66%;
+top: 91.53%;
+bottom: 1.91%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 80.6%;
+right: 18.27%;
+top: 93.38%;
+bottom: 1.78%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 82.12%;
+right: 16.97%;
+top: 93.33%;
+bottom: 1.94%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 83.23%;
+right: 15.63%;
+top: 93.33%;
+bottom: 1.84%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 85.5%;
+right: 12.55%;
+top: 93.3%;
+bottom: 1.94%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 87.81%;
+right: 11.05%;
+top: 93.33%;
+bottom: 1.84%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 89.33%;
+right: 9.54%;
+top: 93.32%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 90.87%;
+right: 7.98%;
+top: 93.3%;
+bottom: 1.94%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.37%;
+right: 6.48%;
+top: 93.33%;
+bottom: 1.83%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 63.44%;
+right: 31.18%;
+top: 56.02%;
+bottom: 32.19%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+opacity: 0.1;
+
+
+/* Vector */
+
+position: absolute;
+left: 63.46%;
+right: 16.41%;
+top: 56.02%;
+bottom: 41.67%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+opacity: 0.07;
+
+
+/* Vector */
+
+position: absolute;
+left: 63.44%;
+right: 16.41%;
+top: 68.61%;
+bottom: 30.37%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+opacity: 0.1;
+
+
+/* Group 217 */
+
+position: absolute;
+width: 59.47px;
+height: 9.47px;
+left: 1535.43px;
+top: 612.59px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 79.97%;
+right: 19.69%;
+top: 56.73%;
+bottom: 42.41%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Vector */
+
+position: absolute;
+left: 80.39%;
+right: 19.26%;
+top: 56.72%;
+bottom: 42.4%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Vector */
+
+position: absolute;
+left: 80.78%;
+right: 18.84%;
+top: 56.73%;
+bottom: 42.41%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Vector */
+
+position: absolute;
+left: 81.38%;
+right: 18.34%;
+top: 56.72%;
+bottom: 42.41%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Vector */
+
+position: absolute;
+left: 81.71%;
+right: 18.01%;
+top: 56.73%;
+bottom: 42.4%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Vector */
+
+position: absolute;
+left: 82.06%;
+right: 17.66%;
+top: 56.72%;
+bottom: 42.41%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Vector */
+
+position: absolute;
+left: 82.42%;
+right: 17.3%;
+top: 56.72%;
+bottom: 42.4%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Vector */
+
+position: absolute;
+left: 82.78%;
+right: 16.93%;
+top: 56.72%;
+bottom: 42.41%;
+
+/* Theme/Cyan */
+background: #18FEFE;
+
+
+/* Vector */
+
+position: absolute;
+left: 67.34%;
+right: 32.55%;
+top: 57.23%;
+bottom: 42.5%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 67.47%;
+right: 32.43%;
+top: 57.23%;
+bottom: 42.5%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 67.6%;
+right: 32.29%;
+top: 57.23%;
+bottom: 42.5%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 67.74%;
+right: 32.15%;
+top: 57.24%;
+bottom: 42.5%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 67.87%;
+right: 32.03%;
+top: 57.23%;
+bottom: 42.51%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 67.99%;
+right: 31.9%;
+top: 57.23%;
+bottom: 42.5%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 68.1%;
+right: 31.79%;
+top: 57.23%;
+bottom: 42.51%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 68.23%;
+right: 31.67%;
+top: 57.23%;
+bottom: 42.51%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 68.33%;
+right: 31.56%;
+top: 57.23%;
+bottom: 42.51%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 68.45%;
+right: 31.44%;
+top: 57.23%;
+bottom: 42.5%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 68.59%;
+right: 31.3%;
+top: 57.23%;
+bottom: 42.51%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 67.23%;
+right: 32.7%;
+top: 57.74%;
+bottom: 42.07%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 67.32%;
+right: 32.6%;
+top: 57.67%;
+bottom: 42.06%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 67.43%;
+right: 32.56%;
+top: 57.68%;
+bottom: 42.07%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 67.47%;
+right: 32.46%;
+top: 57.74%;
+bottom: 41.99%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 67.57%;
+right: 32.41%;
+top: 57.68%;
+bottom: 42.07%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 67.61%;
+right: 32.32%;
+top: 57.75%;
+bottom: 42.06%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 67.7%;
+right: 32.22%;
+top: 57.74%;
+bottom: 42.06%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 67.8%;
+right: 32.19%;
+top: 57.68%;
+bottom: 42.07%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 67.84%;
+right: 32.08%;
+top: 57.74%;
+bottom: 42.07%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 67.94%;
+right: 31.99%;
+top: 57.75%;
+bottom: 41.99%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 68.09%;
+right: 31.84%;
+top: 57.75%;
+bottom: 42.06%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 68.19%;
+right: 31.78%;
+top: 57.67%;
+bottom: 42.07%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 68.24%;
+right: 31.74%;
+top: 57.68%;
+bottom: 42.07%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 68.28%;
+right: 31.67%;
+top: 57.69%;
+bottom: 42.06%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 68.35%;
+right: 31.64%;
+top: 57.9%;
+bottom: 42.02%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 68.43%;
+right: 31.5%;
+top: 57.75%;
+bottom: 42.06%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 68.52%;
+right: 31.4%;
+top: 57.75%;
+bottom: 42.06%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 68.62%;
+right: 31.31%;
+top: 57.67%;
+bottom: 42.06%;
+
+background: #FFFFFF;
+
+
+/* Rectangle 41 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 64.38%;
+right: 32.08%;
+top: 60%;
+bottom: 33.7%;
+
+opacity: 0.4;
+/* Theme/White */
+border: 1px solid #FFFFFF;
+
+
+/* Group 223 */
+
+position: absolute;
+width: 105px;
+height: 83px;
+left: 1695px;
+top: 321px;
+
+
+
+/* Group 201 */
+
+position: absolute;
+width: 105px;
+height: 37px;
+left: 1695px;
+top: 321px;
+
+
+
+/* Group 207 */
+
+position: absolute;
+width: 105px;
+height: 37px;
+left: 1695px;
+top: 321px;
+
+
+
+/* EQUIPMENT INFO */
+
+position: absolute;
+width: 105px;
+height: 16px;
+right: 120px;
+top: 321px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 16px;
+display: flex;
+align-items: center;
+
+/* Theme/White */
+color: #FFFFFF;
+
+
+
+/* 機器関連情報の紹介 */
+
+position: absolute;
+width: 94px;
+height: 17px;
+right: 131px;
+top: 341px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 300;
+font-size: 10px;
+line-height: 16px;
+/* or 160% */
+
+color: rgba(255, 255, 255, 0.5);
+
+
+
+/* Rectangle 97 */
+
+position: absolute;
+width: 91px;
+height: 14px;
+right: 134px;
+top: 368px;
+
+/* Theme/White */
+background: #FFFFFF;
+opacity: 0.1;
+
+
+/* Rectangle 98 */
+
+position: absolute;
+width: 91px;
+height: 14px;
+right: 134px;
+top: 390px;
+
+/* Theme/White */
+background: #FFFFFF;
+opacity: 0.1;

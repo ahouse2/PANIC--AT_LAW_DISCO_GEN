@@ -30,6 +30,7 @@ services:
       - ./panic_at_law_disco_gen:/usr/src/panic:ro
       - ./panic_at_law_disco_gen/config/llm_config.gemini.hocon:/usr/src/app/registries/llm_config.hocon:ro
       - ./Test_Folder:/usr/src/app/uploads/Test_Folder:ro
+      - ./UI_refs:/usr/src/app/apps/legal_discovery/static/ui_refs:ro
     command: >-
       bash -c "python -m gunicorn -k eventlet -w 1 -b 0.0.0.0:5001 apps.legal_discovery.startup:app"
 

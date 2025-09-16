@@ -1,0 +1,3415 @@
+/* Other Graphs */
+
+position: relative;
+width: 906px;
+height: 2608px;
+
+background: #0F0F0F;
+
+
+/* Group 17 */
+
+position: absolute;
+width: 757px;
+height: 113px;
+left: 70px;
+bottom: 84px;
+
+
+
+/* Email: ashishsauparna@gmail.com */
+
+position: absolute;
+width: 248px;
+height: 19px;
+left: 70px;
+bottom: 84px;
+
+font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 19px;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+color: #FCFCFC;
+
+
+
+/* ashishsauparna.in */
+
+position: absolute;
+width: 131px;
+height: 19px;
+left: 70px;
+bottom: 112px;
+
+font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 19px;
+text-decoration-line: underline;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+color: #FCFCFC;
+
+
+
+/* Designed by: Ashish Sharma */
+
+position: absolute;
+width: 204px;
+height: 19px;
+left: 70px;
+bottom: 141px;
+
+font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 19px;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+color: #FCFCFC;
+
+
+
+/* line */
+
+position: absolute;
+width: 757px;
+height: 0px;
+left: 70px;
+bottom: 197px;
+
+opacity: 0.2;
+border: 1px solid #FCFCFC;
+
+
+/* Header */
+
+position: absolute;
+width: 757px;
+height: 131px;
+left: 70px;
+top: 59px;
+
+
+
+/* line */
+
+position: absolute;
+width: 757px;
+height: 0px;
+left: 70px;
+top: 190px;
+
+opacity: 0.2;
+border: 1px solid #FCFCFC;
+
+
+/* Data Visualization */
+
+position: absolute;
+width: 129px;
+height: 19px;
+left: 70px;
+top: 114px;
+
+font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 19px;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+color: #C8CFDA;
+
+
+
+/* Other Graphs */
+
+position: absolute;
+width: 205px;
+height: 40px;
+left: 70px;
+top: 59px;
+
+font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 40px;
+/* identical to box height, or 125% */
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+color: #FCFCFC;
+
+
+
+/* Last Update: 28 June, 2023 */
+
+position: absolute;
+width: 198px;
+height: 19px;
+left: 630px;
+top: 114px;
+
+font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 19px;
+text-align: right;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+color: #FCFCFC;
+
+
+
+/* Elements: 14 */
+
+position: absolute;
+width: 90px;
+height: 19px;
+left: 738px;
+top: 74px;
+
+font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 19px;
+text-align: right;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+color: #C8CFDA;
+
+
+
+/* Frame 72 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+width: 757px;
+height: 1529px;
+left: 70px;
+top: 264px;
+
+
+
+/* Frame 15 */
+
+width: 757px;
+height: 598px;
+
+background: #212123;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Your Audience */
+
+position: absolute;
+width: 190px;
+height: 34px;
+left: 32px;
+top: 31px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 34px;
+/* identical to box height */
+
+color: #FCFCFC;
+
+
+
+/* Frame 17 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 40px;
+
+position: absolute;
+width: 277px;
+height: 29px;
+right: 36px;
+bottom: 476px;
+
+
+
+/* Frame 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 91px;
+height: 29px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 4 */
+
+width: 16px;
+height: 16px;
+
+background: #2268D1;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Users */
+
+width: 63px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FCFCFC;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 146px;
+height: 29px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Ellipse 4 */
+
+width: 16px;
+height: 16px;
+
+background: #ACB6C6;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* New Users */
+
+width: 118px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FCFCFC;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* more_horiz */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 685px;
+top: 30px;
+
+
+
+/* Bounding box */
+
+position: absolute;
+width: 36px;
+height: 36px;
+right: 36px;
+top: 30px;
+
+background: #D9D9D9;
+
+
+/* more_horiz */
+
+position: absolute;
+width: 24px;
+height: 6px;
+right: 42px;
+top: 45px;
+
+background: #FCFCFC;
+
+
+/* Frame 14 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: center;
+padding: 0px;
+gap: 18px;
+
+position: absolute;
+left: 32px;
+right: 36px;
+top: 167px;
+bottom: 32px;
+
+
+
+/* Frame 13 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px 0px 8px;
+gap: 24px;
+
+margin: 0 auto;
+width: 689px;
+height: 370px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Frame 11 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-end;
+padding: 0px;
+gap: 32px;
+
+margin: 0 auto;
+width: 44px;
+height: 362px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* 40k */
+
+margin: 0 auto;
+width: 44px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-align: right;
+
+color: #979797;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 30k */
+
+margin: 0 auto;
+width: 42px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-align: right;
+
+color: #979797;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* 20k */
+
+margin: 0 auto;
+width: 42px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-align: right;
+
+color: #979797;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* 10k */
+
+margin: 0 auto;
+width: 35px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-align: right;
+
+color: #979797;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* 0 */
+
+margin: 0 auto;
+width: 16px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-align: right;
+
+color: #979797;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Frame 12 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 13px 0px 13px 24px;
+gap: 61px;
+
+margin: 0 auto;
+width: 645px;
+height: 362px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Vector 1 */
+
+margin: 0 auto;
+width: 621px;
+height: 0px;
+
+border: 1px dashed #979797;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Vector 2 */
+
+margin: 0 auto;
+width: 621px;
+height: 0px;
+
+border: 1px dashed #979797;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Vector 3 */
+
+margin: 0 auto;
+width: 621px;
+height: 0px;
+
+border: 1px dashed #979797;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Vector 4 */
+
+margin: 0 auto;
+width: 621px;
+height: 0px;
+
+border: 1px dashed #979797;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Vector 5 */
+
+margin: 0 auto;
+width: 621px;
+height: 0px;
+
+border: 1px dashed #979797;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 10 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: flex-start;
+padding: 0px 64px 0px 96px;
+gap: 48px;
+
+margin: 0 auto;
+width: 689px;
+height: 29px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Jan */
+
+margin: 0 auto;
+width: 39px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #979797;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Feb */
+
+margin: 0 auto;
+width: 41px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #979797;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Mar */
+
+margin: 0 auto;
+width: 43px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #979797;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Apr */
+
+margin: 0 auto;
+width: 40px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #979797;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* May */
+
+margin: 0 auto;
+width: 46px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #979797;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Jun */
+
+margin: 0 auto;
+width: 40px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #979797;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Ellipse 6 */
+
+position: absolute;
+width: 77px;
+height: 78px;
+left: 165px;
+top: 399px;
+
+background: #ACB6C6;
+opacity: 0.45;
+
+
+/* Ellipse 12 */
+
+position: absolute;
+width: 77px;
+height: 78px;
+left: 390px;
+top: 309px;
+
+background: #ACB6C6;
+opacity: 0.45;
+
+
+/* Ellipse 14 */
+
+position: absolute;
+width: 77px;
+height: 78px;
+left: 519px;
+top: 250px;
+
+background: #ACB6C6;
+opacity: 0.45;
+
+
+/* Ellipse 10 */
+
+position: absolute;
+width: 37px;
+height: 36px;
+left: 305px;
+top: 250px;
+
+background: #ACB6C6;
+opacity: 0.45;
+
+
+/* Ellipse 7 */
+
+position: absolute;
+width: 42px;
+height: 42px;
+left: 137px;
+top: 344px;
+
+background: #2268D1;
+opacity: 0.45;
+
+
+/* Ellipse 8 */
+
+position: absolute;
+width: 101px;
+height: 100px;
+left: 249px;
+top: 328px;
+
+background: #2268D1;
+opacity: 0.45;
+
+
+/* Ellipse 15 */
+
+position: absolute;
+width: 78px;
+height: 77px;
+left: 558px;
+top: 223px;
+
+background: #2268D1;
+opacity: 0.45;
+
+
+/* Ellipse 11 */
+
+position: absolute;
+width: 58px;
+height: 57px;
+left: 377px;
+top: 239px;
+
+background: #2268D1;
+opacity: 0.45;
+
+
+/* Ellipse 13 */
+
+position: absolute;
+width: 58px;
+height: 57px;
+left: 454px;
+top: 348px;
+
+background: #2268D1;
+opacity: 0.45;
+
+
+/* Ellipse 9 */
+
+position: absolute;
+width: 47px;
+height: 46px;
+left: 219px;
+top: 270px;
+
+background: #2268D1;
+opacity: 0.45;
+
+
+/* Frame 17 */
+
+width: 757px;
+height: 907px;
+
+background: #212123;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Users by time of day */
+
+position: absolute;
+width: 267px;
+height: 34px;
+left: 32px;
+top: 31px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 34px;
+/* identical to box height */
+
+color: #FCFCFC;
+
+
+
+/* 500> */
+
+position: absolute;
+width: 58px;
+height: 29px;
+left: 32px;
+bottom: 32px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FCFCFC;
+
+opacity: 0.5;
+
+
+/* 1000> */
+
+position: absolute;
+width: 66px;
+height: 29px;
+left: 130px;
+bottom: 32px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FCFCFC;
+
+opacity: 0.5;
+
+
+/* 2000> */
+
+position: absolute;
+width: 73px;
+height: 29px;
+left: 228px;
+bottom: 32px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FCFCFC;
+
+opacity: 0.5;
+
+
+/* 3000> */
+
+position: absolute;
+width: 73px;
+height: 29px;
+left: 326px;
+bottom: 32px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FCFCFC;
+
+opacity: 0.5;
+
+
+/* more_horiz */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 689px;
+top: 30px;
+
+
+
+/* Bounding box */
+
+position: absolute;
+width: 36px;
+height: 36px;
+right: 32px;
+top: 30px;
+
+background: #D9D9D9;
+
+
+/* more_horiz */
+
+position: absolute;
+width: 24px;
+height: 6px;
+right: 38px;
+top: 45px;
+
+background: #FCFCFC;
+
+
+/* Frame 28 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+position: absolute;
+width: 384px;
+height: 8px;
+left: 32px;
+bottom: 71px;
+
+
+
+/* Rectangle 10 */
+
+width: 90px;
+height: 8px;
+
+background: #2268D1;
+opacity: 0.3;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 11 */
+
+width: 90px;
+height: 8px;
+
+background: #2268D1;
+opacity: 0.5;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Rectangle 12 */
+
+width: 90px;
+height: 8px;
+
+background: #2268D1;
+opacity: 0.8;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Rectangle 13 */
+
+width: 90px;
+height: 8px;
+
+background: #2268D1;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Group 9 */
+
+position: absolute;
+width: 661px;
+height: 677px;
+left: 32px;
+top: 100px;
+
+
+
+/* Frame 11 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-end;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+position: absolute;
+width: 59px;
+height: 614px;
+left: 32px;
+bottom: 181px;
+
+opacity: 0.4;
+
+
+/* 12am */
+
+width: 56px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-align: right;
+
+color: #FCFCFC;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 1am */
+
+width: 42px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-align: right;
+
+color: #FCFCFC;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* 2am */
+
+width: 49px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-align: right;
+
+color: #FCFCFC;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* 4am */
+
+width: 50px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-align: right;
+
+color: #FCFCFC;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* 6am */
+
+width: 49px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-align: right;
+
+color: #FCFCFC;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* 8am */
+
+width: 50px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-align: right;
+
+color: #FCFCFC;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* 10am */
+
+width: 57px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-align: right;
+
+color: #FCFCFC;
+
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+flex-grow: 0;
+
+
+/* 12pm */
+
+width: 58px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-align: right;
+
+color: #FCFCFC;
+
+
+/* Inside auto layout */
+flex: none;
+order: 7;
+flex-grow: 0;
+
+
+/* 1pm */
+
+width: 44px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-align: right;
+
+color: #FCFCFC;
+
+
+/* Inside auto layout */
+flex: none;
+order: 8;
+flex-grow: 0;
+
+
+/* 2pm */
+
+width: 51px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-align: right;
+
+color: #FCFCFC;
+
+
+/* Inside auto layout */
+flex: none;
+order: 9;
+flex-grow: 0;
+
+
+/* 4pm */
+
+width: 52px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-align: right;
+
+color: #FCFCFC;
+
+
+/* Inside auto layout */
+flex: none;
+order: 10;
+flex-grow: 0;
+
+
+/* 6pm */
+
+width: 51px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-align: right;
+
+color: #FCFCFC;
+
+
+/* Inside auto layout */
+flex: none;
+order: 11;
+flex-grow: 0;
+
+
+/* 8pm */
+
+width: 52px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-align: right;
+
+color: #FCFCFC;
+
+
+/* Inside auto layout */
+flex: none;
+order: 12;
+flex-grow: 0;
+
+
+/* 10pm */
+
+width: 59px;
+height: 29px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-align: right;
+
+color: #FCFCFC;
+
+
+/* Inside auto layout */
+flex: none;
+order: 13;
+flex-grow: 0;
+
+
+/* Sun */
+
+position: absolute;
+width: 41px;
+height: 29px;
+left: 128px;
+bottom: 130px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FCFCFC;
+
+opacity: 0.4;
+
+
+/* Mon */
+
+position: absolute;
+width: 49px;
+height: 29px;
+left: 205px;
+bottom: 130px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FCFCFC;
+
+opacity: 0.4;
+
+
+/* Tue */
+
+position: absolute;
+width: 40px;
+height: 29px;
+left: 294px;
+bottom: 130px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FCFCFC;
+
+opacity: 0.4;
+
+
+/* Wed */
+
+position: absolute;
+width: 51px;
+height: 29px;
+left: 374px;
+bottom: 130px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FCFCFC;
+
+opacity: 0.4;
+
+
+/* Thu */
+
+position: absolute;
+width: 42px;
+height: 29px;
+left: 465px;
+bottom: 130px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FCFCFC;
+
+opacity: 0.4;
+
+
+/* Fri */
+
+position: absolute;
+width: 29px;
+height: 29px;
+left: 556px;
+bottom: 130px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FCFCFC;
+
+opacity: 0.4;
+
+
+/* Sat */
+
+position: absolute;
+width: 35px;
+height: 29px;
+left: 637px;
+bottom: 130px;
+
+font-family: 'Albert Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FCFCFC;
+
+opacity: 0.4;
+
+
+/* Frame 31 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+position: absolute;
+width: 587px;
+height: 632px;
+left: 106px;
+bottom: 175px;
+
+
+
+/* Frame 41 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 587px;
+height: 632px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Frame 29 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 587px;
+height: 37.71px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 14 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.1;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 15 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.1;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 16 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.3;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 17 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.3;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 18 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.3;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 19 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.3;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 20 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.1;
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Frame 41 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 587px;
+height: 37.71px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 14 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.1;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 15 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.1;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 16 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.3;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 17 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.3;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 18 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.3;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 19 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.3;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 20 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.1;
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Frame 42 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 587px;
+height: 37.71px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 14 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.1;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 15 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.3;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 16 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.5;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 17 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.3;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 18 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.3;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 19 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.3;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 20 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.1;
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Frame 30 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 587px;
+height: 37.71px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 14 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.3;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 15 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.3;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 16 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.5;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 17 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.5;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 18 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.5;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 19 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.1;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 20 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.1;
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Frame 31 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 587px;
+height: 37.71px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 14 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.3;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 15 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.5;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 16 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.8;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 17 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.8;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 18 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.8;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 19 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.3;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 20 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.3;
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Frame 32 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 587px;
+height: 37.71px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 14 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.3;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 15 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.5;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 16 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.8;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 17 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 18 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.8;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 19 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.3;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 20 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.3;
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Frame 33 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 587px;
+height: 37.71px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 14 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.3;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 15 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.8;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 16 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.8;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 17 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 18 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.8;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 19 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.5;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 20 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.3;
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Frame 34 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 587px;
+height: 37.71px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 7;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 14 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.5;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 15 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.8;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 16 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 17 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 18 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.5;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 19 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.5;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 20 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.3;
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Frame 35 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 587px;
+height: 37.71px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 8;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 14 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.5;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 15 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.8;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 16 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.8;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 17 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 18 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 19 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.3;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 20 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.1;
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Frame 36 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 587px;
+height: 37.71px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 9;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 14 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.3;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 15 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.3;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 16 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.8;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 17 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 18 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.8;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 19 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.5;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 20 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.3;
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Frame 37 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 587px;
+height: 37.71px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 10;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 14 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.3;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 15 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.5;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 16 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.5;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 17 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.8;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 18 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.5;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 19 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.3;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 20 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.3;
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Frame 38 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 587px;
+height: 37.71px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 11;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 14 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.1;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 15 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.3;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 16 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.5;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 17 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.5;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 18 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.5;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 19 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.3;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 20 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.3;
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Frame 39 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 587px;
+height: 37.71px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 12;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 14 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.1;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 15 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.3;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 16 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.5;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 17 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.5;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 18 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.5;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 19 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.3;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 20 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.1;
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Frame 40 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 587px;
+height: 37.71px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 13;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 14 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.1;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 15 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.3;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 16 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.3;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 17 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.5;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 18 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.3;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 19 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.3;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Rectangle 20 */
+
+width: 77px;
+height: 37.71px;
+
+background: #2268D1;
+opacity: 0.1;
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+align-self: stretch;
+flex-grow: 1;

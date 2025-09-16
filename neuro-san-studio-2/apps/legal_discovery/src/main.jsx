@@ -11,6 +11,7 @@ try {
   const s = document.createElement('style'); s.textContent = TOKENS_CSS; document.head.appendChild(s);
 } catch {}
 import './tokens.css';
+import './neon_glass.css';
 import DocumentViewer from './components/DocumentViewer';
 
 const API_BASE = __API_BASE__ || '';

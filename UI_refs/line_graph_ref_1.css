@@ -1,0 +1,199 @@
+/* Line Graph */
+
+position: relative;
+width: 1411px;
+height: 1301px;
+
+background: #0F0F0F;
+
+
+/* Email: ashishsauparna@gmail.com */
+
+position: absolute;
+width: 248px;
+height: 19px;
+left: 93.96px;
+bottom: 84px;
+
+font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 19px;
+text-align: right;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+color: rgba(255, 238, 255, 0.937255);
+
+
+
+/* ashishsauparna.in */
+
+position: absolute;
+width: 131px;
+height: 19px;
+left: 83.24px;
+bottom: 112px;
+
+font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 19px;
+text-align: right;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+color: rgba(255, 238, 255, 0.937255);
+
+
+
+/* Designed by: Ashish Sharma */
+
+position: absolute;
+width: 204px;
+height: 19px;
+left: 91.76px;
+bottom: 141px;
+
+font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 19px;
+text-align: right;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+color: rgba(255, 238, 255, 0.937255);
+
+
+
+/* line */
+
+position: absolute;
+width: 1300px;
+height: 0px;
+left: calc(50% - 1300px/2 + 1.26px);
+bottom: 197px;
+
+opacity: 0.4;
+border: 1px solid #9E9E9E;
+
+
+/* Header */
+
+position: absolute;
+width: 1258px;
+height: 131px;
+left: 70px;
+top: 59px;
+
+
+
+/* line */
+
+position: absolute;
+width: 1258px;
+height: 0px;
+left: 70px;
+top: 190px;
+
+opacity: 0.4;
+border: 1px solid #9E9E9E;
+
+
+/* Last Update: 28 June, 2023 */
+
+position: absolute;
+width: 198px;
+height: 19px;
+left: 1130px;
+top: 114px;
+
+font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 19px;
+text-align: right;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+color: #FCFCFC;
+
+
+
+/* Elements: 14 */
+
+position: absolute;
+width: 90px;
+height: 19px;
+left: 1238px;
+top: 74px;
+
+font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 19px;
+text-align: right;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+color: rgba(255, 238, 255, 0.937255);
+
+
+
+/* Welcome to the Data visualization template */
+
+position: absolute;
+width: 421px;
+height: 80px;
+left: 70px;
+top: 59px;
+
+font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 40px;
+/* or 125% */
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+color: #FFFFFF;
+
+
+
+/* Welcome to our graph/data visualization design template in Figma! Create visually stunning graphs with ease. Choose from a variety of graph types, including Line Graphs, Bar Graphs, Donut Charts, Bar Charts, and more. */
+
+position: absolute;
+width: 1258px;
+height: 108px;
+left: 70px;
+top: 230px;
+
+font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 36px;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+color: #FFFFFF;
+
+
+
+/* Illuminate your data with our vibrant Light Mode template. Designed to be clean and refreshing, it will help you present your information with clarity and style. Personalize the colors, fonts, and labels to seamlessly integrate the graphs into your project. Whether you're simplifying intricate data or showcasing important trends, our Light Mode template will captivate your audience and make your graphs pop. Unlock the power of data visualization and create stunning visualizations effortlessly with our Light Mode template. Get started now and witness the magic of data visualization! */
+
+position: absolute;
+width: 1258px;
+height: 324px;
+left: 70px;
+top: 414px;
+
+font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 36px;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+color: #FFFFFF;
+

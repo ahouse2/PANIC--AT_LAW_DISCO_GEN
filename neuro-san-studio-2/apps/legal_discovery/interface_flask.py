@@ -296,6 +296,93 @@ def vector_count():
         return resp
 
 
+"""Forensic endpoints (MCP wrappers + chain-of-custody integration)"""
+@app.route("/api/forensics/hash", methods=["POST"])
+def forensic_hash_file():
+    data = request.get_json(silent=True) or {}
+    filepath = data.get("filepath") or data.get("path")
+    if not filepath:
+        return err("bad_request", "filepath required"), 400
+    t0 = time.perf_counter()
+    try:
+        from panic_core.mcp import mcp_forensics
+
+        res = mcp_forensics.hash_file(filepath)
+        try:
+            log_event(ChainEventType.HASH, target=filepath, meta=res)
+        except Exception:
+            pass
+        return ok(data=res, meta={"ms": round((time.perf_counter() - t0) * 1000, 2)})
+    except Exception as exc:
+        return err("forensic_hash_failed", str(exc)), 500
+
+
+@app.route("/api/forensics/pdf_meta", methods=["POST"])
+def forensic_pdf_meta():
+    data = request.get_json(silent=True) or {}
+    filepath = data.get("filepath") or data.get("path")
+    if not filepath:
+        return err("bad_request", "filepath required"), 400
+    t0 = time.perf_counter()
+    try:
+        from panic_core.mcp import mcp_forensics
+
+        res = mcp_forensics.pdf_meta(filepath)
+        return ok(data=res, meta={"ms": round((time.perf_counter() - t0) * 1000, 2)})
+    except Exception as exc:
+        return err("forensic_pdf_meta_failed", str(exc)), 500
+
+
+@app.route("/api/forensics/image_meta", methods=["POST"])
+def forensic_image_meta():
+    data = request.get_json(silent=True) or {}
+    filepath = data.get("filepath") or data.get("path")
+    if not filepath:
+        return err("bad_request", "filepath required"), 400
+    t0 = time.perf_counter()
+    try:
+        from panic_core.mcp import mcp_forensics
+
+        res = mcp_forensics.image_meta(filepath)
+        return ok(data=res, meta={"ms": round((time.perf_counter() - t0) * 1000, 2)})
+    except Exception as exc:
+        return err("forensic_image_meta_failed", str(exc)), 500
+
+
+@app.route("/api/forensics/authenticity", methods=["POST"])
+def forensic_authenticity():
+    data = request.get_json(silent=True) or {}
+    filepath = data.get("filepath") or data.get("path")
+    if not filepath:
+        return err("bad_request", "filepath required"), 400
+    t0 = time.perf_counter()
+    try:
+        from panic_core.mcp import mcp_forensics
+
+        res = mcp_forensics.authenticity(filepath)
+        try:
+            log_event(ChainEventType.ANALYZE, target=filepath, meta={"authenticity": True})
+        except Exception:
+            pass
+        return ok(data=res, meta={"ms": round((time.perf_counter() - t0) * 1000, 2)})
+    except Exception as exc:
+        return err("forensic_authenticity_failed", str(exc)), 500
+
+
+@app.route("/api/forensics/financial", methods=["POST"])
+def forensic_financial():
+    data = request.get_json(silent=True) or {}
+    filepath = data.get("filepath") or data.get("path")
+    if not filepath:
+        return err("bad_request", "filepath required"), 400
+    t0 = time.perf_counter()
+    try:
+        from panic_core.mcp import mcp_forensics
+
+        res = mcp_forensics.financial(filepath)
+        return ok(data=res, meta={"ms": round((time.perf_counter() - t0) * 1000, 2)})
+    except Exception as exc:
+        return err("forensic_financial_failed", str(exc)), 500
 @app.route("/api/vector/search_legacy", methods=["GET"])
 def vector_search_legacy():
     import json as _json

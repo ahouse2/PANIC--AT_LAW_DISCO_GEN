@@ -25,6 +25,7 @@ def _load_tools() -> Dict[str, Callable[..., Any]]:
         mcp_vector_database,
         mcp_knowledge_graph,
         mcp_drafting,
+        mcp_forensics,
     )
 
     _TOOL_REGISTRY = {
@@ -39,6 +40,11 @@ def _load_tools() -> Dict[str, Callable[..., Any]]:
         "mcp_drafting.available": mcp_drafting.available,
         "mcp_drafting.generate": mcp_drafting.generate,
         "mcp_drafting.export": mcp_drafting.export,
+        "mcp_forensic.hash_file": mcp_forensics.hash_file,
+        "mcp_forensic.pdf_meta": mcp_forensics.pdf_meta,
+        "mcp_forensic.image_meta": mcp_forensics.image_meta,
+        "mcp_forensic.authenticity": mcp_forensics.authenticity,
+        "mcp_forensic.financial": mcp_forensics.financial,
     }
     return _TOOL_REGISTRY
 
@@ -129,16 +135,32 @@ def orchestrate():
         from panic_core.agents.ag2_registry_loader import make_orchestrator
 
         orchestrator, group = make_orchestrator(os.environ.get("AGENT_MANIFEST_FILE"))
-        # Minimal single-turn flow: let orchestrator respond directly.
-        # Some AG2 versions expect a manager to run the groupchat; we guard with try/except.
+        # Emit trace start
+        try:
+            socketio.emit(
+                "agent_trace",
+                {"trace_id": trace_id, "step": "ag2_orchestrator_start", "ts": time.time()},
+                namespace="/chat",
+            )
+        except Exception:
+            pass
+        # Minimal single-turn flow
         start = time.perf_counter()
         try:
             result = orchestrator.generate_reply(messages=[{"role": "user", "content": message}], max_turns=1)
             response_text = result.get("content") if isinstance(result, dict) else str(result)
         except Exception:
-            # Fallback to a function-less message pass if generate_reply is unavailable.
             response_text = f"Received: {message}"
-        tools_ran.append({"name": "ag2_orchestrator", "duration_ms": round((time.perf_counter() - start) * 1000, 2)})
+        dur = round((time.perf_counter() - start) * 1000, 2)
+        tools_ran.append({"name": "ag2_orchestrator", "duration_ms": dur})
+        try:
+            socketio.emit(
+                "agent_trace",
+                {"trace_id": trace_id, "step": "ag2_orchestrator_end", "duration_ms": dur, "ts": time.time()},
+                namespace="/chat",
+            )
+        except Exception:
+            pass
         used_ag2 = True
     except Exception:
         used_ag2 = False
@@ -149,16 +171,55 @@ def orchestrate():
         lower = message.lower()
         # Drafting intent
         if any(k in lower for k in ["rfo", "responsive declaration", "declaration", "move-away", "move away"]):
+            # Prefer template key if library is strict
+            try:
+                socketio.emit(
+                    "agent_trace",
+                    {"trace_id": trace_id, "step": "tool_start", "tool": "mcp_drafting.generate", "ts": time.time()},
+                    namespace="/chat",
+                )
+            except Exception:
+                pass
             start = time.perf_counter()
-            res = tools["mcp_drafting.generate"](motion_type="Responsive Declaration to RFO (Move-Away)")
+            try:
+                res = tools["mcp_drafting.generate"](motion_type="declaration_in_support_of_rfo_move_away")
+            except Exception:
+                # Fallback to descriptive label
+                res = tools["mcp_drafting.generate"](motion_type="Responsive Declaration to RFO (Move-Away)")
             response_text = res.get("content", "") if isinstance(res, dict) else str(res)
-            tools_ran.append({"name": "mcp_drafting.generate", "duration_ms": round((time.perf_counter() - start) * 1000, 2)})
+            dur = round((time.perf_counter() - start) * 1000, 2)
+            tools_ran.append({"name": "mcp_drafting.generate", "duration_ms": dur})
+            try:
+                socketio.emit(
+                    "agent_trace",
+                    {"trace_id": trace_id, "step": "tool_end", "tool": "mcp_drafting.generate", "duration_ms": dur, "ts": time.time()},
+                    namespace="/chat",
+                )
+            except Exception:
+                pass
         # Vector query intent
         elif any(k in lower for k in ["search", "vector", "find", "retrieve"]):
+            try:
+                socketio.emit(
+                    "agent_trace",
+                    {"trace_id": trace_id, "step": "tool_start", "tool": "mcp_vector.query", "ts": time.time()},
+                    namespace="/chat",
+                )
+            except Exception:
+                pass
             start = time.perf_counter()
             res = tools["mcp_vector.query"](q=message, n_results=5, where={"case_id": case_id} if case_id else None, case_id=case_id)
             response_text = json.dumps(res)
-            tools_ran.append({"name": "mcp_vector.query", "duration_ms": round((time.perf_counter() - start) * 1000, 2)})
+            dur = round((time.perf_counter() - start) * 1000, 2)
+            tools_ran.append({"name": "mcp_vector.query", "duration_ms": dur})
+            try:
+                socketio.emit(
+                    "agent_trace",
+                    {"trace_id": trace_id, "step": "tool_end", "tool": "mcp_vector.query", "duration_ms": dur, "ts": time.time()},
+                    namespace="/chat",
+                )
+            except Exception:
+                pass
         else:
             # Default to echo with timing to keep contract stable
             start = time.perf_counter()
