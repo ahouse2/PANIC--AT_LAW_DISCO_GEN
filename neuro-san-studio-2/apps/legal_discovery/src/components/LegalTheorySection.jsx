@@ -46,7 +46,7 @@ function LegalTheorySection() {
   useEffect(() => { load(); }, []);
 
   return (
-    <section className="card">
+    <section className="card glass floaty">
       <h2>
         Case Theory
         <i
@@ -61,6 +61,7 @@ function LegalTheorySection() {
       <button className="button-secondary mb-2" onClick={load} disabled={loading}>
         <i className="fa fa-sync mr-1"></i>{loading ? "Loading" : "Refresh"}
       </button>
+      <div className="animated-border mb-2" />
       {theories.map(t => (
         <div key={t.cause} className="mb-4">
           <div className="flex items-center justify-between mb-1">
@@ -81,7 +82,7 @@ function LegalTheorySection() {
             </button>
           </div>
           <div className="theory-bar mb-2">
-            <div className="theory-bar-fill" style={{width: `${t.score*100}%`}}></div>
+            <div className="theory-bar-fill" style={{width: `${t.score*100}%`, boxShadow:'0 0 10px rgba(152,255,50,0.35)'}}></div>
           </div>
           <ul className="list-disc list-inside text-sm mb-2">
             {t.elements.map(e => (
