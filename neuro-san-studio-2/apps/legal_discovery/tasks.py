@@ -155,6 +155,20 @@ def task_status(task_id: str):
     return jsonify({"status": "finished", "result": result})
 
 
+@tasks_bp.post("/case_analysis")
+@auth_required
+def start_case_analysis():
+    data = request.get_json(silent=True) or {}
+    case_id = data.get("case_id")
+    try:
+        case_id = int(case_id)
+    except (TypeError, ValueError):
+        return jsonify({"error": "Missing case_id"}), 400
+    iterations = int(data.get("iterations") or 3)
+    job_id, result = enqueue(run_case_analysis, case_id, iterations)
+    return jsonify({"status": "ok", "job_id": job_id, "result": result})
+
+
 __all__ = [
     "enqueue",
     "binder_task",

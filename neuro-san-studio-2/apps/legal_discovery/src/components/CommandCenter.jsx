@@ -1,10 +1,12 @@
 import React, { useEffect, useState } from "react";
 import { io } from "socket.io-client";
+import BinderRail from "./BinderRail";
 
 export default function CommandCenter() {
   const [traces, setTraces] = useState([]);
   const [health, setHealth] = useState({});
   const [prompt, setPrompt] = useState("");
+  const [caseId, setCaseId] = useState('1');
 
   useEffect(() => {
     const s = io('/chat');
@@ -34,6 +36,18 @@ export default function CommandCenter() {
     });
   };
 
+  const playbook = async (name) => {
+    if (name === 'case_analysis') {
+      await fetch('/api/tasks/case_analysis', { method:'POST', headers:{'Content-Type':'application/json'}, body: JSON.stringify({ case_id: caseId, iterations: 3 }) });
+    }
+    if (name === 'draft_rfo') {
+      await fetch('/api/agents/run_tool?tool=mcp_drafting.generate&args='+encodeURIComponent(JSON.stringify({ motion_type: 'declaration_in_support_of_rfo_move_away' })), { method:'POST' });
+    }
+    if (name === 'vector_smoke') {
+      await fetch(`/api/vector/search?q=${encodeURIComponent('key facts for case '+caseId)}&case_id=${encodeURIComponent(caseId)}&n_results=5`);
+    }
+  };
+
   return (
     <aside className="command-rail">
       <div className="glass neon-border section">
@@ -49,7 +63,15 @@ export default function CommandCenter() {
         <div className="text-xs">Qdrant: {health.qdrant}</div>
         <div className="text-xs">Postgres: {health.postgres}</div>
         <div className="text-xs">Redis: {health.redis}</div>
+        <div className="animated-border mt-2" />
+        <div className="text-xs mt-2 flex items-center gap-2">
+          <input className="w-20 p-1 rounded bg-gray-900 text-gray-100" value={caseId} onChange={e=>setCaseId(e.target.value)} placeholder="case" />
+          <button className="button-secondary" onClick={()=>playbook('case_analysis')}>Case Analysis</button>
+          <button className="button-secondary" onClick={()=>playbook('vector_smoke')}>Vector Smoke</button>
+          <button className="button-secondary" onClick={()=>playbook('draft_rfo')}>Draft RFO</button>
+        </div>
       </div>
+      <BinderRail />
       <div className="glass section">
         <div className="title">Agent Trace</div>
         <div className="trace-list mt-2">
@@ -64,4 +86,3 @@ export default function CommandCenter() {
     </aside>
   );
 }
-
