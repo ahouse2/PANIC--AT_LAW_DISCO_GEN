@@ -81,6 +81,7 @@ body { background: radial-gradient(1000px 600px at 20% -10%, rgba(69,242,255,0.0
 
 .glow-pulse { animation: neonPulse 2.8s ease-in-out infinite; }
 .floaty { animation: floaty 5s ease-in-out infinite; }
+.pulse { animation: neonPulse 0.8s ease-in-out 1; }
 
 .animated-border {
   background: linear-gradient(90deg, rgba(152,255,50,0.25), rgba(69,242,255,0.25), rgba(255,92,244,0.25));

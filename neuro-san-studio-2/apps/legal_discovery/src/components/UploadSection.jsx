@@ -3,6 +3,19 @@ import ErrorBoundary from "./ErrorBoundary";
 import { io } from "socket.io-client";
 import Spinner from "./common/Spinner";
 import ErrorBanner from "./common/ErrorBanner";
+function ETA({ jobs, rate }){
+  try {
+    const total = jobs.length || 0;
+    const done = jobs.filter(j => j.state === 'done').length;
+    const remaining = Math.max(0, total - done);
+    const r = Math.max(0.1, Number(rate)||0);
+    const sec = Math.round(remaining / r);
+    if (!remaining) return null;
+    const mm = String(Math.floor(sec/60)).padStart(2,'0');
+    const ss = String(sec%60).padStart(2,'0');
+    return <div className="text-xs mt-1 text-gray-300">ETA: {mm}:{ss}</div>;
+  } catch { return null; }
+}
 // Inline lightweight components to avoid extra deps/files in this pass
 const UploadGraph = ({ data = [], width = 560, height = 72 }) => {
   const ref = React.useRef(null);
