@@ -14,8 +14,9 @@ function OverviewSection() {
     return total ? Math.round((hits * 100) / total) : 0;
   })();
   return (
-    <section className="card">
+    <section className="card glass floaty">
       <h2>Overview</h2>
+      <div className="animated-border mb-2" />
         <div className="metrics-grid">
           <MetricCard icon="fa-briefcase" label="Cases" value={metrics.case_count||0} />
           <MetricCard icon="fa-file-alt" label="Files" value={metrics.uploaded_files||0} />

@@ -252,8 +252,9 @@ function UploadSection() {
   });
   return (
     <ErrorBoundary>
-      <section className="card">
+      <section className="card glass glow-pulse">
         <h2>Upload</h2>
+      <div className="animated-border mb-2" />
       <input type="file" ref={inputRef} className="mb-3" webkitdirectory="" directory="" multiple />
       <div className="flex flex-wrap gap-2 mb-3">
         <select value={source} onChange={e=>setSource(e.target.value)} className="px-2 py-1 bg-gray-800 border border-gray-600 rounded">
