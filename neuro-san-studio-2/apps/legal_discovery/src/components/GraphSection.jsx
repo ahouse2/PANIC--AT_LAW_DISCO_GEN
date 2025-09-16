@@ -143,15 +143,17 @@ function GraphSection() {
   };
   if (loading) {
     return (
-      <section className="card">
+      <section className="card glass floaty">
         <h2>Knowledge Graph</h2>
+        <div className="animated-border mb-2" />
         <Skeleton className="h-48" />
       </section>
     );
   }
   return (
-    <section className="card">
+    <section className="card glass floaty">
       <h2>Knowledge Graph</h2>
+      <div className="animated-border mb-2" />
       <div className="flex flex-wrap" style={{ gap: theme.spacing.sm, marginBottom: theme.spacing.sm }}>
         <input
           type="text"
@@ -191,7 +193,7 @@ function GraphSection() {
         </div>
       </div>
       {exporting && <p style={{ fontSize: theme.typography.sizeSm, marginBottom: theme.spacing.xs }}>Exporting...</p>}
-      <div id="graph" style={{height:'360px', border:`1px solid ${theme.colors.border}`, borderRadius: theme.spacing.xs }} title="Click a node to set From/To for Trace Path"></div>
+      <div id="graph" className="glass" style={{height:'360px', border:`1px solid ${theme.colors.border}`, borderRadius: theme.spacing.xs, boxShadow:'0 0 22px rgba(69,242,255,0.22)'}} title="Click a node to set From/To for Trace Path"></div>
       <div className="text-xs mt-2" style={{ color:'#94a3b8' }}>
         <span className="mr-3"><span style={{display:'inline-block',width:10,height:10,background:'#f97316',borderRadius:2,marginRight:4}}></span>CAUSES</span>
         <span className="mr-3"><span style={{display:'inline-block',width:10,height:10,background:'#06b6d4',borderRadius:2,marginRight:4}}></span>OCCURS_BEFORE</span>
