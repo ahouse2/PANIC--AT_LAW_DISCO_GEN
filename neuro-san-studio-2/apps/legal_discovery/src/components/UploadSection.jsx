@@ -96,8 +96,16 @@ function UploadSection() {
   useEffect(() => {
     const s = io('/ws/upload', { transports: ["websocket"] });
     s.on('upload_progress', (ev) => {
-      if (!ev || !ev.job_id) return;
-      // Event-driven updates are supplemental; polling remains the source of truth
+      try {
+        if (ev && ev.rate) setRate(ev.rate);
+        if (ev && ev.job_id && ev.state) {
+          setJobs(prev => prev.map(j => (j.id === ev.job_id ? { ...j, state: ev.state } : j)));
+        }
+        if (ev && typeof ev.done === 'number' && typeof ev.total === 'number') {
+          const pct = Math.round((ev.done/Math.max(1,ev.total))*100);
+          setProg(pct);
+        }
+      } catch {}
     });
     return () => s.disconnect();
   }, []);
@@ -285,22 +293,25 @@ function UploadSection() {
       {loading && <Spinner />}
       {error && <ErrorBanner message={error} />}
       {prog>0 && (
-        <>
-          <progress value={prog} max="100" className="w-full mb-2"></progress>
-          {current && <p className="text-xs mb-2">Uploading: {current}</p>}
-          <div className="mb-2">
-            <p className="text-xs">Vector DB</p>
+        <div className="grid-cards mb-2">
+          <div className="glass p-2">
+            <div className="text-xs text-gray-300">Ingestion</div>
+            <progress value={prog} max="100" className="w-full"></progress>
+            {current && <p className="text-xs mt-1">Uploading: {current}</p>}
+          </div>
+          <div className="glass p-2">
+            <div className="text-xs text-gray-300">Vector DB</div>
             <progress value={vecProg} max="100" className="w-full"></progress>
           </div>
-          <div className="mb-2">
-            <p className="text-xs">Knowledge DB</p>
+          <div className="glass p-2">
+            <div className="text-xs text-gray-300">Knowledge DB</div>
             <progress value={kgProg} max="100" className="w-full"></progress>
           </div>
-          <div className="mb-2">
-            <p className="text-xs">Neo4j Graph</p>
+          <div className="glass p-2">
+            <div className="text-xs text-gray-300">Neo4j Graph</div>
             <progress value={neoProg} max="100" className="w-full"></progress>
           </div>
-        </>
+        </div>
       )}
       {jobs.length>0 && (
         <div className="mb-3" role="status" aria-live="polite">

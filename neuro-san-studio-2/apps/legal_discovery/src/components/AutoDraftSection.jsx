@@ -8,6 +8,7 @@ function AutoDraftSection() {
   const [output, setOutput] = useState("");
   const [reviewed, setReviewed] = useState(false);
   const [seeding, setSeeding] = useState(false);
+  const [citations, setCitations] = useState([]);
 
   useEffect(() => {
     fetch("/api/drafting/available").then(r => r.json()).then(d => setTypes((d && d.result && d.result.motions) || []));
@@ -55,6 +56,16 @@ function AutoDraftSection() {
     }
   };
 
+  useEffect(() => {
+    // naive extraction of citations: lines containing 'Exhibit', 'Doc', 'http'
+    const lines = (draft || '').split(/\n/);
+    const matches = lines
+      .map((t,i)=>({i, t}))
+      .filter(x=>/Exhibit|Doc\b|http(s)?:\/\//i.test(x.t))
+      .slice(0, 24);
+    setCitations(matches);
+  }, [draft]);
+
   return (
     <section className="card glass floaty">
       <h2>Auto Draft</h2>
@@ -72,13 +83,27 @@ function AutoDraftSection() {
         <button className="button-secondary" onClick={() => exportFile('pdf')} disabled={!reviewed}><i className="fa fa-file-pdf mr-1"></i>Export PDF</button>
       </div>
       <p className="text-sm mb-1">{reviewed ? "Draft reviewed" : "Review required before export"}</p>
-      <textarea
-        rows="10"
-        value={draft}
-        onChange={e=>{ setDraft(e.target.value); setReviewed(false); }}
-        className={`w-full p-2 rounded border ${reviewed ? 'border-green-500' : 'border-red-500'}`}
-        placeholder="Draft output for review..."
-      />
+      <div className="grid-cards">
+        <div className="glass p-2" style={{ gridColumn:'1 / span 2' }}>
+          <div className="text-xs text-gray-300 mb-1">Draft</div>
+          <textarea
+            rows="10"
+            value={draft}
+            onChange={e=>{ setDraft(e.target.value); setReviewed(false); }}
+            className={`w-full p-2 rounded border ${reviewed ? 'border-green-500' : 'border-red-500'}`}
+            placeholder="Draft output for review..."
+          />
+        </div>
+        <div className="glass p-2">
+          <div className="text-xs text-gray-300 mb-1">Citations (auto-detected)</div>
+          <ul className="text-xs space-y-1" style={{ maxHeight: 220, overflowY:'auto' }}>
+            {citations.map(c => (
+              <li key={c.i} title={`Line ${c.i+1}`}>{c.t}</li>
+            ))}
+            {!citations.length && <li className="text-gray-500">—</li>}
+          </ul>
+        </div>
+      </div>
       {output && <p className="text-sm">Output: <a href={'/uploads/'+output} target="_blank" rel="noopener noreferrer">{output}</a></p>}
     </section>
   );

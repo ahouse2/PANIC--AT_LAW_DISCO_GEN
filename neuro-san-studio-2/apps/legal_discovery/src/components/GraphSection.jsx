@@ -18,6 +18,7 @@ function GraphSection() {
   const [loading,setLoading] = useState(true);
   const [pathFrom,setPathFrom] = useState("");
   const [pathTo,setPathTo] = useState("");
+  const [miniSrc,setMiniSrc] = useState("");
   const load = useCallback(() => {
     setLoading(true);
     const url = '/api/graph' + (subnet?`?subnet=${encodeURIComponent(subnet)}`:'');
@@ -68,6 +69,7 @@ function GraphSection() {
     const onTap = (evt) => {
       const id = evt.target && evt.target.id && evt.target.id();
       if (!id) return;
+      try { evt.target.addClass('pulse'); setTimeout(()=>evt.target.removeClass('pulse'), 800); } catch {}
       if (!pathFrom) {
         setPathFrom(String(id));
       } else if (!pathTo) {
@@ -80,6 +82,14 @@ function GraphSection() {
     cy.on('tap','node',onTap);
     return () => { try { cy.off('tap','node',onTap); } catch(e){} };
   }, [nodes,edges]);
+  useEffect(() => {
+    const t = setInterval(() => {
+      if (cyRef.current) {
+        try { setMiniSrc(cyRef.current.png({ scale: 0.2 })); } catch {}
+      }
+    }, 2000);
+    return () => clearInterval(t);
+  }, []);
   const highlight = () => {
     if(!cyRef.current) return;
     const node = cyRef.current.getElementById(search);
@@ -193,7 +203,12 @@ function GraphSection() {
         </div>
       </div>
       {exporting && <p style={{ fontSize: theme.typography.sizeSm, marginBottom: theme.spacing.xs }}>Exporting...</p>}
-      <div id="graph" className="glass" style={{height:'360px', border:`1px solid ${theme.colors.border}`, borderRadius: theme.spacing.xs, boxShadow:'0 0 22px rgba(69,242,255,0.22)'}} title="Click a node to set From/To for Trace Path"></div>
+      <div style={{ position:'relative' }}>
+        <div id="graph" className="glass" style={{height:'360px', border:`1px solid ${theme.colors.border}`, borderRadius: theme.spacing.xs, boxShadow:'0 0 22px rgba(69,242,255,0.22)'}} title="Click a node to set From/To for Trace Path"></div>
+        {miniSrc && (
+          <img src={miniSrc} alt="mini-map" style={{ position:'absolute', right: 12, bottom: 12, width: 140, height: 90, opacity: 0.85, border:'1px solid '+theme.colors.border, borderRadius: 8 }} />
+        )}
+      </div>
       <div className="text-xs mt-2" style={{ color:'#94a3b8' }}>
         <span className="mr-3"><span style={{display:'inline-block',width:10,height:10,background:'#f97316',borderRadius:2,marginRight:4}}></span>CAUSES</span>
         <span className="mr-3"><span style={{display:'inline-block',width:10,height:10,background:'#06b6d4',borderRadius:2,marginRight:4}}></span>OCCURS_BEFORE</span>

@@ -1,7 +1,7 @@
 import React, { useEffect, useRef, useState } from "react";
 import { theme } from "../theme";
 
-function MetricCard({ icon, label, value }) {
+function MetricCard({ icon, label, value, series }) {
   const [display, setDisplay] = useState(0);
   const sparkRef = useRef(null);
   useEffect(() => {
@@ -29,14 +29,21 @@ function MetricCard({ icon, label, value }) {
     // background grid
     ctx.fillStyle = 'rgba(255,255,255,0.04)';
     for (let x=0; x<w; x+=12) ctx.fillRect(x, 0, 1, h);
-    // simple synthetic sparkline based on value
-    const pts = Array.from({length: 24}, (_,i) => ({ x: (i/(24-1))*w, y: h - (h*0.2 + (h*0.6)*(0.3 + 0.7*Math.random())) }));
+    // build sparkline points: prefer provided series, else synthetic based on value
+    let values = Array.isArray(series) && series.length ? series.slice(-24) : null;
+    if (!values) {
+      values = Array.from({length: 24}, () => Math.max(0, (Number(value)||0) * (0.8 + Math.random()*0.4)));
+    }
+    const min = Math.min(...values);
+    const max = Math.max(...values, 1);
+    const norm = (v) => (v - min) / (max - min || 1);
+    const pts = values.map((v,i) => ({ x: (i/(values.length-1))*w, y: h - (h*0.15 + (h*0.7)*norm(v)) }));
     ctx.beginPath();
     pts.forEach((p,i)=> i? ctx.lineTo(p.x,p.y): ctx.moveTo(p.x,p.y));
     const grad = ctx.createLinearGradient(0,0,w,0);
     grad.addColorStop(0, '#45F2FF'); grad.addColorStop(1, '#98FF32');
     ctx.strokeStyle = grad; ctx.shadowColor = 'rgba(69,242,255,0.5)'; ctx.shadowBlur = 6; ctx.lineWidth = 2; ctx.stroke();
-  }, [value, display]);
+  }, [value, display, series]);
 
   return (
     <div className="metric-card glass glow-pulse" style={{ padding: 8, borderRadius: 10 }}>
