@@ -37,6 +37,12 @@ function LegalTheorySection() {
   };
 
   const approve = (cause) => act('/api/theories/accept', cause);
+  const approveAndSeed = (theory) => {
+    act('/api/theories/accept', theory.cause);
+    try {
+      window.dispatchEvent(new CustomEvent('seedDraft', { detail: { cause: theory.cause, elements: theory.elements||[] } }));
+    } catch {}
+  };
   const reject = (cause) => act('/api/theories/reject', cause);
   const comment = (cause) => {
     const text = prompt('Comment on theory');
@@ -112,6 +118,7 @@ function LegalTheorySection() {
           )}
           <div className="flex gap-2">
             <button className="button-primary" onClick={() => approve(t.cause)}>Approve</button>
+            <button className="button-secondary" onClick={() => approveAndSeed(t)} title="Approve and send to Drafting">Approve + Seed Draft</button>
             <button className="button-secondary" onClick={() => reject(t.cause)}>Reject</button>
             <button className="button-secondary" onClick={() => comment(t.cause)}>Comment</button>
           </div>

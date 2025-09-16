@@ -1,7 +1,7 @@
 import React, { useEffect, useRef, useState } from "react";
 import { theme } from "../theme";
 
-function MetricCard({ icon, label, value, series }) {
+function MetricCard({ icon, label, value, series, delta }) {
   const [display, setDisplay] = useState(0);
   const sparkRef = useRef(null);
   useEffect(() => {
@@ -48,7 +48,15 @@ function MetricCard({ icon, label, value, series }) {
   return (
     <div className="metric-card glass glow-pulse" style={{ padding: 8, borderRadius: 10 }}>
       <i className={`fa ${icon} text-xl mb-1`} style={{ color: theme.colors.accent }} aria-hidden="true"></i>
-      <span className="value" aria-label={label+': '+display}>{display}</span>
+      <div className="flex items-center gap-2">
+        <span className="value" aria-label={label+': '+display}>{display}</span>
+        {typeof delta === 'number' && (
+          <span className={`text-xs ${delta>0? 'text-green-300':'text-red-300'}`} title="delta">
+            <i className={`fa ${delta>0? 'fa-arrow-up':'fa-arrow-down'} mr-1`}></i>
+            {Math.abs(delta)}%
+          </span>
+        )}
+      </div>
       <span className="label">{label}</span>
       <canvas ref={sparkRef} aria-hidden="true" style={{ width: 96, height: 28, marginTop: 4 }} />
     </div>

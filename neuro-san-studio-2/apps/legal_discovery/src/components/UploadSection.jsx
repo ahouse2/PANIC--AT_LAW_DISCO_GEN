@@ -70,6 +70,7 @@ function UploadSection() {
   const [neoProg,setNeoProg] = useState(0);
   const [current,setCurrent] = useState('');
   const [jobs, setJobs] = useState([]); // [{id, name, state}]
+  const [steps, setSteps] = useState({ ingest:'idle', ocr:'idle', embed:'idle', graph:'idle' });
   const [trend, setTrend] = useState([]); // [{t, v}]
   const [source,setSource] = useState('user');
   const [filter,setFilter] = useState('all');
@@ -104,6 +105,9 @@ function UploadSection() {
         if (ev && typeof ev.done === 'number' && typeof ev.total === 'number') {
           const pct = Math.round((ev.done/Math.max(1,ev.total))*100);
           setProg(pct);
+        }
+        if (ev && ev.step) {
+          setSteps(prev => ({ ...prev, [ev.step]: ev.step_state || 'working' }));
         }
       } catch {}
     });
@@ -310,6 +314,15 @@ function UploadSection() {
           <div className="glass p-2">
             <div className="text-xs text-gray-300">Neo4j Graph</div>
             <progress value={neoProg} max="100" className="w-full"></progress>
+          </div>
+          <div className="glass p-2">
+            <div className="text-xs text-gray-300 mb-1">Steps</div>
+            <div className="flex items-center gap-3 text-xs">
+              <span><span className={`led ${steps.ingest==='done'?'led-green': steps.ingest==='working'?'led-yellow':'led-gray'}`}></span> Ingest</span>
+              <span><span className={`led ${steps.ocr==='done'?'led-green': steps.ocr==='working'?'led-yellow':'led-gray'}`}></span> OCR</span>
+              <span><span className={`led ${steps.embed==='done'?'led-green': steps.embed==='working'?'led-yellow':'led-gray'}`}></span> Embed</span>
+              <span><span className={`led ${steps.graph==='done'?'led-green': steps.graph==='working'?'led-yellow':'led-gray'}`}></span> Graph</span>
+            </div>
           </div>
         </div>
       )}

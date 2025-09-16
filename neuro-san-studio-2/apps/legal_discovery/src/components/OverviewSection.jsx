@@ -28,16 +28,24 @@ function OverviewSection() {
     const total = hits + misses;
     return total ? Math.round((hits * 100) / total) : 0;
   })();
+  const deltaOf = (key) => {
+    const arr = seriesRef.current[key] || [];
+    if (arr.length < 2) return undefined;
+    const a = arr[arr.length-2];
+    const b = arr[arr.length-1];
+    const base = a === 0 ? 1 : a;
+    return Math.round(((b - a) / base) * 100);
+  };
   return (
     <section className="card glass floaty">
       <h2>Overview</h2>
       <div className="animated-border mb-2" />
         <div className="metrics-grid">
-          <MetricCard icon="fa-briefcase" label="Cases" value={metrics.case_count||0} series={seriesRef.current['case_count']} />
-          <MetricCard icon="fa-file-alt" label="Files" value={metrics.uploaded_files||0} series={seriesRef.current['uploaded_files']} />
-          <MetricCard icon="fa-tasks" label="Tasks" value={metrics.task_count||0} series={seriesRef.current['task_count']} />
-          <MetricCard icon="fa-database" label="Vectors" value={metrics.vector_docs||0} series={seriesRef.current['vector_docs']} />
-          <MetricCard icon="fa-project-diagram" label="Graph" value={metrics.graph_nodes||0} series={seriesRef.current['graph_nodes']} />
+          <MetricCard icon="fa-briefcase" label="Cases" value={metrics.case_count||0} series={seriesRef.current['case_count']} delta={deltaOf('case_count')} />
+          <MetricCard icon="fa-file-alt" label="Files" value={metrics.uploaded_files||0} series={seriesRef.current['uploaded_files']} delta={deltaOf('uploaded_files')} />
+          <MetricCard icon="fa-tasks" label="Tasks" value={metrics.task_count||0} series={seriesRef.current['task_count']} delta={deltaOf('task_count')} />
+          <MetricCard icon="fa-database" label="Vectors" value={metrics.vector_docs||0} series={seriesRef.current['vector_docs']} delta={deltaOf('vector_docs')} />
+          <MetricCard icon="fa-project-diagram" label="Graph" value={metrics.graph_nodes||0} series={seriesRef.current['graph_nodes']} delta={deltaOf('graph_nodes')} />
           <MetricCard icon="fa-bolt" label="Cache Hit %" value={hitRate} />
         </div>
       <button className="button-secondary" onClick={refresh}><i className="fa fa-sync mr-1"></i>Refresh</button>

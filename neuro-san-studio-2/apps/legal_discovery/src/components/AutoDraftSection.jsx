@@ -65,6 +65,19 @@ function AutoDraftSection() {
       .slice(0, 24);
     setCitations(matches);
   }, [draft]);
+  useEffect(() => {
+    const onSeed = (e) => {
+      try {
+        const { cause, elements=[] } = e.detail || {};
+        const els = elements.map(e => `- ${e.name || e}`).join('\n');
+        const header = `SEED: Accepted Theory -> ${cause}\nElements:\n${els}\n\n`;
+        setDraft(d => header + (d || ''));
+        setReviewed(false);
+      } catch {}
+    };
+    window.addEventListener('seedDraft', onSeed);
+    return () => window.removeEventListener('seedDraft', onSeed);
+  }, []);
 
   return (
     <section className="card glass floaty">
@@ -98,7 +111,11 @@ function AutoDraftSection() {
           <div className="text-xs text-gray-300 mb-1">Citations (auto-detected)</div>
           <ul className="text-xs space-y-1" style={{ maxHeight: 220, overflowY:'auto' }}>
             {citations.map(c => (
-              <li key={c.i} title={`Line ${c.i+1}`}>{c.t}</li>
+              <li key={c.i} title={`Line ${c.i+1}`}
+                onClick={() => { try { const m = c.t.match(/https?:\/\/\S+/); if (m) window.open(m[0], '_blank'); } catch {} }}
+                className="cursor-pointer hover:underline">
+                {c.t}
+              </li>
             ))}
             {!citations.length && <li className="text-gray-500">—</li>}
           </ul>
