@@ -147,7 +147,10 @@ function GraphSection() {
         rels.forEach(rel => {
           const edgeId = `${rel.src}_${rel.dst}_${rel.type||''}`;
           const el = cyRef.current.getElementById(edgeId);
-          if (el && el.length) el.addClass('trace');
+          if (el && el.length) {
+            el.addClass('trace');
+            try { el.animation({ style: { width: 8 } }, { duration: 500 }).play(); } catch {}
+          }
         });
       });
   };
