@@ -5,6 +5,7 @@ function OverviewSection() {
   const [metrics,setMetrics] = useState({});
   const seriesRef = useRef({});
   const [tick,setTick] = useState(0);
+  const lastToastRef = useRef({ cache:false });
   const refresh = async () => {
     try {
       const d = await fetchJSON('/api/metrics');
@@ -19,6 +20,16 @@ function OverviewSection() {
         if (seriesRef.current[k].length > 48) seriesRef.current[k].shift();
       });
       setTick(x=>x+1);
+      // Threshold toasts (example: cache hit% < 70)
+      const hits = Number(data.cache_hits||0); const misses = Number(data.cache_misses||0);
+      const total = hits + misses; const hitPct = total ? Math.round((hits*100)/total) : 100;
+      if (hitPct < 70 && !lastToastRef.current.cache) {
+        try { window.dispatchEvent(new CustomEvent('toast',{ detail:{ type:'warning', message:`Low cache hits (${hitPct}%).` }})); } catch {}
+        lastToastRef.current.cache = true;
+      }
+      if (hitPct >= 75 && lastToastRef.current.cache) {
+        lastToastRef.current.cache = false;
+      }
     } catch {}
   };
   useEffect(() => { refresh(); const t = setInterval(refresh, 5000); return () => clearInterval(t); }, []);

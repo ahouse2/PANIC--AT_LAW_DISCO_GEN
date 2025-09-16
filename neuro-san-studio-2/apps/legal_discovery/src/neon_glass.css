@@ -83,6 +83,22 @@ body { background: radial-gradient(1000px 600px at 20% -10%, rgba(69,242,255,0.0
 .floaty { animation: floaty 5s ease-in-out infinite; }
 .pulse { animation: neonPulse 0.8s ease-in-out 1; }
 
+/* Dim non-focused graph elements */
+.faded { opacity: 0.15; transition: opacity 240ms ease; }
+
+/* Chain-reaction banners */
+.banner {
+  padding: 8px 12px;
+  border-radius: 10px;
+  border: 1px solid rgba(255,255,255,0.08);
+  color: #dbeafe;
+}
+.banner-gradient {
+  background: linear-gradient(90deg, rgba(69,242,255,0.22), rgba(152,255,50,0.18), rgba(255,92,244,0.18));
+  background-size: 200% 100%;
+  animation: sweep 6s linear infinite;
+}
+
 .animated-border {
   background: linear-gradient(90deg, rgba(152,255,50,0.25), rgba(69,242,255,0.25), rgba(255,92,244,0.25));
   background-size: 200% 100%;

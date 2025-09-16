@@ -9,6 +9,7 @@ function AutoDraftSection() {
   const [reviewed, setReviewed] = useState(false);
   const [seeding, setSeeding] = useState(false);
   const [citations, setCitations] = useState([]);
+  const areaRef = React.useRef(null);
 
   useEffect(() => {
     fetch("/api/drafting/available").then(r => r.json()).then(d => setTypes((d && d.result && d.result.motions) || []));
@@ -65,6 +66,14 @@ function AutoDraftSection() {
       .slice(0, 24);
     setCitations(matches);
   }, [draft]);
+  const insertAtCursor = (text) => {
+    const el = areaRef.current; if (!el) return;
+    const start = el.selectionStart || 0; const end = el.selectionEnd || 0;
+    const before = draft.slice(0, start); const after = draft.slice(end);
+    const next = before + text + after;
+    setDraft(next); setReviewed(false);
+    setTimeout(() => { try { el.focus(); el.selectionStart = el.selectionEnd = start + text.length; } catch {} }, 0);
+  };
   useEffect(() => {
     const onSeed = (e) => {
       try {
@@ -102,6 +111,7 @@ function AutoDraftSection() {
           <textarea
             rows="10"
             value={draft}
+            ref={areaRef}
             onChange={e=>{ setDraft(e.target.value); setReviewed(false); }}
             className={`w-full p-2 rounded border ${reviewed ? 'border-green-500' : 'border-red-500'}`}
             placeholder="Draft output for review..."
@@ -111,10 +121,9 @@ function AutoDraftSection() {
           <div className="text-xs text-gray-300 mb-1">Citations (auto-detected)</div>
           <ul className="text-xs space-y-1" style={{ maxHeight: 220, overflowY:'auto' }}>
             {citations.map(c => (
-              <li key={c.i} title={`Line ${c.i+1}`}
-                onClick={() => { try { const m = c.t.match(/https?:\/\/\S+/); if (m) window.open(m[0], '_blank'); } catch {} }}
-                className="cursor-pointer hover:underline">
-                {c.t}
+              <li key={c.i} title={`Line ${c.i+1}`} className="flex items-center justify-between gap-2">
+                <span onClick={() => { try { const m = c.t.match(/https?:\/\/\S+/); if (m) window.open(m[0], '_blank'); } catch {} }} className="cursor-pointer hover:underline flex-1">{c.t}</span>
+                <button className="button-secondary text-xs" onClick={()=>insertAtCursor(`[CITE:${c.t.substring(0,48)}]`)}>Insert</button>
               </li>
             ))}
             {!citations.length && <li className="text-gray-500">—</li>}
